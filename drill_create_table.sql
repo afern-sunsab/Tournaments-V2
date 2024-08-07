@@ -17,11 +17,13 @@ CREATE TABLE DB_Group (
 
 CREATE TABLE DB_Pad (
     Pad_ID INT PRIMARY KEY,
+	Pad_Name VARCHAR(255),
     Group_ID INT REFERENCES DB_Group(Group_ID)
 );
 
 CREATE TABLE DB_Well (
     Well_ID INT PRIMARY KEY,
+	Well_Name VARCHAR(255),
 	Pad_ID INT REFERENCES DB_Pad(Pad_ID)
 );
 
