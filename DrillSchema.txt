@@ -1,0 +1,72 @@
+DB_Survey_Measurments
+	Measurment_ID 	PRIMARY KEY
+	Survey_Design	INT REFERENCES DB_Survey_Design(Survey_ID)
+	Measured_Depth	(Double)
+	Inclination	(Double)
+	Azimuth		(Double)
+	TVD		(Double)
+	Subsea		(Double)
+	Vertical_Section(Double)
+	Dogleg		(Double)
+	NS		(Double)
+	EW		(Double)
+	Delta_X		(Double)
+	Delta_Y		(Double)
+
+DB_Fracture_Mesurments
+	Measurement_ID PRIMARY KEY,
+    	Fracture_Design_ID INT REFERENCES DB_Fracture_Design(Fracture_ID)
+	EW_Surface_Plus	(Double)
+	EW_Surface_Minus(Double)
+	NS_Surface_Plus	(Double)
+	NS_Surface_Minus(Double)
+	TVD_Subsea_Plus	(Double)
+	TVD_Subsea_Minus(Double)
+	
+DB_Survey_Paramaters
+	Paramater_ID 	PRIMARY KEY
+   	Survey_Design_ID INT REFERENCES DB_Survey_Design(Survey_ID),
+	Surface_X	(Double)
+	Surface_Y	(Double)
+	KB_Elevation	(Double)
+
+DB_Fracture_Paramaters
+ 	Parameter_ID PRIMARY KEY
+    	Fracture_Design_ID INT REFERENCES DB_Fracture_Design(Fracture_ID),
+	Half_Length	(Double)
+	Azimuth		(Double)
+	Height		(Double)
+
+DB_Survey_Design
+	Survey_ID PRIMARY KEY
+	Lateral_Length 	(Double)
+	Well_Spacing	(Double)
+	Drill_Turn	(Double)
+	Turn_Direction 	(Bool)
+	Lateral_Azimuth (Double)
+	Total_Depth	(Double)
+	Drill_Build	(Double)
+	Lateral_Dip	(Double)
+	
+DB_Fracture_Design
+	Fracture_ID PRIMARY KEY
+	Fracture_Spacing	(Double)
+	Backoff			(Double)
+	Inclination_Cutoff	(Double)
+	Joint_Length		(Double)
+	Survey_Design		(JSON)
+
+DB_Well
+	Well_ID PRIMARY KEY
+	Survey_ID INT REFERENCES DB_Survey_Design(Survey_ID),
+	Fracture_ID INT REFERENCES DB_Fracture_Design(Fracture_ID)
+
+DB_Pad
+	Pad_ID PRIMARY KEY
+	Well_ID INT REFERENCES DB_Well(Well_ID)
+	
+
+DB_Group
+	Group_ID PRIMARY KEY
+	Pad_ID INT REFERENCES DB_Pad(Pad_ID)
+
