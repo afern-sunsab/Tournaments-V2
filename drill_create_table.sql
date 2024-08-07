@@ -50,7 +50,6 @@ CREATE TABLE DB_Fracture_Design (
 
 CREATE TABLE DB_Survey_Measurements (
     Measurment_ID INT PRIMARY KEY,
-    Survey_Design INT REFERENCES DB_Survey_Design(Survey_ID),
     Measured_Depth double precision,
     Inclination double precision,
     Azimuth double precision,
@@ -67,7 +66,6 @@ CREATE TABLE DB_Survey_Measurements (
 
 CREATE TABLE DB_Fracture_Measurements (
     Measurement_ID INT PRIMARY KEY,
-    Fracture_Design_ID INT REFERENCES DB_Fracture_Design(Fracture_ID),
     EW_Surface_Plus double precision,
     EW_Surface_Minus double precision,
     NS_Surface_Plus double precision,
@@ -79,7 +77,6 @@ CREATE TABLE DB_Fracture_Measurements (
 
 CREATE TABLE DB_Survey_Parameters (
     Paramater_ID INT PRIMARY KEY,
-    Survey_Design_ID INT REFERENCES DB_Survey_Design(Survey_ID),
     Surface_X double precision,
     Surface_Y double precision,
     KB_Elevation double precision,
@@ -88,7 +85,6 @@ CREATE TABLE DB_Survey_Parameters (
 
 CREATE TABLE DB_Fracture_Parameters (
     Parameter_ID INT PRIMARY KEY,
-    Fracture_Design_ID INT REFERENCES DB_Fracture_Design(Fracture_ID),
     Half_Length double precision,
     Azimuth double precision,
     Height double precision,
