@@ -37,7 +37,14 @@ CREATE TABLE DB_Survey_Design (
     Total_Depth double precision,
     Drill_Build double precision,
     Lateral_Dip double precision,
-	Well_ID INT REFERENCES DB_Well(Well_ID)
+	Well_ID INT REFERENCES DB_Well(Well_ID),
+	check (Lateral_Length >= 0 and Lateral_Length <= 1e5),
+	check (Drill_Build >= 1 and Drill_Build <= 30),
+	check (Drill_Turn >= 1 and Drill_Turn <= 30),
+	check (Well_Spacing >= 0),
+	check (Lateral_Azimuth >= 0 and Lateral_Azimuth <= 360),
+	check (Lateral_Dip >= -5 and Lateral_Dip <= 5)
+
 );
 
 CREATE TABLE DB_Fracture_Design (
@@ -46,7 +53,6 @@ CREATE TABLE DB_Fracture_Design (
     Backoff double precision,
     Inclination_Cutoff double precision,
     Joint_Length double precision,
-    Survey_Design JSON,
 	Well_ID INT REFERENCES DB_Well(Well_ID)
 );
 
@@ -82,7 +88,10 @@ CREATE TABLE DB_Survey_Parameters (
     Surface_X double precision,
     Surface_Y double precision,
     KB_Elevation double precision,
-	Well_ID INT REFERENCES DB_Well(Well_ID)
+	Well_ID INT REFERENCES DB_Well(Well_ID),
+	check (Surface_X >= -1e8 and Surface_X <= 1e8),
+	check (Surface_Y >= -1e8 and Surface_Y <= 1e8),
+	check (KB_Elevation >= -1e5 and KB_Elevation <= 1e5)
 );
 
 CREATE TABLE DB_Fracture_Parameters (
