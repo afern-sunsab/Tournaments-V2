@@ -1,5 +1,5 @@
-DB_Survey_Measurments
-	Measurment_ID 	PRIMARY KEY
+DB_Survey_Measurements
+	Measurement_ID 	PRIMARY KEY
 	Survey_Design	INT REFERENCES DB_Survey_Design(Survey_ID)
 	Measured_Depth	(Double)
 	Inclination	(Double)
@@ -13,7 +13,7 @@ DB_Survey_Measurments
 	Delta_X		(Double)
 	Delta_Y		(Double)
 
-DB_Fracture_Mesurments
+DB_Fracture_Measurements
 	Measurement_ID PRIMARY KEY,
     	Fracture_Design_ID INT REFERENCES DB_Fracture_Design(Fracture_ID)
 	EW_Surface_Plus	(Double)
@@ -23,14 +23,14 @@ DB_Fracture_Mesurments
 	TVD_Subsea_Plus	(Double)
 	TVD_Subsea_Minus(Double)
 	
-DB_Survey_Paramaters
-	Paramater_ID 	PRIMARY KEY
+DB_Survey_Parameters
+	Parameter_ID 	PRIMARY KEY
    	Survey_Design_ID INT REFERENCES DB_Survey_Design(Survey_ID),
 	Surface_X	(Double)
 	Surface_Y	(Double)
 	KB_Elevation	(Double)
 
-DB_Fracture_Paramaters
+DB_Fracture_Parameters
  	Parameter_ID PRIMARY KEY
     	Fracture_Design_ID INT REFERENCES DB_Fracture_Design(Fracture_ID),
 	Half_Length	(Double)

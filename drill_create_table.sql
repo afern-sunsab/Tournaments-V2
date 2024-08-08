@@ -1,103 +1,110 @@
 -- Drop existing tables if they exist
-DROP TABLE IF EXISTS DB_Survey_Measurements CASCADE;
-DROP TABLE IF EXISTS DB_Fracture_Measurements CASCADE;
-DROP TABLE IF EXISTS DB_Survey_Parameters CASCADE;
-DROP TABLE IF EXISTS DB_Fracture_Parameters CASCADE;
-DROP TABLE IF EXISTS DB_Survey_Design CASCADE;
-DROP TABLE IF EXISTS DB_Fracture_Design CASCADE;
-DROP TABLE IF EXISTS DB_Well CASCADE;
-DROP TABLE IF EXISTS DB_Pad CASCADE;
-DROP TABLE IF EXISTS DB_Group CASCADE;
+DROP TABLE IF EXISTS DB_SURVEY_MEASUREMENTS CASCADE;
+
+DROP TABLE IF EXISTS DB_FRACTURE_MEASUREMENTS CASCADE;
+
+DROP TABLE IF EXISTS DB_SURVEY_PARAMETERS CASCADE;
+
+DROP TABLE IF EXISTS DB_FRACTURE_PARAMETERS CASCADE;
+
+DROP TABLE IF EXISTS DB_SURVEY_DESIGN CASCADE;
+
+DROP TABLE IF EXISTS DB_FRACTURE_DESIGN CASCADE;
+
+DROP TABLE IF EXISTS DB_WELL CASCADE;
+
+DROP TABLE IF EXISTS DB_PAD CASCADE;
+
+DROP TABLE IF EXISTS DB_GROUP CASCADE;
 
 -- Create tables
-CREATE TABLE DB_Group (
-    Group_ID INT PRIMARY KEY,
-	Group_Name VARCHAR(255)
+CREATE TABLE DB_GROUP (
+    GROUP_ID INT PRIMARY KEY,
+    GROUP_NAME VARCHAR(255)
 );
 
-CREATE TABLE DB_Pad (
-    Pad_ID INT PRIMARY KEY,
-	Pad_Name VARCHAR(255),
-    Group_ID INT REFERENCES DB_Group(Group_ID)
+CREATE TABLE DB_PAD (
+    PAD_ID INT PRIMARY KEY,
+    PAD_NAME VARCHAR(255),
+    GROUP_ID INT REFERENCES DB_GROUP(GROUP_ID)
 );
 
-CREATE TABLE DB_Well (
-    Well_ID INT PRIMARY KEY,
-	Well_Name VARCHAR(255),
-	Pad_ID INT REFERENCES DB_Pad(Pad_ID)
+CREATE TABLE DB_WELL (
+    WELL_ID INT PRIMARY KEY,
+    WELL_NAME VARCHAR(255),
+    PAD_ID INT REFERENCES DB_PAD(PAD_ID)
 );
 
-CREATE TABLE DB_Survey_Design (
-    Survey_ID INT PRIMARY KEY,
-    Lateral_Length double precision,
-    Well_Spacing double precision,
-    Drill_Turn double precision,
-    Turn_Direction BOOLEAN,
-    Lateral_Azimuth double precision,
-    Total_Depth double precision,
-    Drill_Build double precision,
-    Lateral_Dip double precision,
-	Well_ID INT REFERENCES DB_Well(Well_ID),
-	check (Lateral_Length >= 0 and Lateral_Length <= 1e5),
-	check (Drill_Build >= 1 and Drill_Build <= 30),
-	check (Drill_Turn >= 1 and Drill_Turn <= 30),
-	check (Well_Spacing >= 0),
-	check (Lateral_Azimuth >= 0 and Lateral_Azimuth <= 360),
-	check (Lateral_Dip >= -5 and Lateral_Dip <= 5)
-
+CREATE TABLE DB_SURVEY_DESIGN (
+    SURVEY_ID INT PRIMARY KEY,
+    LATERAL_LENGTH DOUBLE PRECISION,
+    WELL_SPACING DOUBLE PRECISION,
+    DRILL_TURN DOUBLE PRECISION,
+    TURN_DIRECTION BOOLEAN,
+    LATERAL_AZIMUTH DOUBLE PRECISION,
+    TOTAL_DEPTH DOUBLE PRECISION,
+    DRILL_BUILD DOUBLE PRECISION,
+    LATERAL_DIP DOUBLE PRECISION,
+    WELL_ID INT REFERENCES DB_WELL(WELL_ID),
+    CHECK (LATERAL_LENGTH >= 0 AND LATERAL_LENGTH <= 1e5),
+    CHECK (DRILL_BUILD >= 1 AND DRILL_BUILD <= 30),
+    CHECK (DRILL_TURN >= 1 AND DRILL_TURN <= 30),
+    CHECK (WELL_SPACING >= 0),
+    CHECK (LATERAL_AZIMUTH >= 0 AND LATERAL_AZIMUTH <= 360),
+    CHECK (LATERAL_DIP >= -5 AND LATERAL_DIP <= 5)
 );
 
-CREATE TABLE DB_Fracture_Design (
-    Fracture_ID INT PRIMARY KEY,
-    Fracture_Spacing double precision,
-    Backoff double precision,
-    Inclination_Cutoff double precision,
-    Joint_Length double precision,
-	Well_ID INT REFERENCES DB_Well(Well_ID)
+CREATE TABLE DB_FRACTURE_DESIGN (
+    FRACTURE_ID INT PRIMARY KEY,
+    FRACTURE_SPACING DOUBLE PRECISION,
+    BACKOFF DOUBLE PRECISION,
+    INCLINATION_CUTOFF DOUBLE PRECISION,
+    JOINT_LENGTH DOUBLE PRECISION,
+    WELL_ID INT REFERENCES DB_WELL(WELL_ID)
 );
 
-CREATE TABLE DB_Survey_Measurements (
-    Measurment_ID INT PRIMARY KEY,
-    Measured_Depth double precision,
-    Inclination double precision,
-    Azimuth double precision,
-    TVD double precision,
-    Subsea double precision,
-    Vertical_Section double precision,
-    Dogleg double precision,
-    NS double precision,
-    EW double precision,
-    Delta_X double precision,
-    Delta_Y double precision,
-	Well_ID INT REFERENCES DB_Well(Well_ID)
+CREATE TABLE DB_SURVEY_MEASUREMENTS (
+    MEASURMENT_ID INT PRIMARY KEY,
+    MEASURED_DEPTH DOUBLE PRECISION,
+    INCLINATION DOUBLE PRECISION,
+    AZIMUTH DOUBLE PRECISION,
+    TVD DOUBLE PRECISION,
+    SUBSEA DOUBLE PRECISION,
+    VERTICAL_SECTION DOUBLE PRECISION,
+    DOGLEG DOUBLE PRECISION,
+    NS DOUBLE PRECISION,
+    EW DOUBLE PRECISION,
+    DELTA_X DOUBLE PRECISION,
+    DELTA_Y DOUBLE PRECISION,
+    WELL_ID INT REFERENCES DB_WELL(WELL_ID)
 );
 
-CREATE TABLE DB_Fracture_Measurements (
-    Measurement_ID INT PRIMARY KEY,
-    EW_Surface_Plus double precision,
-    EW_Surface_Minus double precision,
-    NS_Surface_Plus double precision,
-    NS_Surface_Minus double precision,
-    TVD_Subsea_Plus double precision,
-    TVD_Subsea_Minus double precision,
-	Well_ID INT REFERENCES DB_Well(Well_ID)
+CREATE TABLE DB_FRACTURE_MEASUREMENTS (
+    MEASUREMENT_ID INT PRIMARY KEY,
+    EW_SURFACE_PLUS DOUBLE PRECISION,
+    EW_SURFACE_MINUS DOUBLE PRECISION,
+    NS_SURFACE_PLUS DOUBLE PRECISION,
+    NS_SURFACE_MINUS DOUBLE PRECISION,
+    TVD_SUBSEA_PLUS DOUBLE PRECISION,
+    TVD_SUBSEA_MINUS DOUBLE PRECISION,
+    WELL_ID INT REFERENCES DB_WELL(WELL_ID)
 );
 
-CREATE TABLE DB_Survey_Parameters (
-    Paramater_ID INT PRIMARY KEY,
-    Surface_X double precision,
-    Surface_Y double precision,
-    KB_Elevation double precision,
-	Well_ID INT REFERENCES DB_Well(Well_ID),
-	check (Surface_X >= -1e8 and Surface_X <= 1e8),
-	check (Surface_Y >= -1e8 and Surface_Y <= 1e8),
-	check (KB_Elevation >= -1e5 and KB_Elevation <= 1e5)
+CREATE TABLE DB_SURVEY_PARAMETERS (
+    PARAMETER_ID INT PRIMARY KEY,
+    SURFACE_X DOUBLE PRECISION,
+    SURFACE_Y DOUBLE PRECISION,
+    KB_ELEVATION DOUBLE PRECISION,
+    WELL_ID INT REFERENCES DB_WELL(WELL_ID),
+    CHECK (SURFACE_X >= -1e8 AND SURFACE_X <= 1e8),
+    CHECK (SURFACE_Y >= -1e8 AND SURFACE_Y <= 1e8),
+    CHECK (KB_ELEVATION >= -1e5 AND KB_ELEVATION <= 1e5)
 );
 
-CREATE TABLE DB_Fracture_Parameters (
-    Parameter_ID INT PRIMARY KEY,
-    Half_Length double precision,
-    Azimuth double precision,
-    Height double precision,
-	Well_ID INT REFERENCES DB_Well(Well_ID)
+CREATE TABLE DB_FRACTURE_PARAMETERS (
+    PARAMETER_ID INT PRIMARY KEY,
+    HALF_LENGTH DOUBLE PRECISION,
+    AZIMUTH DOUBLE PRECISION,
+    HEIGHT DOUBLE PRECISION,
+    WELL_ID INT REFERENCES DB_WELL(WELL_ID)
 );
