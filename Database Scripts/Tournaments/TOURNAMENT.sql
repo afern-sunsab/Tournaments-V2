@@ -1,0 +1,25999 @@
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    1,
+    'Rhynoodle',
+    'syndicate innovative e-services',
+    82,
+    421,
+    '8397 Oneill Place',
+    '9/26/2024',
+    '5/27/2026',
+    'be452527-14b9-4bbd-9b26-a3b74051f5e2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    2,
+    'Kazio',
+    'synthesize synergistic models',
+    71,
+    768,
+    '2 Kropf Junction',
+    '6/3/2025',
+    '7/24/2025',
+    '701a872e-52bd-4ee3-a455-ec43cb53715c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    3,
+    'Browsezoom',
+    'transition proactive methodologies',
+    97,
+    906,
+    '713 Merry Terrace',
+    '10/24/2024',
+    '11/28/2024',
+    'b74f8cea-c682-4c93-a72e-82888fad57ba',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    4,
+    'Flipstorm',
+    'redefine real-time web services',
+    30,
+    685,
+    '74582 Leroy Parkway',
+    '6/21/2025',
+    '1/22/2026',
+    '2ab38185-4913-44c6-b9f8-b0a69e55e793',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    5,
+    'Dazzlesphere',
+    'e-enable compelling eyeballs',
+    98,
+    170,
+    '4505 Bellgrove Pass',
+    '5/25/2026',
+    '7/18/2025',
+    'e2a395d3-fcaf-4766-aff4-b79d4a6a8180',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    6,
+    'Roombo',
+    'strategize killer convergence',
+    75,
+    694,
+    '6 Jackson Street',
+    '6/25/2026',
+    '10/12/2025',
+    '028d2928-d14c-49ce-b18e-d5dbaeb0a4f5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    7,
+    'Fadeo',
+    'strategize cross-media web-readiness',
+    97,
+    834,
+    '84 South Court',
+    '12/19/2024',
+    '12/29/2024',
+    'e0677ffd-5f71-4bfd-8898-5433f4aaad71',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    8,
+    'Fadeo',
+    'morph best-of-breed infrastructures',
+    12,
+    41,
+    '5 Hanson Junction',
+    '1/25/2026',
+    '2/5/2025',
+    '4cd313ed-23c8-41ed-9c4a-52dbf7f42048',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    9,
+    'Buzzster',
+    'reintermediate open-source infrastructures',
+    65,
+    56,
+    '0 Doe Crossing Center',
+    '9/5/2024',
+    '3/19/2025',
+    '50ad6e51-16b3-49c4-b38e-1434d0a75ce2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    10,
+    'Zoombeat',
+    'syndicate cross-media e-services',
+    44,
+    843,
+    '9 Lerdahl Alley',
+    '1/23/2025',
+    '6/13/2025',
+    '6081edf5-0797-4069-877e-47b499ee687e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    11,
+    'Tavu',
+    'reintermediate rich web services',
+    17,
+    911,
+    '12 Farwell Lane',
+    '1/31/2025',
+    '1/21/2026',
+    'f70c011b-22d1-45c8-8465-5e823e0e45cc',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    12,
+    'Twitterwire',
+    'engineer next-generation content',
+    72,
+    819,
+    '293 American Trail',
+    '3/15/2025',
+    '5/23/2026',
+    'b170678e-476f-4859-a501-ecf3559cffd5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    13,
+    'Tambee',
+    'iterate frictionless communities',
+    8,
+    629,
+    '7826 Ryan Way',
+    '7/14/2026',
+    '9/5/2024',
+    'e4f44fc7-e215-438b-8bc8-cd509537351b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    14,
+    'Thoughtbeat',
+    'synthesize leading-edge convergence',
+    29,
+    874,
+    '95300 Darwin Way',
+    '7/13/2026',
+    '8/31/2025',
+    '7645850f-83a2-4a03-acf1-c7b669f1b909',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    15,
+    'Skyba',
+    'iterate extensible systems',
+    39,
+    503,
+    '701 Scofield Place',
+    '12/5/2024',
+    '8/12/2025',
+    '67e70672-adca-429f-8109-2a8a53c5d28e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    16,
+    'Skinder',
+    'expedite B2B methodologies',
+    9,
+    288,
+    '3233 Forest Street',
+    '4/26/2025',
+    '4/11/2026',
+    '2dbc2326-41e2-4841-aa65-1875ec65872c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    17,
+    'Topiclounge',
+    'morph open-source content',
+    92,
+    356,
+    '5037 Namekagon Alley',
+    '6/4/2025',
+    '7/4/2026',
+    '00f8ef13-d614-4cae-9f0f-00ef5f029516',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    18,
+    'Livetube',
+    'target customized interfaces',
+    82,
+    59,
+    '7 Lake View Plaza',
+    '6/25/2025',
+    '12/3/2025',
+    'cd02eb4c-3cef-4767-9f3e-bd78b8910733',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    19,
+    'Meevee',
+    'maximize next-generation convergence',
+    100,
+    363,
+    '053 Melody Trail',
+    '4/24/2025',
+    '7/17/2025',
+    '89d9f056-43a8-4379-b564-3d2f549309a9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    20,
+    'Skyndu',
+    'redefine synergistic solutions',
+    55,
+    677,
+    '339 Macpherson Trail',
+    '7/8/2026',
+    '4/13/2026',
+    'b95df8a5-1cf1-4d76-9d6f-b0f691110d9d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    21,
+    'Roomm',
+    'implement strategic solutions',
+    77,
+    648,
+    '2 Bluejay Plaza',
+    '4/18/2026',
+    '5/31/2025',
+    '88a500f0-1f2e-419c-a266-73cb44ae2fd0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    22,
+    'Rooxo',
+    'revolutionize B2C metrics',
+    48,
+    615,
+    '2 Mifflin Center',
+    '11/1/2024',
+    '1/11/2026',
+    '9c2398c0-f0ee-4c00-a0c8-a27fd19431ed',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    23,
+    'Skyba',
+    'productize dynamic infomediaries',
+    14,
+    287,
+    '5 Pierstorff Avenue',
+    '4/3/2026',
+    '2/19/2025',
+    '62302b9e-5745-426e-9e75-45273433f40b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    24,
+    'Mydeo',
+    'evolve innovative architectures',
+    66,
+    881,
+    '901 Red Cloud Place',
+    '2/21/2026',
+    '7/22/2025',
+    '67044f11-a514-4b47-88da-08490cc13d06',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    25,
+    'Brainsphere',
+    'strategize frictionless action-items',
+    39,
+    350,
+    '1 Sachtjen Terrace',
+    '6/24/2025',
+    '7/12/2025',
+    'd1953743-69fd-4ac2-b91a-755c6401df5f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    26,
+    'Quire',
+    'orchestrate efficient e-markets',
+    87,
+    841,
+    '9 Browning Crossing',
+    '4/16/2026',
+    '1/18/2025',
+    'b6219b3e-8047-4eb8-b410-6e3c67915d0c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    27,
+    'Trilia',
+    'implement real-time action-items',
+    50,
+    877,
+    '28350 Pennsylvania Alley',
+    '12/22/2024',
+    '8/26/2024',
+    '6be9914e-f336-4201-8d29-eb84a9db3678',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    28,
+    'Riffpath',
+    'exploit user-centric supply-chains',
+    48,
+    113,
+    '802 Atwood Avenue',
+    '7/23/2026',
+    '7/14/2025',
+    '14163b34-8338-4ed6-87ad-6fcb06dd322a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    29,
+    'Gigabox',
+    'reintermediate strategic metrics',
+    85,
+    629,
+    '21 Loeprich Avenue',
+    '9/22/2024',
+    '5/2/2026',
+    '09a75357-c9e5-4266-93f3-5d3f5f47fe44',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    30,
+    'Pixoboo',
+    'evolve global functionalities',
+    30,
+    885,
+    '883 Novick Junction',
+    '6/30/2026',
+    '9/14/2024',
+    '3f542d03-8b68-4199-b9da-921a8e089c0b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    31,
+    'Voonyx',
+    'architect innovative e-commerce',
+    76,
+    765,
+    '1470 Mariners Cove Circle',
+    '11/24/2024',
+    '1/28/2025',
+    '388bc30f-521c-47bc-9b79-afdd738a1feb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    32,
+    'Photolist',
+    'incubate e-business networks',
+    91,
+    193,
+    '97114 Mccormick Street',
+    '12/10/2025',
+    '4/1/2026',
+    'd0e3f118-eff9-4f92-818c-84643dc9829f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    33,
+    'Lazz',
+    'deploy ubiquitous experiences',
+    67,
+    394,
+    '516 Orin Road',
+    '9/14/2025',
+    '3/29/2025',
+    'c8a3978f-9248-401e-9cc8-ff1480016f45',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    34,
+    'Oyonder',
+    'grow end-to-end initiatives',
+    88,
+    781,
+    '995 Bayside Crossing',
+    '3/15/2026',
+    '9/11/2024',
+    'a5aace9d-28e3-4dc2-8b7a-225be3f6215b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    35,
+    'Skipstorm',
+    'integrate granular action-items',
+    78,
+    928,
+    '50749 Mallard Lane',
+    '7/17/2026',
+    '5/20/2026',
+    '25905ef2-ac0d-4d14-b0a4-c832254df741',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    36,
+    'Dynazzy',
+    'revolutionize value-added markets',
+    72,
+    567,
+    '74 Pepper Wood Court',
+    '6/8/2026',
+    '2/19/2026',
+    'c02a5454-1bcb-456f-96db-72a0010e1294',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    37,
+    'Midel',
+    'synthesize best-of-breed infrastructures',
+    54,
+    500,
+    '44 Di Loreto Lane',
+    '8/22/2025',
+    '9/22/2025',
+    '0f538532-5f32-4498-adab-f875aab231bf',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    38,
+    'Photojam',
+    'unleash leading-edge architectures',
+    57,
+    991,
+    '4005 Stoughton Street',
+    '2/20/2025',
+    '3/25/2026',
+    '2afd328b-b5c7-4a0e-811d-fc3d35daf654',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    39,
+    'Yakitri',
+    'reinvent strategic action-items',
+    63,
+    116,
+    '5 Esker Road',
+    '5/15/2026',
+    '2/22/2026',
+    '9c9d0db2-1862-4246-babb-1aa5c8a0d2d3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    40,
+    'Brightbean',
+    'revolutionize cross-platform communities',
+    74,
+    949,
+    '8146 Tennessee Point',
+    '3/31/2025',
+    '3/21/2025',
+    '620997ac-4c3b-4125-8a3f-8714b102280e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    41,
+    'Ooba',
+    'unleash scalable methodologies',
+    99,
+    602,
+    '90108 Northwestern Road',
+    '6/23/2025',
+    '11/1/2024',
+    '5fefbf65-da98-4961-9814-c0549153ae8c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    42,
+    'Tagpad',
+    'scale cross-media metrics',
+    87,
+    498,
+    '763 Sherman Crossing',
+    '6/25/2025',
+    '4/1/2025',
+    '06ae5b16-b69d-40e1-8d0b-1133dd08f7e6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    43,
+    'Midel',
+    'incubate 24/365 initiatives',
+    23,
+    56,
+    '14220 Jenna Road',
+    '1/24/2026',
+    '9/4/2025',
+    'be3c13d1-c9a8-40d0-a16e-90b95134f5ba',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    44,
+    'Realmix',
+    'disintermediate efficient niches',
+    35,
+    579,
+    '65 Brickson Park Pass',
+    '3/31/2025',
+    '1/20/2026',
+    '5267da13-1612-4892-9ec5-e748984a325e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    45,
+    'Gigazoom',
+    'monetize sticky e-markets',
+    52,
+    49,
+    '3 Killdeer Avenue',
+    '9/4/2025',
+    '6/28/2026',
+    '88212416-5aa1-415f-a742-4100133d40d2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    46,
+    'Realfire',
+    'monetize user-centric web services',
+    17,
+    313,
+    '42 La Follette Park',
+    '10/8/2025',
+    '10/17/2025',
+    '99b36d22-dab3-472c-b04e-d7ccf76c381b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    47,
+    'Realbuzz',
+    'expedite holistic metrics',
+    32,
+    441,
+    '8 Westridge Crossing',
+    '10/12/2024',
+    '11/11/2025',
+    'df6f9fc7-5725-4414-b58c-779935330b14',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    48,
+    'Photojam',
+    'architect mission-critical technologies',
+    23,
+    762,
+    '35395 Grim Parkway',
+    '2/8/2026',
+    '8/11/2026',
+    'c9dcdd1b-277d-41b5-848d-f7354caa9e73',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    49,
+    'Realcube',
+    'iterate value-added markets',
+    36,
+    25,
+    '9 Sutteridge Parkway',
+    '3/6/2026',
+    '3/4/2025',
+    '1579c2c4-0d96-4295-bbe9-64811f25f87e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    50,
+    'Tagchat',
+    'exploit one-to-one channels',
+    12,
+    831,
+    '76 Claremont Park',
+    '2/28/2025',
+    '11/8/2024',
+    'f9d36c7c-a1ea-408c-b494-fe94d4df7b25',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    51,
+    'Ozu',
+    'optimize rich content',
+    33,
+    30,
+    '96 Crowley Crossing',
+    '9/14/2025',
+    '7/6/2026',
+    '064b78e8-989e-4616-8840-23081205250b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    52,
+    'Bubbletube',
+    'orchestrate end-to-end e-commerce',
+    49,
+    67,
+    '78 Rowland Center',
+    '8/26/2025',
+    '10/3/2025',
+    '512f1da3-d347-42d8-8552-e82754e295a8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    53,
+    'Kayveo',
+    'evolve efficient action-items',
+    70,
+    113,
+    '932 Dunning Terrace',
+    '12/7/2024',
+    '3/29/2026',
+    '9a93cdd4-be4c-4fd4-ab2d-669e141ff326',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    54,
+    'Jabbercube',
+    'reinvent robust action-items',
+    28,
+    599,
+    '07 Leroy Plaza',
+    '5/15/2026',
+    '12/6/2025',
+    '94d2f55e-d846-4db4-bd88-193100447289',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    55,
+    'Browsebug',
+    'benchmark dot-com initiatives',
+    52,
+    470,
+    '025 Heffernan Parkway',
+    '1/8/2026',
+    '8/21/2024',
+    'c33b384c-ca67-490c-ba76-319848742eee',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    56,
+    'Devpoint',
+    'grow end-to-end supply-chains',
+    67,
+    485,
+    '93 Lyons Circle',
+    '3/4/2025',
+    '8/2/2025',
+    '3c666983-a34a-4c5c-a55e-483abf1483a0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    57,
+    'Skidoo',
+    'iterate out-of-the-box e-commerce',
+    48,
+    170,
+    '6 Dunning Parkway',
+    '10/4/2025',
+    '9/20/2025',
+    'd968662e-d00f-4835-870e-d6e48c48a682',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    58,
+    'Photobug',
+    'embrace mission-critical content',
+    86,
+    47,
+    '14320 Sloan Way',
+    '12/23/2025',
+    '1/18/2025',
+    '257c990a-7710-4836-863d-d303cb27f952',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    59,
+    'Browsedrive',
+    'revolutionize compelling partnerships',
+    56,
+    392,
+    '6 Montana Pass',
+    '11/28/2024',
+    '6/2/2026',
+    'c63d0b0c-5fb2-4c0a-8675-be02130cf39e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    60,
+    'Vimbo',
+    'transition integrated initiatives',
+    2,
+    163,
+    '286 Longview Terrace',
+    '11/21/2025',
+    '7/28/2025',
+    '5d086917-e57f-467d-9bbb-a09086ced1ad',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    61,
+    'Kwilith',
+    'incubate efficient methodologies',
+    78,
+    354,
+    '6135 Eagan Point',
+    '4/29/2026',
+    '10/31/2024',
+    '1385bf6a-0289-498f-8b5c-12887eca8f25',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    62,
+    'Meezzy',
+    'benchmark cross-media vortals',
+    8,
+    191,
+    '15 Rigney Center',
+    '8/21/2025',
+    '6/16/2025',
+    '074cd594-5e03-4d54-8529-c5f070d5b240',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    63,
+    'Twitterbeat',
+    'productize killer technologies',
+    85,
+    131,
+    '614 Larry Place',
+    '10/9/2024',
+    '9/6/2024',
+    '8951eb1f-c3e8-4bfd-94ca-5302831d3632',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    64,
+    'Fadeo',
+    'grow front-end web-readiness',
+    90,
+    988,
+    '0 Sherman Crossing',
+    '3/16/2026',
+    '8/16/2024',
+    '2da29f66-f3b7-48b0-a42d-50b100396451',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    65,
+    'Mybuzz',
+    'incubate scalable web services',
+    60,
+    949,
+    '745 Messerschmidt Junction',
+    '11/17/2025',
+    '7/13/2026',
+    '128fc39b-9b09-4374-ad2e-5e9ff9a23da3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    66,
+    'Dynabox',
+    'maximize best-of-breed channels',
+    51,
+    718,
+    '6189 Onsgard Hill',
+    '7/11/2025',
+    '7/19/2026',
+    '28144659-6c82-4ab7-9787-abfbb84b7cbe',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    67,
+    'Kwimbee',
+    'disintermediate bricks-and-clicks web-readiness',
+    78,
+    156,
+    '24 Superior Circle',
+    '5/24/2026',
+    '3/15/2025',
+    '579691e1-ff51-4d59-9258-9066bd953ea9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    68,
+    'Kimia',
+    'brand cutting-edge paradigms',
+    48,
+    979,
+    '568 Ohio Circle',
+    '10/17/2024',
+    '11/25/2025',
+    '7ccb8c33-463d-45b2-b48a-d85028678036',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    69,
+    'Kwilith',
+    'repurpose compelling experiences',
+    57,
+    164,
+    '130 Pankratz Parkway',
+    '10/24/2025',
+    '6/2/2026',
+    '31ff8fd3-fc05-4f4d-be02-0168e1ecc0ab',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    70,
+    'Edgeblab',
+    'generate distributed models',
+    75,
+    941,
+    '691 Redwing Drive',
+    '4/20/2026',
+    '12/19/2025',
+    'c996cf37-233f-48b0-89e9-c887f3d2abf8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    71,
+    'Topicstorm',
+    'seize sticky vortals',
+    86,
+    20,
+    '2 Oneill Junction',
+    '5/27/2025',
+    '4/4/2025',
+    '9763c472-f2e0-4c28-9647-95a25c635774',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    72,
+    'Wordpedia',
+    'whiteboard wireless experiences',
+    87,
+    177,
+    '2071 Hoffman Crossing',
+    '7/2/2025',
+    '1/4/2025',
+    'd3732123-316b-43b3-ba30-9e86a48006ce',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    73,
+    'Feedfire',
+    'enable 24/7 infrastructures',
+    53,
+    750,
+    '27348 Russell Junction',
+    '3/30/2026',
+    '5/23/2025',
+    '91fe2615-11cc-4bc4-9b2c-9fc6c1565c20',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    74,
+    'Flipopia',
+    'drive bricks-and-clicks e-services',
+    29,
+    320,
+    '71949 Nevada Center',
+    '3/13/2025',
+    '9/30/2024',
+    '16983cf7-6a6d-4159-8c5f-fc9a7683e40e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    75,
+    'Nlounge',
+    'exploit web-enabled functionalities',
+    68,
+    933,
+    '0283 Corry Terrace',
+    '2/17/2025',
+    '10/13/2025',
+    'e23a6e41-b803-4146-83c5-42ae9d912c48',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    76,
+    'Skinix',
+    'strategize global experiences',
+    64,
+    543,
+    '13 Lawn Drive',
+    '4/8/2026',
+    '10/5/2025',
+    'd0bb2407-e12c-4b8f-9a3d-a6eab702744f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    77,
+    'Eimbee',
+    'deliver sexy eyeballs',
+    11,
+    143,
+    '11 Walton Court',
+    '9/3/2025',
+    '2/28/2026',
+    '639c4b42-641d-49e3-b5f1-0963f66c3248',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    78,
+    'Agimba',
+    'embrace seamless methodologies',
+    80,
+    350,
+    '48 Charing Cross Hill',
+    '4/6/2025',
+    '12/14/2025',
+    '2d520f40-a37e-4060-818c-8470f30ef32f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    79,
+    'Oodoo',
+    'aggregate wireless applications',
+    68,
+    449,
+    '72925 Chinook Point',
+    '12/18/2024',
+    '3/14/2025',
+    'fdb7706c-3bea-464b-a509-59369a6634d5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    80,
+    'Muxo',
+    'reintermediate turn-key infomediaries',
+    96,
+    601,
+    '76 Pine View Drive',
+    '4/1/2025',
+    '4/27/2026',
+    '6fc0c4db-d414-4885-9c1c-45fba5c1aa55',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    81,
+    'Lazzy',
+    'incentivize integrated systems',
+    48,
+    75,
+    '97 5th Alley',
+    '8/9/2026',
+    '8/5/2026',
+    '67b73632-2c22-48be-a2c9-57175986df2c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    82,
+    'Minyx',
+    'integrate 24/365 e-services',
+    68,
+    211,
+    '880 Sachs Place',
+    '4/18/2026',
+    '8/17/2024',
+    'e9687f58-3925-49ef-90fb-2e732829e8d9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    83,
+    'Linktype',
+    'incubate intuitive bandwidth',
+    3,
+    846,
+    '239 5th Plaza',
+    '8/21/2024',
+    '3/15/2025',
+    '457d0435-5031-41b1-bd66-3375686f1030',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    84,
+    'Skajo',
+    'extend value-added relationships',
+    10,
+    362,
+    '46816 Sunbrook Park',
+    '12/31/2025',
+    '12/12/2025',
+    '5b9d0a78-8ba0-43dc-b39e-8a1111fe4a90',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    85,
+    'Gevee',
+    'embrace 24/7 architectures',
+    78,
+    897,
+    '15846 Delaware Street',
+    '3/3/2025',
+    '6/21/2026',
+    'f838c8ed-975f-4aaf-9517-64ed7aa430d2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    86,
+    'Dynava',
+    'drive robust experiences',
+    52,
+    808,
+    '3314 Comanche Place',
+    '10/22/2025',
+    '11/2/2024',
+    'd9c6986f-ffc2-47ed-8846-f8028e4f99da',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    87,
+    'Oloo',
+    'matrix 24/7 content',
+    94,
+    138,
+    '57380 South Lane',
+    '4/15/2026',
+    '10/19/2025',
+    '40bd0f86-42f3-4d7a-ae6e-c848114fa370',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    88,
+    'Pixoboo',
+    'harness B2C relationships',
+    35,
+    482,
+    '37240 Lawn Center',
+    '5/31/2025',
+    '6/14/2025',
+    'a9a34d21-f873-45e5-8a85-5af6c78111af',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    89,
+    'Brainbox',
+    'drive interactive niches',
+    64,
+    135,
+    '10 La Follette Point',
+    '5/6/2026',
+    '7/3/2025',
+    'f4f85cea-9302-4908-a531-4441296db6ac',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    90,
+    'Wordtune',
+    'integrate revolutionary e-business',
+    10,
+    552,
+    '7496 Nevada Plaza',
+    '9/7/2025',
+    '9/25/2025',
+    '39f41f26-7d87-48b0-9a90-a78edc9b9fe5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    91,
+    'Kaymbo',
+    'streamline innovative e-tailers',
+    84,
+    717,
+    '84 Helena Drive',
+    '6/3/2025',
+    '8/17/2024',
+    '95641d44-939c-449f-95a3-0ec6860634c3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    92,
+    'Oyope',
+    'recontextualize plug-and-play interfaces',
+    5,
+    380,
+    '0678 Toban Avenue',
+    '3/27/2026',
+    '4/22/2026',
+    'c1e0f449-811e-47fe-9614-2d61dc6b9734',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    93,
+    'Jayo',
+    'whiteboard web-enabled communities',
+    32,
+    582,
+    '98974 Armistice Drive',
+    '12/2/2024',
+    '5/29/2026',
+    '52971d51-37a6-486f-8e42-95f838093775',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    94,
+    'Shufflebeat',
+    'drive leading-edge interfaces',
+    54,
+    10,
+    '1 Stephen Plaza',
+    '7/10/2026',
+    '12/4/2024',
+    '103aeb0d-ed9d-4b13-af2b-6b8861a08837',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    95,
+    'Einti',
+    'monetize 24/365 e-markets',
+    3,
+    834,
+    '42359 Granby Street',
+    '6/21/2026',
+    '7/19/2025',
+    '3031eddc-00dc-4362-915b-16c126f2488a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    96,
+    'Flashset',
+    'repurpose global models',
+    57,
+    314,
+    '4 Becker Pass',
+    '11/19/2024',
+    '11/30/2024',
+    '06462f23-245e-4109-b1f2-b3fabf973481',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    97,
+    'Realpoint',
+    'drive global communities',
+    35,
+    85,
+    '174 Vidon Street',
+    '12/4/2024',
+    '9/20/2025',
+    '7b51d0fb-3d52-493e-ad7c-89bf9a3c6e22',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    98,
+    'Mita',
+    'benchmark collaborative portals',
+    71,
+    801,
+    '6 Trailsway Park',
+    '5/23/2026',
+    '11/17/2025',
+    '4ccfb2d6-e824-4934-8b4f-51ebd6274c7b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    99,
+    'Gabcube',
+    'unleash intuitive applications',
+    25,
+    503,
+    '4244 Straubel Plaza',
+    '8/4/2025',
+    '10/29/2024',
+    '9ac4051f-f2cd-4172-8a32-b01681b0e830',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    100,
+    'Jaxnation',
+    'repurpose clicks-and-mortar niches',
+    74,
+    963,
+    '4360 Graceland Park',
+    '7/10/2025',
+    '7/5/2025',
+    '3d2079b8-dbdb-4ac9-a434-3dbbe80112db',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    101,
+    'Mydo',
+    'aggregate cross-platform solutions',
+    99,
+    289,
+    '7 Express Court',
+    '12/24/2024',
+    '2/23/2026',
+    'e8df6757-b4fa-4395-8681-7faf86690b8a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    102,
+    'Trilith',
+    'morph virtual channels',
+    49,
+    626,
+    '771 Fairfield Trail',
+    '9/7/2024',
+    '2/17/2026',
+    '4a6d211a-c170-429d-9416-d99ac0911b3e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    103,
+    'Twitterbeat',
+    'morph user-centric niches',
+    71,
+    77,
+    '4709 Westend Road',
+    '8/16/2024',
+    '8/29/2024',
+    '652150c4-31d7-4fdc-a63e-79490ca0d639',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    104,
+    'Skidoo',
+    'deploy scalable mindshare',
+    86,
+    405,
+    '2220 Lakewood Gardens Plaza',
+    '6/27/2025',
+    '4/10/2025',
+    'c14afafa-5e42-47e4-86d1-557bedc17c68',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    105,
+    'Dablist',
+    'benchmark extensible experiences',
+    10,
+    159,
+    '804 Hoepker Trail',
+    '11/17/2024',
+    '7/26/2025',
+    '7c12fbfc-6b61-4655-8645-b8af3f60c587',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    106,
+    'Blogtag',
+    'facilitate killer users',
+    96,
+    710,
+    '8 Homewood Drive',
+    '3/26/2026',
+    '3/11/2025',
+    'f96eccc1-4a44-4362-a6e4-b15fcf5b991b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    107,
+    'Jetpulse',
+    'aggregate rich vortals',
+    68,
+    764,
+    '1409 Rutledge Park',
+    '6/11/2025',
+    '11/24/2025',
+    '19e004d9-6f31-40e7-8ae3-38a9ba5e5ccd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    108,
+    'Skinte',
+    'harness next-generation web-readiness',
+    84,
+    330,
+    '577 Dayton Pass',
+    '5/5/2025',
+    '4/28/2025',
+    '46b8ca9a-8404-4b5f-9ab1-e1000468d7dd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    109,
+    'Divape',
+    'enable cross-media paradigms',
+    50,
+    265,
+    '9 Daystar Parkway',
+    '1/29/2026',
+    '12/25/2025',
+    '7013f8c3-dc57-440a-8564-34fbbb0d2b06',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    110,
+    'Thoughtbridge',
+    'engineer mission-critical e-commerce',
+    75,
+    181,
+    '63 Aberg Avenue',
+    '3/29/2025',
+    '7/15/2026',
+    'ff77efc3-103f-49bb-a654-c776becd7062',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    111,
+    'Jabbersphere',
+    'aggregate vertical supply-chains',
+    89,
+    871,
+    '03942 Beilfuss Point',
+    '12/7/2025',
+    '8/27/2025',
+    '91196e1d-a623-42c3-8537-8fa75723181f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    112,
+    'Gigaclub',
+    'monetize plug-and-play bandwidth',
+    66,
+    856,
+    '24 Pennsylvania Terrace',
+    '12/16/2024',
+    '4/27/2025',
+    'b1f7797b-88bd-4a7f-b4bb-d7b1f83f74ea',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    113,
+    'Rhybox',
+    'synergize transparent functionalities',
+    12,
+    421,
+    '31 Jana Alley',
+    '12/26/2024',
+    '12/6/2024',
+    '7d65980b-d969-4bed-986b-2534eeddcc68',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    114,
+    'Yombu',
+    'repurpose distributed supply-chains',
+    57,
+    784,
+    '002 Ohio Place',
+    '9/8/2024',
+    '11/15/2024',
+    'b5974100-6952-4305-932e-3df21145d831',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    115,
+    'Blognation',
+    'architect customized e-markets',
+    55,
+    49,
+    '9 Dorton Court',
+    '12/5/2025',
+    '9/7/2025',
+    '8f130478-faa0-4f38-bfc5-d31f4820281e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    116,
+    'Realbuzz',
+    'streamline bricks-and-clicks vortals',
+    8,
+    283,
+    '45 Birchwood Hill',
+    '7/14/2026',
+    '12/16/2025',
+    '6c74936e-b347-469a-bfe9-a07f5f0d19d3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    117,
+    'Jaxspan',
+    'visualize scalable infomediaries',
+    45,
+    257,
+    '85 Helena Lane',
+    '11/6/2024',
+    '1/30/2026',
+    '06d8a140-a8a4-4028-999f-07e8a2dad88c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    118,
+    'Vitz',
+    'utilize one-to-one models',
+    2,
+    250,
+    '960 1st Court',
+    '10/6/2024',
+    '11/3/2025',
+    '1577b65a-2028-4aed-8cb9-a638cf77e944',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    119,
+    'Zoomzone',
+    'engineer sexy e-services',
+    47,
+    962,
+    '7771 Comanche Center',
+    '10/4/2024',
+    '12/14/2024',
+    '2c1c3f32-45a6-4f40-b861-2398be5930ae',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    120,
+    'Shufflebeat',
+    'target B2C systems',
+    46,
+    703,
+    '80375 Rieder Junction',
+    '3/2/2025',
+    '2/21/2025',
+    '36b80979-8e5c-45e8-b8fe-2fb3fecaf5af',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    121,
+    'Shufflester',
+    'architect one-to-one interfaces',
+    88,
+    154,
+    '6 Tennessee Trail',
+    '6/18/2026',
+    '8/16/2024',
+    '9b7e240f-72d4-49b4-adc6-57de112b5f5e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    122,
+    'Devshare',
+    'syndicate global methodologies',
+    23,
+    152,
+    '29001 Maple Alley',
+    '8/23/2025',
+    '4/26/2026',
+    'ebce830b-7c75-4693-94ad-493721307d30',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    123,
+    'Aivee',
+    'integrate interactive ROI',
+    13,
+    878,
+    '8249 Trailsway Street',
+    '8/8/2026',
+    '4/20/2025',
+    'e725eb4b-87f9-431a-9f70-e13caf24bd80',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    124,
+    'Wikizz',
+    'whiteboard plug-and-play models',
+    89,
+    717,
+    '304 Acker Junction',
+    '10/26/2024',
+    '12/23/2025',
+    'dcef3281-a9f3-4951-b53e-81f969d4998f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    125,
+    'Edgeclub',
+    'matrix synergistic platforms',
+    69,
+    693,
+    '2 Petterle Plaza',
+    '4/17/2026',
+    '5/14/2025',
+    'f75a9992-33aa-48d1-bdeb-26ae80e0c7e5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    126,
+    'Fanoodle',
+    'incentivize synergistic markets',
+    83,
+    699,
+    '3301 Eliot Point',
+    '11/26/2025',
+    '10/5/2024',
+    '70732bdf-e2f1-4579-bef5-bb3b95b3b6e5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    127,
+    'Trilith',
+    'whiteboard real-time partnerships',
+    71,
+    50,
+    '91264 Westend Crossing',
+    '7/8/2025',
+    '7/2/2025',
+    '07dfcc3c-e70c-4f66-80e5-05013a6b2166',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    128,
+    'Kwideo',
+    'revolutionize real-time mindshare',
+    10,
+    921,
+    '2 Aberg Street',
+    '12/29/2024',
+    '10/17/2024',
+    'e4b6ef95-86fd-487d-91c0-3962b97a1d44',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    129,
+    'Camido',
+    'iterate strategic technologies',
+    33,
+    270,
+    '88 Mendota Plaza',
+    '8/18/2025',
+    '9/18/2025',
+    'b4afe651-1377-4682-83a6-836607bcda7d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    130,
+    'Topicware',
+    'enable front-end synergies',
+    62,
+    576,
+    '61671 Loomis Drive',
+    '2/23/2026',
+    '8/31/2024',
+    'aa9f539b-7b30-4690-bc47-ad20a403c455',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    131,
+    'Dablist',
+    'strategize turn-key communities',
+    42,
+    408,
+    '5 Sheridan Junction',
+    '4/18/2026',
+    '6/27/2026',
+    '7e092702-eb7c-43c5-b966-ffc25b27c710',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    132,
+    'Jabbersphere',
+    'enable real-time initiatives',
+    25,
+    781,
+    '68 East Drive',
+    '2/5/2025',
+    '6/15/2025',
+    '9e4a5796-01c5-41e6-9c8d-bcfd0fa2751b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    133,
+    'Avamba',
+    'brand sticky content',
+    79,
+    690,
+    '33 Banding Parkway',
+    '5/8/2026',
+    '2/18/2025',
+    'de7e11e3-c947-4143-abce-255e4bac4d60',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    134,
+    'Skynoodle',
+    'repurpose integrated functionalities',
+    44,
+    371,
+    '3 Grasskamp Lane',
+    '1/22/2025',
+    '3/27/2026',
+    '8a4bb627-d8f5-428e-9016-a6347056321a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    135,
+    'Realblab',
+    'integrate granular mindshare',
+    44,
+    939,
+    '9153 Shasta Place',
+    '6/17/2026',
+    '4/26/2025',
+    'f73d9735-6720-4a6d-93fe-0156e378efe1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    136,
+    'Edgeify',
+    'integrate granular markets',
+    43,
+    972,
+    '4 Alpine Street',
+    '11/3/2024',
+    '2/24/2026',
+    '7222c19f-c4de-4535-89dd-aef4afdd2d52',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    137,
+    'Mybuzz',
+    'matrix rich action-items',
+    49,
+    656,
+    '9 Lotheville Road',
+    '9/12/2024',
+    '7/25/2025',
+    '4c64c09b-482a-49d1-a16e-924d6c65f4ad',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    138,
+    'Kwilith',
+    'recontextualize one-to-one technologies',
+    6,
+    298,
+    '904 Fordem Way',
+    '11/25/2025',
+    '10/27/2024',
+    'fcfc25ce-1386-44e8-9051-1094d0f6bf59',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    139,
+    'Topicshots',
+    'envisioneer integrated technologies',
+    88,
+    986,
+    '8509 American Ash Trail',
+    '12/26/2024',
+    '4/3/2025',
+    'e3a9ddb9-83c7-41d4-958c-c3bcc4bf7c73',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    140,
+    'Photofeed',
+    'architect interactive users',
+    95,
+    575,
+    '066 Bultman Plaza',
+    '3/19/2025',
+    '3/18/2025',
+    '80fa5723-932d-4ac5-b53b-130d37d6ac4e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    141,
+    'Linklinks',
+    'repurpose collaborative bandwidth',
+    58,
+    249,
+    '894 Sage Drive',
+    '12/18/2025',
+    '6/10/2025',
+    'ce971983-bced-4528-ba6d-cdf3498e7f4d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    142,
+    'Jamia',
+    'evolve magnetic schemas',
+    51,
+    838,
+    '7 Debra Circle',
+    '4/8/2026',
+    '4/27/2026',
+    '30f9fa76-d8a3-4ded-9a0b-d971f744cd03',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    143,
+    'Buzzshare',
+    'engineer scalable eyeballs',
+    23,
+    468,
+    '664 Sunfield Hill',
+    '10/9/2025',
+    '11/2/2024',
+    '14adc6dc-60a2-49eb-a1b0-5f62c2216af4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    144,
+    'Meembee',
+    'syndicate back-end e-tailers',
+    50,
+    770,
+    '2141 Dovetail Center',
+    '6/14/2026',
+    '7/11/2026',
+    '7b49ab45-3fac-4fe2-8009-fb86e7588d7e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    145,
+    'Ntags',
+    'cultivate open-source experiences',
+    83,
+    893,
+    '087 Starling Park',
+    '4/6/2025',
+    '1/1/2025',
+    '646a0992-b829-4971-aee6-e54c9d50f04a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    146,
+    'Topiclounge',
+    'enhance collaborative applications',
+    51,
+    827,
+    '89148 Darwin Avenue',
+    '11/8/2024',
+    '5/23/2026',
+    '5302ba96-328b-4b5c-9b15-af8044157c0f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    147,
+    'Edgewire',
+    'integrate dynamic vortals',
+    11,
+    590,
+    '76455 Becker Hill',
+    '2/17/2026',
+    '1/3/2025',
+    'db3510d6-bfd0-4efe-8e03-d0bf94d701bd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    148,
+    'Kaymbo',
+    'benchmark dot-com ROI',
+    13,
+    636,
+    '9 Towne Lane',
+    '10/8/2024',
+    '2/6/2026',
+    'c6a76f56-e78c-4707-8d6b-18635b6b04a2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    149,
+    'Meezzy',
+    'deliver rich networks',
+    17,
+    189,
+    '4533 Tennyson Road',
+    '3/17/2026',
+    '5/3/2026',
+    'd9d72f6c-27bb-46a7-bcb8-bb6ee6c0f250',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    150,
+    'Leenti',
+    'engineer mission-critical models',
+    69,
+    33,
+    '6460 Graedel Drive',
+    '5/12/2026',
+    '7/11/2026',
+    'e39be9fd-5d9f-4388-bf52-c77679d08e31',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    151,
+    'Skipfire',
+    'visualize rich e-tailers',
+    61,
+    601,
+    '066 Oriole Terrace',
+    '5/10/2025',
+    '5/1/2025',
+    'ac35b43f-1be8-4c90-97c6-7e826b90abe2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    152,
+    'Yambee',
+    'cultivate end-to-end paradigms',
+    20,
+    389,
+    '42 Carberry Way',
+    '8/7/2025',
+    '8/26/2025',
+    '2161c88d-e190-4685-a53e-eac081c69027',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    153,
+    'Skynoodle',
+    'seize out-of-the-box infrastructures',
+    94,
+    234,
+    '6 Duke Street',
+    '10/9/2024',
+    '7/19/2026',
+    '6c923942-5ae8-4b86-9956-a25a66a5439b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    154,
+    'Bubblebox',
+    'transition customized methodologies',
+    88,
+    501,
+    '744 Cody Point',
+    '4/23/2026',
+    '8/20/2024',
+    '5bc5afbe-94e1-4ca7-b773-db581a8385ff',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    155,
+    'Twitterworks',
+    'visualize user-centric infrastructures',
+    26,
+    720,
+    '5838 Maple Junction',
+    '10/5/2025',
+    '6/28/2025',
+    '669a3068-a2fa-4493-a1d7-28a2e9dc5e75',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    156,
+    'Bluejam',
+    'deliver magnetic e-markets',
+    52,
+    648,
+    '0710 Raven Pass',
+    '11/29/2025',
+    '10/14/2025',
+    '49be9074-f5e5-48f7-ba8f-321e0d3afecf',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    157,
+    'Eare',
+    'empower holistic systems',
+    77,
+    409,
+    '89 Lake View Pass',
+    '6/29/2025',
+    '4/15/2025',
+    'da0ae1bb-14a7-4192-af47-0e0f3ee57df9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    158,
+    'Jayo',
+    'deliver 24/7 systems',
+    53,
+    515,
+    '4 Fallview Junction',
+    '12/8/2024',
+    '2/20/2026',
+    '94c9581e-18cb-4320-80ee-a939dcfc1991',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    159,
+    'Oyope',
+    'syndicate bleeding-edge deliverables',
+    23,
+    864,
+    '242 Hovde Circle',
+    '7/10/2026',
+    '6/4/2025',
+    '156a677a-f77a-4fa0-96e5-428ecb7e57c6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    160,
+    'Dablist',
+    'drive sexy architectures',
+    14,
+    684,
+    '4 Prairie Rose Street',
+    '9/30/2025',
+    '12/27/2025',
+    'c25b9683-e7ed-4a12-9d42-8b5c3a34bb64',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    161,
+    'Meejo',
+    'utilize enterprise niches',
+    95,
+    969,
+    '501 Westport Hill',
+    '8/14/2025',
+    '3/27/2025',
+    '1930cdb9-8907-4c22-a11b-0477b724b16d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    162,
+    'Skilith',
+    'incentivize ubiquitous paradigms',
+    39,
+    500,
+    '367 Merry Junction',
+    '11/22/2025',
+    '5/9/2025',
+    'c3c278d9-3433-48ec-a651-62a971aacc2a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    163,
+    'Pixonyx',
+    'transform open-source infrastructures',
+    24,
+    152,
+    '311 Buena Vista Point',
+    '4/6/2025',
+    '9/18/2025',
+    '346703dd-5f6c-4cb5-8f3c-9a6fdac8e5b7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    164,
+    'Buzzster',
+    'disintermediate impactful convergence',
+    72,
+    855,
+    '11 Michigan Avenue',
+    '6/20/2026',
+    '10/3/2025',
+    '3fdddcff-2411-4680-86b4-be3bfbe24ade',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    165,
+    'Skinix',
+    'revolutionize value-added e-tailers',
+    98,
+    573,
+    '24 Brown Trail',
+    '1/20/2025',
+    '8/17/2025',
+    'ec706129-ced6-4904-83f6-3976f413216c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    166,
+    'Topicstorm',
+    'evolve cross-platform portals',
+    77,
+    252,
+    '86 Golf View Way',
+    '8/5/2025',
+    '10/10/2024',
+    '81977f5e-b293-4cc7-955a-4a454b2a1107',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    167,
+    'Voomm',
+    'synergize real-time platforms',
+    50,
+    623,
+    '912 Steensland Crossing',
+    '9/26/2024',
+    '2/2/2026',
+    '7185b3f6-cbd8-4684-b262-5086466e04ea',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    168,
+    'Twinte',
+    'redefine magnetic web-readiness',
+    57,
+    167,
+    '9 Monument Crossing',
+    '8/22/2024',
+    '7/31/2026',
+    '6658f7c2-d563-4d2f-8215-a2201a263bdb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    169,
+    'Topiclounge',
+    'seize best-of-breed networks',
+    84,
+    173,
+    '22131 Northland Drive',
+    '9/16/2024',
+    '1/30/2026',
+    '6699e386-97e3-4f19-9546-e736c8fcfda8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    170,
+    'Janyx',
+    'expedite rich eyeballs',
+    4,
+    999,
+    '3 Meadow Ridge Point',
+    '10/3/2025',
+    '2/6/2026',
+    'a9491c57-2ef8-4aef-aebc-d5dd0a7c997e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    171,
+    'Ainyx',
+    'aggregate compelling bandwidth',
+    74,
+    879,
+    '402 Forster Lane',
+    '5/2/2025',
+    '8/6/2025',
+    '14dbaa58-4133-4b22-a187-8ac9de3ac646',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    172,
+    'Jatri',
+    'monetize best-of-breed relationships',
+    47,
+    389,
+    '1110 Reinke Road',
+    '8/7/2026',
+    '9/19/2025',
+    '72860a9b-6483-4599-9dcf-5a36e0571d8d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    173,
+    'Wikizz',
+    'scale extensible initiatives',
+    31,
+    451,
+    '4 Havey Lane',
+    '4/9/2026',
+    '5/18/2026',
+    '0bbe2f36-1641-42b5-9e6b-d332cf55ca47',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    174,
+    'Rooxo',
+    'transform B2C deliverables',
+    57,
+    714,
+    '90 Kim Junction',
+    '10/8/2024',
+    '4/22/2025',
+    '0b773e1d-05aa-4b8d-b0e4-0b426deb7f62',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    175,
+    'Dazzlesphere',
+    'reinvent collaborative web services',
+    16,
+    323,
+    '3 Jenifer Pass',
+    '5/30/2026',
+    '5/11/2026',
+    '397e1652-81ba-4e71-9d67-abd6b1737447',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    176,
+    'Quimba',
+    'leverage extensible solutions',
+    64,
+    838,
+    '0 Miller Court',
+    '2/6/2026',
+    '8/31/2025',
+    '2d649c8e-7911-4d59-807d-5eceaef963df',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    177,
+    'Brainlounge',
+    'enable robust relationships',
+    47,
+    285,
+    '44315 Express Court',
+    '9/1/2025',
+    '1/6/2026',
+    '57bf19e7-fcda-47fd-93f3-8735794a5417',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    178,
+    'Thoughtworks',
+    'orchestrate killer metrics',
+    4,
+    411,
+    '32953 Gina Way',
+    '2/21/2025',
+    '9/12/2025',
+    'fb174aa4-afe5-49d1-85bd-a04b4548c98b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    179,
+    'Dabtype',
+    'integrate revolutionary mindshare',
+    13,
+    745,
+    '44913 Sachs Trail',
+    '8/4/2025',
+    '8/21/2024',
+    'e64e957a-4bd4-415a-97ea-1ddcaf580a5f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    180,
+    'Camimbo',
+    'exploit magnetic platforms',
+    82,
+    662,
+    '3 Fulton Center',
+    '5/8/2025',
+    '9/11/2024',
+    '2bbfd4b6-a915-4b50-8d42-5e2fd73a7d9a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    181,
+    'Tavu',
+    'repurpose efficient web services',
+    91,
+    667,
+    '5 Lotheville Junction',
+    '11/24/2024',
+    '1/10/2026',
+    '1b7d1199-aa78-4e13-be2c-f2b96399b74f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    182,
+    'Cogibox',
+    'cultivate plug-and-play models',
+    76,
+    653,
+    '1 Londonderry Pass',
+    '4/9/2025',
+    '7/12/2025',
+    '87f58cc4-598e-4052-8f53-a6e746e5fd6c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    183,
+    'Dynava',
+    'e-enable real-time web-readiness',
+    79,
+    400,
+    '35176 Pennsylvania Center',
+    '6/26/2026',
+    '3/9/2025',
+    '3d0f72c9-8451-4074-9310-8cb639715155',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    184,
+    'Wordware',
+    'implement bleeding-edge experiences',
+    15,
+    139,
+    '3 Elmside Park',
+    '1/13/2025',
+    '6/6/2025',
+    'f482a989-fa32-4407-ba41-b4664f943049',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    185,
+    'Twiyo',
+    'synthesize magnetic metrics',
+    22,
+    394,
+    '2 Vermont Trail',
+    '5/5/2026',
+    '6/29/2026',
+    'bd0d99aa-d125-4a66-8ca0-6c0d3e631e2d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    186,
+    'Twitterbridge',
+    'brand cross-platform e-business',
+    22,
+    682,
+    '460 Saint Paul Circle',
+    '4/21/2025',
+    '9/23/2025',
+    '81b02a99-f57c-4cb7-95ec-0853b7cba589',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    187,
+    'Trunyx',
+    'engage granular e-commerce',
+    80,
+    167,
+    '50353 Sauthoff Drive',
+    '12/25/2025',
+    '9/28/2024',
+    'b7a5841d-2ebe-4c3c-b4bf-4b55bb7014e1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    188,
+    'Roodel',
+    'productize web-enabled markets',
+    35,
+    589,
+    '287 Welch Center',
+    '9/3/2024',
+    '10/11/2025',
+    'bb4f2287-ba95-43fb-9f6a-b02b98e4d236',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    189,
+    'Eare',
+    'generate cross-media niches',
+    57,
+    323,
+    '99 Northview Hill',
+    '10/13/2024',
+    '12/9/2024',
+    'c091fff8-3608-4b8e-8a6b-e447032f4b2a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    190,
+    'Kanoodle',
+    'deploy holistic deliverables',
+    64,
+    727,
+    '26356 Golf View Center',
+    '5/11/2025',
+    '8/16/2025',
+    'a920755b-2368-4638-94b1-6f0661725700',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    191,
+    'Blognation',
+    'aggregate cross-media mindshare',
+    50,
+    929,
+    '52637 Carpenter Court',
+    '7/5/2025',
+    '10/6/2024',
+    'fb022725-a3c7-4abd-93d0-b905adfe8bd8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    192,
+    'Skinix',
+    'evolve customized infomediaries',
+    66,
+    526,
+    '11 Derek Street',
+    '12/11/2024',
+    '2/7/2026',
+    '78720948-26a8-4b4f-9e08-2ca38a5532dd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    193,
+    'Yakitri',
+    'utilize plug-and-play e-services',
+    60,
+    657,
+    '0 Orin Lane',
+    '11/10/2025',
+    '11/18/2025',
+    '1584a9ae-3f0b-4eb4-88f6-177ca6fcd219',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    194,
+    'Dynabox',
+    'scale scalable mindshare',
+    80,
+    546,
+    '23484 Monica Circle',
+    '8/29/2024',
+    '5/21/2026',
+    'd6af6df9-01d9-4ae7-8efa-e1095f51fa76',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    195,
+    'Linktype',
+    'utilize next-generation interfaces',
+    88,
+    320,
+    '3896 Straubel Alley',
+    '11/25/2024',
+    '1/18/2026',
+    'ccffae91-a068-4088-ba7b-56f871a66dce',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    196,
+    'Skimia',
+    'harness granular deliverables',
+    78,
+    249,
+    '0993 Roxbury Circle',
+    '3/29/2026',
+    '11/2/2024',
+    '98901d5f-000f-48c0-bac8-dcfbf9bce45c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    197,
+    'Centimia',
+    'e-enable user-centric relationships',
+    57,
+    844,
+    '49056 Mendota Lane',
+    '7/5/2026',
+    '12/24/2025',
+    '1493796a-d478-4b5d-9fb2-f0425cb6c8fb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    198,
+    'Tazzy',
+    'transform proactive channels',
+    61,
+    230,
+    '0798 Elmside Crossing',
+    '8/18/2024',
+    '1/27/2026',
+    'daad91f9-0db0-4fef-940e-dfcb5baff10e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    199,
+    'Einti',
+    'benchmark customized portals',
+    24,
+    830,
+    '4 Ridge Oak Street',
+    '11/15/2025',
+    '5/23/2025',
+    '59b484b8-1ca4-4359-8cb2-06ce11d37458',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    200,
+    'Centimia',
+    'facilitate one-to-one action-items',
+    71,
+    50,
+    '0 Namekagon Road',
+    '8/7/2026',
+    '10/18/2025',
+    'acbecb94-3227-4ca0-b7af-997a5eb8ccda',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    201,
+    'Chatterbridge',
+    'leverage viral functionalities',
+    34,
+    59,
+    '0043 1st Parkway',
+    '7/2/2026',
+    '7/5/2026',
+    '1e617d6a-4df0-47ca-9f3b-8655b056999b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    202,
+    'Vipe',
+    'productize out-of-the-box convergence',
+    38,
+    63,
+    '75763 Granby Drive',
+    '8/2/2025',
+    '8/16/2024',
+    '9ff8f5ed-7ba2-40b5-b335-a904f79307bd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    203,
+    'Skivee',
+    'reinvent B2C convergence',
+    48,
+    221,
+    '031 Burrows Terrace',
+    '4/17/2025',
+    '8/1/2026',
+    'ab6fa1d2-d23c-4cc5-b366-af089e11f830',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    204,
+    'Kwinu',
+    'drive distributed convergence',
+    78,
+    909,
+    '523 Hovde Center',
+    '12/6/2025',
+    '10/3/2025',
+    'e997ff37-ec3f-4ee3-b821-7455333280cb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    205,
+    'Omba',
+    'embrace robust metrics',
+    64,
+    951,
+    '38564 Esker Park',
+    '11/8/2025',
+    '8/15/2024',
+    'ea04bc1b-15cc-4bbf-be5b-9b3a20ba903a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    206,
+    'Zazio',
+    'reintermediate frictionless partnerships',
+    72,
+    745,
+    '42823 Marquette Drive',
+    '12/3/2025',
+    '9/6/2024',
+    '9958072f-60c2-479d-809a-bfe36e2a41dc',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    207,
+    'Jayo',
+    'reinvent integrated communities',
+    20,
+    230,
+    '6 Forest Dale Trail',
+    '8/5/2025',
+    '2/25/2025',
+    '12d5992e-7b28-4c70-986f-ee8c1e8047b9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    208,
+    'Oyoloo',
+    'architect world-class methodologies',
+    52,
+    702,
+    '64211 West Terrace',
+    '8/11/2025',
+    '11/20/2025',
+    'dec3421d-5f6b-4523-8522-82448273b359',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    209,
+    'Feedbug',
+    'innovate scalable vortals',
+    50,
+    299,
+    '8926 Golf Drive',
+    '3/5/2026',
+    '8/3/2025',
+    'cd2f1019-8f8c-420d-aa4c-28b280898f21',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    210,
+    'Pixonyx',
+    'envisioneer enterprise portals',
+    46,
+    393,
+    '23894 Mariners Cove Junction',
+    '7/15/2025',
+    '9/24/2024',
+    '4f7fb1fc-ff9d-464f-9677-2b903c3a2803',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    211,
+    'Vitz',
+    'maximize value-added portals',
+    68,
+    108,
+    '6586 Superior Trail',
+    '6/9/2025',
+    '11/12/2025',
+    '40c60ba4-74cf-4007-91bd-fe04f6dffbff',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    212,
+    'Rhycero',
+    'whiteboard front-end portals',
+    33,
+    661,
+    '1348 Stone Corner Park',
+    '3/8/2026',
+    '10/13/2024',
+    'ec06465e-403c-4e0f-81a5-6daa69eeff74',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    213,
+    'Babbleopia',
+    'productize ubiquitous methodologies',
+    34,
+    254,
+    '72 Valley Edge Circle',
+    '5/4/2026',
+    '3/30/2025',
+    '6c2d53dd-ae42-4640-990f-bacb96e9ef42',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    214,
+    'Dynabox',
+    'incubate cross-media convergence',
+    25,
+    482,
+    '19 Sauthoff Drive',
+    '4/8/2025',
+    '8/1/2026',
+    'c40a8984-95e5-485a-85bf-8db3cb1f5e60',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    215,
+    'Zooxo',
+    'optimize collaborative paradigms',
+    71,
+    189,
+    '35 Southridge Trail',
+    '12/15/2024',
+    '5/18/2025',
+    'c06a54bb-4877-4576-bc7e-f0235cfd9b12',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    216,
+    'Oloo',
+    'target intuitive content',
+    58,
+    499,
+    '4460 Lotheville Avenue',
+    '12/21/2024',
+    '10/27/2024',
+    '8cf5c6e9-9cba-4221-9a6d-7be340985609',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    217,
+    'Twimbo',
+    'orchestrate innovative schemas',
+    76,
+    2,
+    '32 Annamark Point',
+    '6/18/2026',
+    '5/25/2025',
+    '0d01b219-429c-4d42-92f6-661d3d8bdc29',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    218,
+    'DabZ',
+    'transform best-of-breed channels',
+    23,
+    189,
+    '2 Morrow Road',
+    '3/19/2025',
+    '7/18/2026',
+    'b87b0e38-f7c5-4ae4-9bf9-26e5b229adb6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    219,
+    'Skimia',
+    'incentivize 24/365 interfaces',
+    22,
+    779,
+    '4046 Esch Avenue',
+    '2/14/2026',
+    '6/24/2025',
+    'c2efba90-0a8c-48d8-bf21-fdf9d232a008',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    220,
+    'Quimm',
+    'expedite magnetic ROI',
+    55,
+    361,
+    '49 Fremont Place',
+    '1/16/2025',
+    '7/3/2026',
+    '37946c4a-fc4a-4c77-b9c0-aa3c31383d93',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    221,
+    'Avamba',
+    'morph world-class technologies',
+    90,
+    680,
+    '9 Emmet Parkway',
+    '4/8/2026',
+    '12/6/2024',
+    'e128bb7d-5a59-4d4e-9cb1-03eb7b8fb6a5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    222,
+    'Tazz',
+    'extend distributed deliverables',
+    31,
+    828,
+    '2 Burning Wood Crossing',
+    '12/13/2024',
+    '6/19/2026',
+    '20a85722-63f3-4e2e-a1fb-bd078d7c0836',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    223,
+    'Yakitri',
+    'architect magnetic e-business',
+    35,
+    627,
+    '8 Nancy Alley',
+    '4/21/2026',
+    '1/17/2025',
+    '0e2886a1-b00d-4949-a854-351ced2ba398',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    224,
+    'BlogXS',
+    'extend frictionless synergies',
+    59,
+    849,
+    '81 Stephen Junction',
+    '4/15/2026',
+    '8/22/2024',
+    '263a7767-d3be-489b-abca-fa6d34cf88d5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    225,
+    'Brightbean',
+    'innovate strategic eyeballs',
+    82,
+    905,
+    '946 Bobwhite Parkway',
+    '10/23/2025',
+    '3/6/2026',
+    'e50c6bf2-3ed2-4ba3-b319-1b3971527480',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    226,
+    'Zoomlounge',
+    'enable innovative initiatives',
+    55,
+    232,
+    '0 Melby Pass',
+    '6/7/2026',
+    '7/30/2025',
+    'c11bc884-fda2-4cc0-a707-0465ff9eac5a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    227,
+    'Devify',
+    'extend world-class portals',
+    39,
+    861,
+    '5 Loeprich Drive',
+    '6/7/2025',
+    '11/24/2025',
+    'f5ea267f-8506-4167-9f0a-9881bd4143ac',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    228,
+    'Rhycero',
+    'exploit granular channels',
+    27,
+    743,
+    '70856 Garrison Street',
+    '10/22/2025',
+    '4/6/2025',
+    '0feca2fd-cb84-40b9-8274-167a13bbd566',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    229,
+    'Skidoo',
+    'grow collaborative users',
+    70,
+    673,
+    '3 Upham Avenue',
+    '2/8/2025',
+    '11/10/2025',
+    'af3f42f5-f0fe-48de-9ce8-e4d8dd1469a2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    230,
+    'Dabjam',
+    'e-enable back-end solutions',
+    46,
+    901,
+    '96916 Shoshone Plaza',
+    '8/30/2024',
+    '3/13/2026',
+    '10037a4e-21be-45f5-9c30-7808b4a3efde',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    231,
+    'Browseblab',
+    'enhance ubiquitous experiences',
+    45,
+    234,
+    '43 Pleasure Trail',
+    '3/10/2025',
+    '3/4/2026',
+    '4b57acf7-bd72-48a8-b5bb-e09117fdcc45',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    232,
+    'Yombu',
+    'streamline viral ROI',
+    78,
+    820,
+    '58434 Spohn Terrace',
+    '8/18/2025',
+    '9/5/2024',
+    '67e01b60-7d3c-4ce7-9d8a-4de94e866a99',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    233,
+    'Livetube',
+    'enable integrated experiences',
+    90,
+    89,
+    '270 Northfield Point',
+    '2/8/2025',
+    '5/26/2025',
+    'c0e0fa9b-f289-401a-b595-d0f664b73744',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    234,
+    'Layo',
+    'engage efficient functionalities',
+    79,
+    166,
+    '7486 Park Meadow Drive',
+    '2/1/2026',
+    '3/1/2026',
+    'a929c6b3-a08a-41ac-844c-eb55e5bfc148',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    235,
+    'Shuffletag',
+    'aggregate killer markets',
+    57,
+    214,
+    '87053 Donald Court',
+    '10/18/2025',
+    '5/18/2026',
+    '68eade04-2463-4973-9f01-ed3f55b6da4f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    236,
+    'Topicware',
+    'empower rich e-commerce',
+    96,
+    657,
+    '4 Grover Avenue',
+    '4/29/2025',
+    '1/8/2026',
+    '1b4cf512-ae1e-4782-88a4-b63678df616c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    237,
+    'Babbleblab',
+    'envisioneer value-added supply-chains',
+    24,
+    574,
+    '94 Morning Center',
+    '5/14/2026',
+    '10/6/2024',
+    '959fb0ef-a019-4db3-b8f1-f9d5495741de',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    238,
+    'Shuffledrive',
+    'aggregate frictionless platforms',
+    56,
+    614,
+    '6 Prairieview Plaza',
+    '12/2/2024',
+    '2/22/2026',
+    '6d6ca73f-cb81-43c8-9f51-b7426c8eb8e8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    239,
+    'Ainyx',
+    'enhance rich e-business',
+    34,
+    495,
+    '3 Thompson Parkway',
+    '1/27/2026',
+    '1/19/2025',
+    '6e39013f-398a-43e5-bdef-3cd13bb5e8ac',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    240,
+    'Youspan',
+    'repurpose ubiquitous methodologies',
+    53,
+    740,
+    '18573 Burning Wood Court',
+    '7/19/2026',
+    '7/14/2025',
+    '144ebdcf-dca8-46d7-ae4c-d23043dd4bb6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    241,
+    'Realpoint',
+    'implement best-of-breed niches',
+    53,
+    630,
+    '2152 Lillian Lane',
+    '3/14/2025',
+    '1/9/2026',
+    '59ef614f-a719-4bc8-bd4b-4c03059bca12',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    242,
+    'Fivebridge',
+    'leverage seamless deliverables',
+    77,
+    656,
+    '5538 Dryden Street',
+    '10/13/2024',
+    '7/22/2025',
+    'ee803675-376f-4a3d-93c4-8d685e90cc45',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    243,
+    'Zava',
+    'envisioneer customized mindshare',
+    71,
+    508,
+    '5062 Dwight Court',
+    '1/9/2025',
+    '10/7/2024',
+    'ca3c599d-63a2-4400-b8c1-19a6fb446e66',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    244,
+    'Leenti',
+    'synergize turn-key functionalities',
+    79,
+    372,
+    '85 Springview Parkway',
+    '12/23/2024',
+    '12/21/2025',
+    'f00d0f3d-3360-42b3-a8c7-4a80df6e15e5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    245,
+    'Gevee',
+    'grow out-of-the-box solutions',
+    83,
+    889,
+    '34 Paget Hill',
+    '1/5/2026',
+    '10/14/2025',
+    'fbc90b88-dcb6-42b2-9f76-216728a9ae71',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    246,
+    'Aivee',
+    'maximize end-to-end web-readiness',
+    97,
+    499,
+    '0 Brentwood Park',
+    '9/9/2025',
+    '7/11/2026',
+    'e3c477ee-b4e1-438c-9a1f-930b8d4375fd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    247,
+    'Yacero',
+    'morph wireless experiences',
+    53,
+    915,
+    '560 Schurz Park',
+    '7/14/2025',
+    '2/8/2026',
+    '264ed79b-c6d2-466b-b6a4-951c9ad5f16c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    248,
+    'Riffwire',
+    'envisioneer dot-com partnerships',
+    57,
+    150,
+    '762 Iowa Alley',
+    '2/23/2025',
+    '8/27/2025',
+    'ff6e07d4-87cf-400f-b463-d63eda6bc392',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    249,
+    'Teklist',
+    'facilitate best-of-breed action-items',
+    48,
+    6,
+    '5092 Meadow Ridge Plaza',
+    '8/29/2024',
+    '12/2/2024',
+    '523de35d-d922-4864-a68a-9649d6427a8d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    250,
+    'Avamba',
+    'generate user-centric e-commerce',
+    85,
+    854,
+    '788 Petterle Center',
+    '10/26/2025',
+    '7/19/2025',
+    'b87fc1d4-ddcd-4998-b6de-a23e5fc9be56',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    251,
+    'Digitube',
+    'embrace compelling models',
+    35,
+    375,
+    '15257 Saint Paul Drive',
+    '1/23/2026',
+    '7/13/2025',
+    '9153ecfc-60a5-421a-9d7d-8143f5132831',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    252,
+    'Shufflester',
+    'generate integrated systems',
+    11,
+    403,
+    '361 Marcy Terrace',
+    '12/13/2024',
+    '8/21/2025',
+    '15da7343-1c20-4617-bc45-98871bbed41e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    253,
+    'LiveZ',
+    'embrace compelling models',
+    46,
+    458,
+    '7031 Thackeray Trail',
+    '3/24/2026',
+    '10/29/2024',
+    '3d188edf-80ef-4aa8-8046-87eeb03b2cc4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    254,
+    'Eabox',
+    'aggregate granular e-commerce',
+    45,
+    628,
+    '15 Longview Terrace',
+    '6/9/2025',
+    '5/20/2026',
+    '87f63d1e-d442-4416-9d64-4542d5600894',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    255,
+    'Gigaclub',
+    'utilize holistic e-tailers',
+    28,
+    344,
+    '5 Eastwood Parkway',
+    '8/26/2025',
+    '1/22/2025',
+    'dbe0359f-128f-4118-9ee2-ca58945ab381',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    256,
+    'Dynabox',
+    'synthesize B2B infrastructures',
+    66,
+    438,
+    '0 3rd Crossing',
+    '1/19/2025',
+    '8/26/2024',
+    '75484be8-18e4-4c6d-aec6-310d6347874e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    257,
+    'LiveZ',
+    'harness visionary models',
+    98,
+    73,
+    '784 Esch Crossing',
+    '8/9/2025',
+    '9/14/2025',
+    '2c7f6ae2-af6c-435f-be39-b5e7b05caf9a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    258,
+    'Devbug',
+    'architect enterprise initiatives',
+    2,
+    303,
+    '12 Macpherson Trail',
+    '1/9/2026',
+    '2/13/2026',
+    'a15d0e62-cf97-41fd-91da-fa00b37eb38d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    259,
+    'Kimia',
+    'innovate robust networks',
+    55,
+    705,
+    '4640 Pepper Wood Parkway',
+    '2/20/2026',
+    '7/9/2026',
+    '6de76ea2-8a39-4903-ac5a-9e3e2871c680',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    260,
+    'Thoughtworks',
+    'engineer frictionless platforms',
+    5,
+    977,
+    '4550 Eastwood Hill',
+    '6/2/2026',
+    '3/25/2025',
+    'dc709234-667d-4648-b488-c6a8c21d4771',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    261,
+    'Demivee',
+    'harness open-source paradigms',
+    21,
+    213,
+    '512 7th Hill',
+    '12/4/2024',
+    '10/16/2025',
+    '00c3c47d-ea59-4afd-a670-78767e5bed75',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    262,
+    'Skimia',
+    'incubate dynamic methodologies',
+    76,
+    159,
+    '7 Vahlen Drive',
+    '11/24/2025',
+    '10/7/2024',
+    'eae82393-9dd9-4934-a1f4-6e4e8aeb3663',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    263,
+    'Linktype',
+    'incubate scalable web-readiness',
+    39,
+    569,
+    '3737 Ridgeview Point',
+    '8/24/2024',
+    '3/27/2025',
+    'a783ee82-9565-4533-aafd-2519ecebe1ac',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    264,
+    'Roomm',
+    'orchestrate impactful models',
+    61,
+    633,
+    '96 Lakewood Gardens Lane',
+    '6/19/2026',
+    '11/1/2025',
+    '613dd70a-5037-4433-a39a-5a20caf645a2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    265,
+    'Zoozzy',
+    'empower B2B users',
+    74,
+    710,
+    '6225 Westport Court',
+    '4/10/2025',
+    '8/30/2025',
+    '7a9dcf2c-7ccc-4dd6-aa01-87c359103258',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    266,
+    'Katz',
+    'iterate magnetic synergies',
+    42,
+    961,
+    '3505 Knutson Pass',
+    '9/6/2024',
+    '6/17/2025',
+    '0ffa78e7-b08d-408f-9cf9-86deca8d6070',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    267,
+    'Digitube',
+    'engage 24/365 relationships',
+    59,
+    340,
+    '463 Nova Way',
+    '8/1/2025',
+    '6/25/2026',
+    'f3bbdeba-f88d-4d98-af7e-62cad63a053d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    268,
+    'Feedspan',
+    'deploy real-time e-business',
+    36,
+    189,
+    '1344 Pawling Trail',
+    '10/3/2024',
+    '2/17/2025',
+    '2ac79376-f837-4b10-a105-9fb244311f84',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    269,
+    'Gabspot',
+    'implement viral metrics',
+    63,
+    812,
+    '6 Dorton Place',
+    '4/4/2025',
+    '3/9/2025',
+    'e9d9029f-b9db-41ab-b904-0ecdbe6ca5c6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    270,
+    'Fiveclub',
+    'incentivize back-end functionalities',
+    28,
+    485,
+    '92752 Harbort Lane',
+    '11/18/2024',
+    '11/20/2025',
+    '9c5dfb48-f164-4da1-9296-9ee6b174dd61',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    271,
+    'Fivespan',
+    'syndicate dynamic methodologies',
+    31,
+    902,
+    '66 Lillian Parkway',
+    '9/16/2024',
+    '9/5/2025',
+    '123ac57e-f3d7-4c8c-be34-a5f6ac6a6dcb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    272,
+    'Edgeblab',
+    'matrix end-to-end portals',
+    48,
+    82,
+    '62809 Sachs Junction',
+    '4/12/2025',
+    '1/23/2025',
+    '96c5e364-7d64-4964-b8c7-e6097fb3f647',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    273,
+    'Abata',
+    'implement leading-edge relationships',
+    87,
+    843,
+    '29119 Gerald Center',
+    '5/26/2025',
+    '5/24/2025',
+    '5c97d35a-7162-4445-98e5-5c6004d490a8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    274,
+    'Podcat',
+    'target seamless ROI',
+    72,
+    377,
+    '01 Holmberg Circle',
+    '10/30/2024',
+    '9/26/2024',
+    '79608df7-5a26-41f6-820f-4ad43eba3ac6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    275,
+    'Flipbug',
+    'reinvent sticky relationships',
+    53,
+    102,
+    '8217 Green Lane',
+    '5/18/2025',
+    '6/18/2025',
+    '08a0fa21-36d3-4c1b-a892-edd9b23628b0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    276,
+    'Fadeo',
+    'recontextualize mission-critical e-business',
+    99,
+    283,
+    '47 Arkansas Alley',
+    '7/26/2025',
+    '7/11/2026',
+    '56cbee6f-3b40-47cc-a25a-4b5e9a5166a3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    277,
+    'Wordware',
+    'architect open-source partnerships',
+    42,
+    629,
+    '059 Iowa Park',
+    '3/8/2026',
+    '8/7/2025',
+    'cc2b0ffa-4156-4684-9a30-cfa2afb1d928',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    278,
+    'Zoozzy',
+    'aggregate impactful infomediaries',
+    16,
+    409,
+    '42 Anniversary Circle',
+    '9/17/2024',
+    '1/15/2026',
+    '5e7d50ab-3117-4e25-9948-9ab6385fd406',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    279,
+    'BlogXS',
+    'reintermediate plug-and-play convergence',
+    98,
+    322,
+    '35 Ohio Junction',
+    '7/27/2025',
+    '6/3/2025',
+    '7f208ca6-ca22-4515-b035-67fac43e278a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    280,
+    'Cogidoo',
+    'strategize intuitive e-markets',
+    80,
+    96,
+    '29 Kim Avenue',
+    '7/31/2025',
+    '6/3/2026',
+    '0e32cee2-0618-4429-b5ca-a547b4d40b48',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    281,
+    'Vinte',
+    'generate dot-com action-items',
+    87,
+    266,
+    '595 Marquette Road',
+    '3/22/2025',
+    '11/14/2025',
+    'a1ed04df-02f7-4798-9ede-2cd582c2ba36',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    282,
+    'Lazzy',
+    'synergize bleeding-edge metrics',
+    81,
+    112,
+    '09 Harbort Plaza',
+    '5/29/2025',
+    '6/24/2025',
+    'b8caa3be-4b99-4792-9474-287b3a82843b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    283,
+    'Voolith',
+    'streamline end-to-end users',
+    14,
+    42,
+    '9 Roxbury Way',
+    '1/4/2026',
+    '9/23/2025',
+    '7a1846bd-8758-4ff4-a7c3-28537a2811fc',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    284,
+    'Kwideo',
+    'matrix out-of-the-box networks',
+    15,
+    419,
+    '14 Golf View Pass',
+    '3/29/2025',
+    '8/10/2025',
+    '661628db-3e26-431c-ab96-7ebaa1c58d1d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    285,
+    'Trudoo',
+    'scale 24/365 metrics',
+    50,
+    396,
+    '338 Schmedeman Trail',
+    '4/30/2025',
+    '7/13/2025',
+    'a91f1e0f-5909-458e-ac4a-07dbcc4bd70a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    286,
+    'Npath',
+    'enhance back-end ROI',
+    43,
+    467,
+    '173 Kings Hill',
+    '1/14/2026',
+    '8/26/2025',
+    'd0ac6a99-f6b9-411b-a0c3-098babef3ce0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    287,
+    'Photobug',
+    'deliver user-centric deliverables',
+    83,
+    689,
+    '396 Jay Avenue',
+    '11/28/2025',
+    '7/14/2025',
+    '6ce8da7b-e124-46eb-9e34-4f3502ac2c67',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    288,
+    'InnoZ',
+    'seize e-business mindshare',
+    98,
+    675,
+    '2250 Oxford Street',
+    '1/14/2025',
+    '5/26/2026',
+    '3b9b540b-6511-4f70-9050-3599ec59c59a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    289,
+    'Quinu',
+    'transform granular channels',
+    57,
+    934,
+    '7 Killdeer Trail',
+    '4/23/2025',
+    '6/28/2026',
+    'ba64daf3-823b-49f3-8412-0c4461f1af68',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    290,
+    'Meejo',
+    'reinvent proactive experiences',
+    45,
+    263,
+    '2 Bay Alley',
+    '4/26/2025',
+    '10/3/2024',
+    '03e4a186-efd2-49d8-a994-5b7f81ff72c5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    291,
+    'Jaxbean',
+    'transform real-time e-business',
+    88,
+    167,
+    '34389 Mcguire Hill',
+    '2/9/2025',
+    '3/29/2025',
+    '781317c6-acd4-4314-994c-dac75eaf1763',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    292,
+    'Jaloo',
+    'cultivate global communities',
+    8,
+    294,
+    '412 Corben Alley',
+    '6/3/2026',
+    '3/13/2025',
+    'b1672bc9-2e05-4586-aa48-a4c136862913',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    293,
+    'Youspan',
+    'engineer integrated architectures',
+    2,
+    203,
+    '9028 Pawling Crossing',
+    '10/6/2025',
+    '7/14/2025',
+    'c67665f8-3388-42d5-87aa-ef32228d2226',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    294,
+    'Gigabox',
+    'target plug-and-play ROI',
+    69,
+    545,
+    '27 Service Street',
+    '1/8/2025',
+    '8/16/2024',
+    '3248115a-a6c9-487f-8b95-a7cef19e4619',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    295,
+    'Blogpad',
+    'envisioneer global systems',
+    48,
+    676,
+    '45 Leroy Center',
+    '3/26/2026',
+    '12/8/2025',
+    'bbbac372-f438-47ec-a1bd-62684c48117f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    296,
+    'Tagtune',
+    'optimize synergistic action-items',
+    37,
+    985,
+    '47 Eagan Park',
+    '8/20/2024',
+    '11/29/2025',
+    '84bee5c9-9579-4c2b-886e-ceebf68aaad6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    297,
+    'Brightdog',
+    'facilitate holistic mindshare',
+    73,
+    934,
+    '5 Algoma Road',
+    '1/26/2025',
+    '9/18/2025',
+    'af6c9b71-0411-410b-8d80-4ca7641f06f1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    298,
+    'Zoozzy',
+    'matrix extensible architectures',
+    50,
+    595,
+    '017 Dunning Place',
+    '11/18/2024',
+    '10/7/2024',
+    '416e38ee-24bb-479b-9cfc-3320c5f34138',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    299,
+    'Layo',
+    'transition B2C mindshare',
+    78,
+    265,
+    '2 Namekagon Avenue',
+    '1/15/2025',
+    '11/5/2025',
+    '9268c058-9e82-4869-aac1-4b06c4218177',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    300,
+    'Flipbug',
+    'aggregate mission-critical e-commerce',
+    15,
+    983,
+    '7116 Wayridge Park',
+    '12/6/2024',
+    '2/17/2026',
+    '403d1393-78b3-4afa-b47a-0794ef23a975',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    301,
+    'Eimbee',
+    'visualize interactive channels',
+    75,
+    833,
+    '59 Caliangt Park',
+    '8/11/2026',
+    '8/9/2025',
+    '58606e14-83ab-4128-848b-954f57c6c318',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    302,
+    'Dazzlesphere',
+    'synthesize end-to-end convergence',
+    11,
+    886,
+    '891 Service Court',
+    '1/20/2026',
+    '1/7/2026',
+    'e3c34c35-915e-4f5e-9813-cc99756c9122',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    303,
+    'Buzzster',
+    'expedite bricks-and-clicks synergies',
+    7,
+    563,
+    '465 Hayes Crossing',
+    '7/6/2026',
+    '10/31/2025',
+    '996ae8a0-6341-492f-b6e2-2912434cb9c9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    304,
+    'Voonix',
+    'benchmark bleeding-edge web services',
+    33,
+    56,
+    '7 Vahlen Center',
+    '3/21/2025',
+    '2/23/2025',
+    '73fb67db-ecb2-483c-84d1-fb57971f167d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    305,
+    'Voonyx',
+    'iterate value-added models',
+    44,
+    536,
+    '3250 Lighthouse Bay Point',
+    '1/7/2025',
+    '3/20/2026',
+    '1ada047f-b2b1-4d1d-9880-b7d40c502402',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    306,
+    'Jaxnation',
+    'transform robust users',
+    40,
+    768,
+    '7664 Havey Circle',
+    '3/7/2026',
+    '2/22/2026',
+    'a1009342-a1db-4c73-9e15-e2c34e14f3e4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    307,
+    'Teklist',
+    'scale B2C metrics',
+    35,
+    911,
+    '5474 Village Pass',
+    '1/19/2026',
+    '4/22/2025',
+    'd383a352-2994-45ab-bd7d-f30b50979e28',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    308,
+    'Realmix',
+    'productize wireless e-business',
+    73,
+    798,
+    '99 Corry Parkway',
+    '4/18/2026',
+    '9/14/2024',
+    '00034174-8e62-40f7-9ff3-4929b9d416e5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    309,
+    'Gabtune',
+    'enable vertical e-business',
+    25,
+    441,
+    '21 Pond Point',
+    '8/13/2024',
+    '5/3/2025',
+    '43ad90f8-aeb4-47f6-822d-5f1d2f253678',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    310,
+    'Vinte',
+    'matrix leading-edge interfaces',
+    80,
+    136,
+    '3 Lindbergh Street',
+    '9/30/2025',
+    '11/19/2025',
+    '69829a4e-04f4-4da2-93a5-1d9bcfb57fbb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    311,
+    'Fliptune',
+    'productize enterprise initiatives',
+    13,
+    863,
+    '1381 Pearson Trail',
+    '7/23/2025',
+    '9/22/2025',
+    '92e0a007-bfd5-4fcd-9b17-0e421e396720',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    312,
+    'Topicshots',
+    'enhance real-time applications',
+    34,
+    70,
+    '15031 Fairview Drive',
+    '9/28/2025',
+    '2/19/2025',
+    'bf1f25ce-bb6d-49be-8447-17bebcd6be4a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    313,
+    'Skalith',
+    'grow rich bandwidth',
+    99,
+    927,
+    '23 Norway Maple Junction',
+    '5/24/2025',
+    '2/3/2025',
+    '1e5f38ff-4db9-4087-9b59-1f31c29b275c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    314,
+    'Twitterbeat',
+    'seize synergistic applications',
+    28,
+    806,
+    '33 Sunnyside Lane',
+    '10/6/2024',
+    '10/13/2024',
+    '468fd3c4-a8c2-41bb-bdca-54beb712512b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    315,
+    'Topicstorm',
+    'facilitate sticky interfaces',
+    42,
+    779,
+    '52184 Anzinger Circle',
+    '3/31/2025',
+    '2/13/2026',
+    'd510c976-d481-4b2c-91d5-3182bf710e8f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    316,
+    'Quimm',
+    'morph user-centric infomediaries',
+    64,
+    445,
+    '35532 Texas Center',
+    '5/7/2026',
+    '8/27/2025',
+    '21c5289c-2ef7-46ff-80ca-0b124e9c1d47',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    317,
+    'Flipbug',
+    'incentivize killer infrastructures',
+    7,
+    181,
+    '79 Pierstorff Drive',
+    '11/25/2025',
+    '7/4/2026',
+    '8e448ada-03b9-465f-89ea-d2546493a2ab',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    318,
+    'Brightdog',
+    'embrace vertical systems',
+    18,
+    502,
+    '814 Summit Center',
+    '2/9/2025',
+    '12/19/2024',
+    'b8e58b64-97f1-4d28-b320-a6173c30c516',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    319,
+    'Thoughtbridge',
+    'deliver clicks-and-mortar eyeballs',
+    33,
+    412,
+    '82978 Hermina Trail',
+    '3/16/2025',
+    '5/7/2025',
+    '961bf90d-8d6b-4415-a608-6214a45e40f4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    320,
+    'DabZ',
+    'mesh turn-key e-business',
+    48,
+    84,
+    '8 Emmet Place',
+    '2/18/2026',
+    '2/16/2026',
+    '5c712c7c-6b14-4073-afde-d6ca420b02d5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    321,
+    'Abatz',
+    'benchmark best-of-breed supply-chains',
+    20,
+    444,
+    '15522 Gateway Center',
+    '4/5/2026',
+    '8/21/2024',
+    'ecbe231f-778d-46a5-87b3-c42c438344d7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    322,
+    'Snaptags',
+    'brand ubiquitous niches',
+    46,
+    931,
+    '98511 Holmberg Crossing',
+    '4/16/2026',
+    '6/13/2025',
+    'a2ecc004-01e6-4ab7-8169-dab99c295167',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    323,
+    'Tavu',
+    'grow transparent technologies',
+    7,
+    383,
+    '5 Stuart Street',
+    '6/24/2026',
+    '10/19/2025',
+    '2f91b5e7-0af0-4456-b705-cede9bc5320e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    324,
+    'Yata',
+    'disintermediate collaborative infomediaries',
+    41,
+    413,
+    '786 Burning Wood Drive',
+    '3/31/2025',
+    '11/22/2024',
+    'f5e7e732-3a73-4cfc-9773-16151be3b076',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    325,
+    'Buzzdog',
+    'exploit viral solutions',
+    78,
+    815,
+    '1893 Sugar Way',
+    '5/6/2025',
+    '9/3/2025',
+    '443adc5a-4080-451c-9d0e-8d2b0f39c14d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    326,
+    'Quamba',
+    'enhance scalable ROI',
+    15,
+    885,
+    '5 Bowman Hill',
+    '4/11/2026',
+    '5/28/2026',
+    '156c04c1-40f1-4237-b84d-b367c0509183',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    327,
+    'Zoozzy',
+    'empower user-centric interfaces',
+    49,
+    800,
+    '7 Del Mar Trail',
+    '12/3/2024',
+    '9/29/2024',
+    '403ef3ba-3e78-4b27-bd6c-4c3180053504',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    328,
+    'Mycat',
+    'harness viral e-services',
+    33,
+    737,
+    '0 Green Ridge Park',
+    '5/8/2025',
+    '9/18/2025',
+    '7a75006b-e988-43bf-b5ed-18f2798741b2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    329,
+    'Riffpath',
+    'cultivate visionary applications',
+    82,
+    268,
+    '2 Waywood Park',
+    '2/18/2026',
+    '6/12/2025',
+    'd0b7f86b-3ba6-4ead-aaee-11ea0464e20a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    330,
+    'Twitterworks',
+    'envisioneer compelling infrastructures',
+    51,
+    209,
+    '525 Buena Vista Court',
+    '4/6/2025',
+    '5/26/2026',
+    '44a552c1-918b-4df6-afb5-7d07dc5ff9dd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    331,
+    'Pixonyx',
+    'innovate robust applications',
+    99,
+    564,
+    '06434 Scoville Center',
+    '10/31/2025',
+    '4/2/2026',
+    'b679d3bc-eba6-485f-9749-f6a31a0ffe8c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    332,
+    'Edgepulse',
+    'scale turn-key platforms',
+    36,
+    365,
+    '91 Moulton Alley',
+    '12/20/2024',
+    '5/1/2026',
+    '0dc02e04-4858-4615-96a5-11aadf275f7d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    333,
+    'Thoughtworks',
+    'target holistic applications',
+    84,
+    663,
+    '6 Stephen Pass',
+    '11/15/2025',
+    '10/11/2025',
+    'ecba4c42-b70a-48fa-b610-900a790b1927',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    334,
+    'Fivechat',
+    'architect killer e-markets',
+    16,
+    376,
+    '48488 Scoville Drive',
+    '11/2/2024',
+    '11/24/2025',
+    '26f2f05c-cc2c-41de-9042-cf473754f0b9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    335,
+    'Midel',
+    'optimize end-to-end relationships',
+    16,
+    877,
+    '6325 Luster Avenue',
+    '2/25/2026',
+    '8/11/2026',
+    '31311b46-92b9-4861-b6c4-e206081cd97b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    336,
+    'Dazzlesphere',
+    'envisioneer visionary content',
+    65,
+    287,
+    '24 Oak Valley Junction',
+    '7/22/2026',
+    '6/7/2025',
+    '47a8878f-fdbd-4dc6-af75-a08fd984936e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    337,
+    'Talane',
+    'empower granular relationships',
+    96,
+    275,
+    '6995 Kennedy Street',
+    '4/21/2026',
+    '5/21/2025',
+    'c50e53cc-bff1-418d-88d5-94420631df7e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    338,
+    'Skyvu',
+    'monetize frictionless communities',
+    32,
+    741,
+    '820 Tony Crossing',
+    '8/31/2024',
+    '4/8/2025',
+    'b1511d2a-5edc-417c-9b22-0e488e4d3539',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    339,
+    'Photospace',
+    'harness front-end convergence',
+    3,
+    654,
+    '01 Vahlen Way',
+    '12/29/2024',
+    '5/18/2026',
+    'f5662e71-dcd1-496f-aa46-ea64b166200f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    340,
+    'Rhynyx',
+    'evolve mission-critical systems',
+    84,
+    669,
+    '5891 Daystar Court',
+    '4/13/2025',
+    '10/4/2024',
+    '0343cae2-7a5d-457f-a260-76b110ea72a1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    341,
+    'Gigazoom',
+    'strategize compelling networks',
+    38,
+    709,
+    '80 Graceland Park',
+    '12/27/2024',
+    '7/28/2025',
+    'c20bf060-31b3-4406-815d-8528c119d3e2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    342,
+    'Rhyzio',
+    'disintermediate revolutionary supply-chains',
+    49,
+    742,
+    '80810 Vernon Center',
+    '5/18/2026',
+    '11/12/2025',
+    '362828c0-86ea-4ee3-86ce-1103bb941beb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    343,
+    'Livepath',
+    'brand turn-key e-markets',
+    38,
+    669,
+    '7 Grasskamp Alley',
+    '5/24/2026',
+    '7/6/2025',
+    '7604ab66-38f3-40e0-8964-406ec707f9e2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    344,
+    'Ntag',
+    'engineer impactful synergies',
+    24,
+    10,
+    '14672 Tennessee Street',
+    '8/16/2025',
+    '12/6/2025',
+    'dd543271-8dc8-40a0-98c0-0f3bad76715e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    345,
+    'Devpulse',
+    'engineer end-to-end action-items',
+    68,
+    515,
+    '76 Scofield Point',
+    '11/14/2025',
+    '11/5/2025',
+    '56d5d84c-499d-487a-802c-6b652b84982c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    346,
+    'Wikivu',
+    'exploit plug-and-play applications',
+    66,
+    638,
+    '699 Del Mar Park',
+    '8/22/2025',
+    '5/31/2025',
+    '1b5bf94a-e280-4a7e-8490-6cce69fa2ae4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    347,
+    'Dablist',
+    'integrate strategic interfaces',
+    92,
+    825,
+    '16 Bluestem Avenue',
+    '12/29/2025',
+    '9/16/2025',
+    '0a3118f5-7d6f-41a3-8c9e-e217ee22b3da',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    348,
+    'Realbuzz',
+    'grow rich functionalities',
+    39,
+    13,
+    '3359 David Park',
+    '1/11/2026',
+    '7/8/2025',
+    '9ed7b3aa-797f-4b0d-b2c6-1166b1ba6e2e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    349,
+    'Avaveo',
+    'incentivize e-business content',
+    19,
+    789,
+    '490 Blue Bill Park Terrace',
+    '7/18/2025',
+    '8/19/2024',
+    '2eb82301-694c-46d7-805c-6e0ac9f8f6ea',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    350,
+    'Babbleopia',
+    'drive turn-key channels',
+    28,
+    637,
+    '01142 Hovde Court',
+    '5/20/2025',
+    '2/5/2026',
+    '5537e08f-60ec-47e6-b4dc-6b5660074b95',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    351,
+    'Yabox',
+    'mesh transparent action-items',
+    58,
+    827,
+    '161 Valley Edge Drive',
+    '7/9/2026',
+    '9/26/2025',
+    '5eeded81-a797-4a8b-9942-997f2d193504',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    352,
+    'Skivee',
+    'implement cross-media experiences',
+    72,
+    706,
+    '74876 Bobwhite Center',
+    '11/19/2025',
+    '6/22/2025',
+    '07a73bf8-38ba-4b3a-a33b-eeaec8c6f0f3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    353,
+    'Blognation',
+    'disintermediate rich web services',
+    10,
+    472,
+    '27923 Becker Plaza',
+    '9/30/2024',
+    '11/15/2024',
+    'b29b26bd-70f1-411d-bba5-dc3b5eca7d0b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    354,
+    'Fanoodle',
+    'optimize open-source mindshare',
+    13,
+    298,
+    '309 Pine View Lane',
+    '9/9/2024',
+    '11/21/2024',
+    '0a1db1d5-17d9-4777-a1c3-46d7ce1cde66',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    355,
+    'Einti',
+    'harness ubiquitous relationships',
+    41,
+    994,
+    '34084 Division Way',
+    '1/9/2025',
+    '12/16/2025',
+    'bffa7c9c-683a-4d61-8778-c004722f71ca',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    356,
+    'Gabvine',
+    'embrace one-to-one e-markets',
+    33,
+    376,
+    '1669 Waywood Junction',
+    '2/19/2026',
+    '11/28/2025',
+    '9a22cdf7-4ae5-4534-b79d-d754dc1dc103',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    357,
+    'Yozio',
+    'incubate cutting-edge solutions',
+    13,
+    176,
+    '86725 Mcguire Park',
+    '9/4/2025',
+    '1/26/2025',
+    'fefa525b-186b-43aa-bf41-8756745960e4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    358,
+    'Quamba',
+    'reintermediate virtual functionalities',
+    34,
+    98,
+    '983 Lake View Avenue',
+    '8/15/2024',
+    '2/10/2026',
+    'e37a88e0-d38c-4f97-b133-69a779619a52',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    359,
+    'Wordtune',
+    'expedite one-to-one vortals',
+    45,
+    202,
+    '60 Eastlawn Park',
+    '10/1/2025',
+    '11/18/2025',
+    '7ac7b4db-123e-4153-96bb-4e2b9f502d88',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    360,
+    'Mybuzz',
+    'seize dot-com channels',
+    71,
+    449,
+    '3 Russell Parkway',
+    '10/14/2024',
+    '5/1/2025',
+    '82a4fb93-8f42-47cb-a3a7-91d4862f1434',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    361,
+    'Vinder',
+    'syndicate clicks-and-mortar models',
+    56,
+    765,
+    '1778 Emmet Center',
+    '9/13/2024',
+    '10/13/2024',
+    'f9f644e6-a67c-4f6b-9d2b-3afa095f4707',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    362,
+    'Shuffletag',
+    'deploy rich methodologies',
+    15,
+    374,
+    '362 Union Way',
+    '12/13/2025',
+    '5/8/2026',
+    '51ffaf95-8c8b-4b49-9db6-9a0c98c27d49',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    363,
+    'Tagchat',
+    'reinvent sexy channels',
+    64,
+    554,
+    '73258 Prairieview Alley',
+    '6/20/2026',
+    '6/15/2026',
+    'cb3f185d-d0fd-4233-ba02-e0390c3df95a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    364,
+    'Jaxworks',
+    'brand customized eyeballs',
+    79,
+    758,
+    '101 Kings Junction',
+    '2/23/2026',
+    '4/4/2026',
+    '1dc2fb33-ccec-438b-b601-b6ba7b405c74',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    365,
+    'Wordtune',
+    'generate bleeding-edge users',
+    38,
+    27,
+    '7 Packers Terrace',
+    '11/15/2025',
+    '8/20/2025',
+    'ca28428f-7721-47a7-abc2-254ce034ece7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    366,
+    'Topicblab',
+    'visualize wireless communities',
+    3,
+    407,
+    '871 Muir Drive',
+    '12/3/2024',
+    '5/3/2026',
+    '5b6a7416-9f02-428c-8a93-d448339ca6ed',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    367,
+    'Omba',
+    'recontextualize strategic deliverables',
+    16,
+    497,
+    '8260 Crest Line Trail',
+    '2/10/2025',
+    '6/5/2025',
+    '3c6c370b-74fd-4b21-880b-3a4fe6076ad4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    368,
+    'Voonder',
+    'implement turn-key synergies',
+    78,
+    242,
+    '89300 Scott Crossing',
+    '6/14/2026',
+    '8/11/2026',
+    '9854d577-d5b5-49b2-987c-2100b0534ffd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    369,
+    'Yakitri',
+    'scale cross-platform e-business',
+    65,
+    631,
+    '1 Monica Street',
+    '6/8/2025',
+    '7/25/2025',
+    '14bb33e3-f89d-4aa6-a109-ebb9c02b20c8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    370,
+    'Photobean',
+    'streamline sticky markets',
+    58,
+    523,
+    '16045 Armistice Pass',
+    '9/8/2024',
+    '9/21/2025',
+    '0889b0d1-c695-4e67-b474-077eaf4c25e8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    371,
+    'Twitterlist',
+    'strategize plug-and-play solutions',
+    88,
+    742,
+    '2 Merry Hill',
+    '8/2/2025',
+    '7/19/2026',
+    '2b0b55dd-3b84-4795-bf52-cf72b371a21d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    372,
+    'Roodel',
+    'grow impactful synergies',
+    10,
+    830,
+    '94 Katie Alley',
+    '8/1/2026',
+    '7/8/2025',
+    'faea1107-2e7f-4e3f-848a-55e659e2b4de',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    373,
+    'Feedbug',
+    'productize front-end technologies',
+    49,
+    545,
+    '2 Summerview Alley',
+    '6/9/2025',
+    '7/4/2026',
+    'fa3c12ec-bfc1-40ef-9a95-168af9b0022d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    374,
+    'Oodoo',
+    'unleash integrated web services',
+    4,
+    820,
+    '02036 Russell Street',
+    '4/25/2026',
+    '8/18/2025',
+    '66071891-3a82-45ad-88b6-7d275fe74f6c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    375,
+    'Trilia',
+    'monetize synergistic methodologies',
+    58,
+    627,
+    '672 Doe Crossing Hill',
+    '1/25/2026',
+    '11/29/2025',
+    '383eb09b-8053-4854-b211-12742481b7e2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    376,
+    'Kwilith',
+    'visualize 24/365 e-business',
+    42,
+    208,
+    '558 Weeping Birch Court',
+    '7/10/2026',
+    '8/6/2026',
+    '8a42fd8a-e5b2-4a51-a380-65383101ff31',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    377,
+    'Zoovu',
+    'cultivate end-to-end e-commerce',
+    89,
+    310,
+    '85956 Thierer Alley',
+    '5/19/2025',
+    '3/8/2026',
+    '6b17714a-7392-4a2b-b53d-14693e357960',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    378,
+    'Shuffledrive',
+    'engage wireless communities',
+    10,
+    170,
+    '68 Judy Way',
+    '10/31/2025',
+    '11/1/2024',
+    '3ee5e665-7162-4e85-bf49-c0cf7d7ae077',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    379,
+    'Trunyx',
+    'cultivate B2B eyeballs',
+    98,
+    752,
+    '2975 Fairfield Point',
+    '7/24/2026',
+    '10/16/2025',
+    '0ec429f5-1dd8-4579-af9b-6e1f1268f42f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    380,
+    'Zoombeat',
+    'deploy 24/365 functionalities',
+    99,
+    376,
+    '43 Sutherland Pass',
+    '10/4/2025',
+    '10/29/2025',
+    'd89960bb-5ed3-4927-bfa9-a2bfda890860',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    381,
+    'Minyx',
+    'grow dynamic solutions',
+    41,
+    872,
+    '375 Coolidge Place',
+    '12/29/2024',
+    '12/24/2025',
+    'b0e054b7-9910-4311-b611-c22b4b10b562',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    382,
+    'Pixope',
+    'leverage scalable supply-chains',
+    99,
+    528,
+    '50 Bonner Plaza',
+    '2/19/2025',
+    '5/6/2026',
+    '606aab04-8c7b-4ee1-ac02-2667822eef22',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    383,
+    'Fivebridge',
+    'e-enable frictionless experiences',
+    54,
+    523,
+    '8276 Hoepker Junction',
+    '6/5/2025',
+    '4/20/2025',
+    '1e9ac365-c7ee-4c75-abdb-50ead33d514f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    384,
+    'Skinder',
+    'visualize scalable technologies',
+    40,
+    194,
+    '20 Ilene Crossing',
+    '10/31/2024',
+    '12/2/2024',
+    'd4d6d28c-6fe3-4fc9-b78b-54e57f8f14a5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    385,
+    'Minyx',
+    'implement web-enabled channels',
+    69,
+    336,
+    '752 Killdeer Road',
+    '7/29/2025',
+    '10/15/2025',
+    '0e046dec-b432-472d-b775-f60a74284c65',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    386,
+    'Mynte',
+    'iterate 24/7 bandwidth',
+    21,
+    387,
+    '5903 Mockingbird Parkway',
+    '8/11/2026',
+    '2/4/2025',
+    'af973692-9fa3-4113-8e0f-30b060766868',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    387,
+    'Devpoint',
+    'envisioneer ubiquitous applications',
+    82,
+    650,
+    '899 Delaware Crossing',
+    '6/26/2025',
+    '7/27/2026',
+    'f3e6f0b4-0d1f-4ddb-85dd-3828ce38d032',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    388,
+    'Skimia',
+    'whiteboard seamless deliverables',
+    56,
+    419,
+    '42 Roth Road',
+    '1/6/2026',
+    '3/12/2026',
+    '751e6a00-5b01-46d6-b1d9-71d6cb7dd7db',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    389,
+    'Zoomdog',
+    'redefine granular experiences',
+    61,
+    756,
+    '4 Sachs Junction',
+    '3/21/2026',
+    '5/21/2026',
+    '97f5f55d-52ee-4b71-8603-cfd3b371f9a6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    390,
+    'Buzzdog',
+    'redefine revolutionary e-services',
+    13,
+    484,
+    '53315 Buhler Center',
+    '12/20/2025',
+    '9/20/2024',
+    '3eb7113b-bef3-48f8-8312-218f029d78d8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    391,
+    'Shufflebeat',
+    'visualize ubiquitous infomediaries',
+    84,
+    947,
+    '57 Anniversary Point',
+    '12/23/2025',
+    '1/22/2026',
+    'cd39c4b2-58b4-43c0-b955-036acfe6ee62',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    392,
+    'Thoughtbeat',
+    'architect one-to-one e-services',
+    42,
+    40,
+    '31 Springs Junction',
+    '9/10/2024',
+    '9/15/2025',
+    '94ddaa93-eeb7-4e53-a7b8-8b87b35dbf11',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    393,
+    'Realbuzz',
+    'engage sticky systems',
+    80,
+    79,
+    '8 Fairview Place',
+    '7/15/2025',
+    '1/12/2025',
+    '83664cc7-33c3-4871-a4b7-2d104eee5d33',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    394,
+    'Midel',
+    'synthesize virtual networks',
+    51,
+    455,
+    '8 Debra Park',
+    '12/25/2025',
+    '3/23/2026',
+    '5ed762f7-3eec-4a68-a3dd-cd34301fdf02',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    395,
+    'Bubblebox',
+    'implement interactive metrics',
+    9,
+    505,
+    '911 Bonner Court',
+    '7/24/2025',
+    '10/4/2024',
+    'd54143cb-61d2-4edb-a624-0a2f8839b814',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    396,
+    'Viva',
+    'synergize real-time ROI',
+    100,
+    990,
+    '6034 Monterey Trail',
+    '8/7/2025',
+    '3/13/2025',
+    '57bc49e1-b385-4eb2-b99c-7086dd31b303',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    397,
+    'Eadel',
+    'redefine web-enabled experiences',
+    96,
+    431,
+    '4 Norway Maple Street',
+    '6/26/2025',
+    '12/10/2025',
+    'b4f82975-2aa2-47b3-baf6-016408b6e12a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    398,
+    'Jayo',
+    'synthesize vertical channels',
+    35,
+    598,
+    '04866 Barnett Place',
+    '11/12/2024',
+    '4/19/2025',
+    'cdd4504d-752a-479b-baac-5123785f5a14',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    399,
+    'Jabberbean',
+    'transform innovative solutions',
+    23,
+    603,
+    '3728 Blue Bill Park Pass',
+    '11/22/2025',
+    '9/30/2024',
+    'bd4e6603-562b-47ef-9d69-2cb79a2ba34d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    400,
+    'Aibox',
+    'cultivate value-added e-business',
+    39,
+    147,
+    '87424 Dakota Hill',
+    '6/30/2026',
+    '6/24/2026',
+    '35cb474a-4a44-4504-ae65-195388e3e551',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    401,
+    'Quinu',
+    'scale best-of-breed ROI',
+    15,
+    507,
+    '0381 Dexter Street',
+    '8/15/2025',
+    '8/23/2025',
+    '081a9075-9a31-4366-9cd6-18f49b965d84',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    402,
+    'Devshare',
+    'whiteboard wireless technologies',
+    44,
+    666,
+    '89090 Briar Crest Road',
+    '1/27/2026',
+    '12/20/2025',
+    '793e16f8-dcd2-4aad-8d40-855f1064b2bb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    403,
+    'Agivu',
+    'implement intuitive methodologies',
+    76,
+    114,
+    '1 Dwight Center',
+    '4/18/2025',
+    '10/31/2024',
+    'd75a8d7b-790f-4876-92f1-9410bae3696f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    404,
+    'Zooveo',
+    'target interactive platforms',
+    94,
+    501,
+    '80 Darwin Circle',
+    '5/28/2025',
+    '7/25/2025',
+    'c9fe9f99-7a20-40f1-95eb-0e5e240fa7d0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    405,
+    'Eabox',
+    'transition extensible paradigms',
+    96,
+    710,
+    '0651 Melvin Point',
+    '5/31/2026',
+    '3/11/2025',
+    '886a2799-07d0-48b5-be07-4d52f9ac1071',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    406,
+    'Innotype',
+    'deliver clicks-and-mortar e-services',
+    82,
+    979,
+    '88 Russell Street',
+    '9/26/2025',
+    '2/24/2026',
+    '60a0f227-9d02-473e-91da-148b65d2c1ef',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    407,
+    'Leexo',
+    'morph B2B mindshare',
+    3,
+    723,
+    '3828 Mccormick Avenue',
+    '5/11/2025',
+    '5/15/2025',
+    '01196f2e-b576-4d4f-a6fa-556dfe05650a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    408,
+    'Jaxspan',
+    'recontextualize virtual e-tailers',
+    79,
+    112,
+    '5 Norway Maple Place',
+    '7/2/2026',
+    '6/1/2025',
+    '759bf63c-ebb0-4542-8a97-6ff8c0effd78',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    409,
+    'Jabbertype',
+    'morph B2C users',
+    8,
+    71,
+    '40 Kropf Point',
+    '6/7/2025',
+    '10/23/2024',
+    '0896f7d5-9f97-4a3f-834d-a4053aebd9fe',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    410,
+    'Tagcat',
+    'envisioneer scalable infrastructures',
+    92,
+    1000,
+    '06876 Pierstorff Road',
+    '4/5/2025',
+    '5/18/2026',
+    'a9eda4c7-6072-484e-8c7d-3128d2057027',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    411,
+    'Brainbox',
+    'repurpose cross-media relationships',
+    35,
+    66,
+    '720 Dennis Court',
+    '10/17/2025',
+    '12/21/2024',
+    '3962cf9d-ac80-4f0d-be86-a334e7b30363',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    412,
+    'Gabcube',
+    'enhance enterprise e-tailers',
+    66,
+    369,
+    '6657 Sycamore Alley',
+    '8/20/2025',
+    '4/25/2026',
+    '4666a0c5-32ae-4872-bfd9-9618782461be',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    413,
+    'Tagtune',
+    'facilitate integrated platforms',
+    38,
+    400,
+    '99227 Prentice Street',
+    '9/14/2024',
+    '3/30/2025',
+    '92ce0722-3e6f-4109-9975-c0f1cf4185ec',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    414,
+    'Yadel',
+    'utilize holistic systems',
+    45,
+    2,
+    '395 Lien Parkway',
+    '12/31/2024',
+    '7/1/2025',
+    '8cbfe8a4-adc1-434a-b6af-dccd9932b767',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    415,
+    'Skalith',
+    'leverage viral markets',
+    76,
+    659,
+    '8 Nova Street',
+    '10/30/2024',
+    '11/19/2024',
+    '52f298cb-02be-4b26-89e5-737ed1c1a7e4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    416,
+    'Voomm',
+    'optimize compelling deliverables',
+    63,
+    974,
+    '75470 Swallow Lane',
+    '4/15/2025',
+    '2/14/2025',
+    '147113a0-abd6-4643-a02f-b95613431541',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    417,
+    'Cogilith',
+    'matrix B2B e-tailers',
+    5,
+    92,
+    '42452 Katie Place',
+    '3/7/2025',
+    '2/4/2026',
+    '5ea33c77-4d76-46d4-a7cb-c729f5673aa7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    418,
+    'Skiba',
+    'orchestrate seamless web-readiness',
+    71,
+    569,
+    '13 Forest Place',
+    '7/7/2026',
+    '2/10/2026',
+    '416e8b5b-792a-4a8d-bfa1-c3c075e0ccd0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    419,
+    'Twitternation',
+    'utilize intuitive technologies',
+    4,
+    228,
+    '76319 Laurel Crossing',
+    '3/22/2025',
+    '10/19/2024',
+    '16003a95-4cbe-4f75-b1e4-1ce276612561',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    420,
+    'Blogtag',
+    'drive visionary web-readiness',
+    88,
+    81,
+    '67 Oak Valley Trail',
+    '8/24/2025',
+    '12/29/2025',
+    'dc1cb152-0cb4-411f-80e9-2ab7d37b8ecd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    421,
+    'Dabtype',
+    'synthesize turn-key convergence',
+    49,
+    641,
+    '283 Knutson Center',
+    '11/14/2025',
+    '9/3/2025',
+    '8bd6fc27-00b8-44db-94d9-cfd3714c9497',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    422,
+    'Topicware',
+    'harness cross-platform e-services',
+    58,
+    644,
+    '870 Blaine Circle',
+    '9/21/2025',
+    '4/25/2025',
+    '63dcdcf0-db78-4b0f-a8fa-d25379831abf',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    423,
+    'Oba',
+    'unleash open-source applications',
+    52,
+    929,
+    '34 Eliot Center',
+    '4/7/2026',
+    '5/10/2026',
+    '30d9d80e-75fa-4ab1-9b36-8b5ad5d7b516',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    424,
+    'Feedspan',
+    'maximize user-centric relationships',
+    79,
+    293,
+    '663 Drewry Avenue',
+    '2/6/2025',
+    '4/23/2026',
+    '4f8a3c0b-e071-46d6-ac85-caef5f473c09',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    425,
+    'Devpoint',
+    'innovate collaborative experiences',
+    90,
+    468,
+    '9800 Daystar Circle',
+    '8/8/2026',
+    '3/27/2026',
+    '28f2a63b-0091-4ab2-921d-7565372d497f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    426,
+    'Zoomzone',
+    'strategize one-to-one eyeballs',
+    25,
+    812,
+    '79080 Lindbergh Avenue',
+    '11/13/2024',
+    '1/24/2025',
+    '4a69ddf1-2852-4e68-9262-b6627ec9774b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    427,
+    'Jaxspan',
+    'extend synergistic platforms',
+    50,
+    502,
+    '9 Mcguire Trail',
+    '1/6/2026',
+    '10/17/2025',
+    '81d72ca2-e2e5-4665-92e3-7190d5bfd41e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    428,
+    'Yabox',
+    'mesh ubiquitous systems',
+    42,
+    159,
+    '6 Miller Center',
+    '8/20/2024',
+    '8/9/2025',
+    '98075e56-930a-4dba-93e8-61a77191c468',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    429,
+    'Mybuzz',
+    'optimize revolutionary bandwidth',
+    65,
+    169,
+    '0 Randy Way',
+    '11/23/2025',
+    '7/17/2025',
+    '0787ab23-50ac-44ef-b988-554fc61fa9b6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    430,
+    'Kazio',
+    'leverage seamless systems',
+    14,
+    837,
+    '949 Chive Trail',
+    '8/18/2025',
+    '9/13/2024',
+    '7a944586-d6f6-440a-8931-94913fe9f527',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    431,
+    'Talane',
+    'repurpose innovative networks',
+    42,
+    310,
+    '40481 American Place',
+    '12/3/2024',
+    '9/28/2024',
+    'a2e08749-cd43-4952-9638-18be4359a0c8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    432,
+    'Blogtags',
+    'redefine back-end models',
+    59,
+    561,
+    '6730 Lakeland Park',
+    '11/17/2024',
+    '11/17/2025',
+    'd050a326-bd3a-4060-9679-6977d1d68597',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    433,
+    'Feedspan',
+    'incubate e-business interfaces',
+    62,
+    803,
+    '45245 Prentice Court',
+    '12/4/2024',
+    '7/28/2026',
+    '2aa9d077-5073-4c2f-ac0e-d89192a5cd05',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    434,
+    'Gabcube',
+    'extend turn-key infrastructures',
+    70,
+    125,
+    '5120 Kim Hill',
+    '5/22/2025',
+    '10/4/2025',
+    '44a7ed60-64c8-4463-a099-77673c39cee2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    435,
+    'Vimbo',
+    'engineer enterprise deliverables',
+    79,
+    468,
+    '6807 Mariners Cove Street',
+    '6/7/2026',
+    '1/2/2025',
+    '5fe831ac-b3a8-40f2-a987-025af554648f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    436,
+    'Realcube',
+    'enable world-class e-business',
+    10,
+    599,
+    '9275 Lunder Lane',
+    '5/3/2025',
+    '4/13/2025',
+    'b9977558-69a7-4b42-977e-92b38ce8d436',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    437,
+    'Skidoo',
+    'synergize integrated mindshare',
+    67,
+    843,
+    '72 Carpenter Place',
+    '1/1/2026',
+    '2/4/2026',
+    '7827db00-5dc5-43bd-a0b1-1830e6e174cc',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    438,
+    'Chatterpoint',
+    'empower integrated synergies',
+    28,
+    742,
+    '59 Lerdahl Point',
+    '6/6/2026',
+    '11/30/2024',
+    'f34c0b45-cd9e-4f7e-a112-ffb72a8c632a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    439,
+    'Realpoint',
+    'maximize holistic synergies',
+    61,
+    361,
+    '7164 Golf Parkway',
+    '9/1/2025',
+    '1/20/2025',
+    'd6c5fddf-32e5-4751-b3c1-0c90271e6f1b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    440,
+    'Edgetag',
+    'brand dot-com initiatives',
+    43,
+    515,
+    '0806 Heath Parkway',
+    '12/14/2024',
+    '9/26/2024',
+    '068d95e3-838a-4996-bdac-661e4e4da8d8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    441,
+    'LiveZ',
+    'expedite killer ROI',
+    5,
+    227,
+    '245 Ramsey Crossing',
+    '1/4/2026',
+    '2/23/2026',
+    'e5b1d9d2-6f33-4db1-8d8a-3a01cbcccabe',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    442,
+    'Topicstorm',
+    'grow leading-edge technologies',
+    71,
+    647,
+    '8068 Eggendart Lane',
+    '3/19/2025',
+    '3/31/2026',
+    '7790d7fd-7b90-4d08-8e1b-f05ad4d30168',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    443,
+    'Twimm',
+    'cultivate B2C communities',
+    62,
+    698,
+    '0 Mifflin Parkway',
+    '4/8/2026',
+    '10/2/2024',
+    'c6452446-8637-41c2-b18e-28c93ad738ee',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    444,
+    'Babblestorm',
+    'harness cross-platform portals',
+    17,
+    24,
+    '8 Division Crossing',
+    '3/19/2025',
+    '3/21/2026',
+    '80cea9a2-17a2-47dc-a9a8-31286ebba46c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    445,
+    'Gigazoom',
+    'architect seamless applications',
+    88,
+    636,
+    '563 Union Plaza',
+    '5/31/2025',
+    '9/21/2024',
+    '3aa0f72a-f7f3-4288-af2d-96743084c2e7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    446,
+    'Shuffledrive',
+    'productize frictionless metrics',
+    81,
+    842,
+    '7 Westend Road',
+    '2/13/2025',
+    '7/16/2026',
+    '09c52dd1-0038-4f05-b81c-2efee39d9a96',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    447,
+    'Avamm',
+    'extend leading-edge channels',
+    75,
+    773,
+    '24056 Little Fleur Alley',
+    '7/24/2026',
+    '4/3/2025',
+    '80bdfbe5-d02d-46ce-b64e-bf311656ee7a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    448,
+    'Trilia',
+    'redefine scalable experiences',
+    87,
+    624,
+    '8 1st Junction',
+    '6/19/2026',
+    '2/2/2026',
+    '29ffdfd7-fc1f-4120-8c12-03ad99f4bf43',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    449,
+    'Zoomzone',
+    'cultivate real-time vortals',
+    58,
+    127,
+    '871 Dahle Alley',
+    '2/28/2025',
+    '11/3/2025',
+    'f2c4c1ee-0c86-4519-8dea-0a51b2e360a6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    450,
+    'Zoombeat',
+    'grow clicks-and-mortar content',
+    22,
+    650,
+    '4236 Katie Street',
+    '8/26/2025',
+    '9/5/2024',
+    'e55bd91b-ae4f-4a2c-b459-64fa2ed4f997',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    451,
+    'Plambee',
+    'transition holistic infomediaries',
+    54,
+    822,
+    '63761 Del Mar Place',
+    '10/11/2025',
+    '11/22/2025',
+    '42cdb88d-faf5-491f-96c9-40dfd10ee71f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    452,
+    'Devcast',
+    'generate vertical users',
+    64,
+    859,
+    '50052 Hintze Court',
+    '7/3/2025',
+    '5/22/2025',
+    '152ac911-bb8c-41e8-899e-f89a64e598b4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    453,
+    'Youbridge',
+    'deploy killer action-items',
+    48,
+    156,
+    '74 Hoffman Park',
+    '7/9/2025',
+    '5/19/2026',
+    '8d941e2f-5b4b-4f65-a2cf-3472a2b9de9d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    454,
+    'Jabbersphere',
+    'matrix rich models',
+    22,
+    743,
+    '7 Tony Terrace',
+    '1/3/2025',
+    '4/15/2025',
+    'c53c9623-7ac9-4d49-801d-3eda4897e152',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    455,
+    'Zoomcast',
+    'transform out-of-the-box architectures',
+    6,
+    899,
+    '9576 7th Pass',
+    '10/24/2025',
+    '1/19/2025',
+    'b515d510-5ad2-457f-b626-cf5b1e52f673',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    456,
+    'Edgeblab',
+    'whiteboard next-generation niches',
+    49,
+    570,
+    '3511 Merrick Point',
+    '5/11/2026',
+    '7/2/2026',
+    'd257436a-2bb8-42ae-b128-e4b1082f6ee6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    457,
+    'Realblab',
+    'synthesize impactful infomediaries',
+    87,
+    988,
+    '4206 Oakridge Alley',
+    '10/22/2025',
+    '11/8/2025',
+    '432fe539-423f-4080-b762-3d73a8f97e5f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    458,
+    'Trudoo',
+    'orchestrate end-to-end e-commerce',
+    98,
+    464,
+    '49771 Evergreen Junction',
+    '10/3/2025',
+    '10/18/2024',
+    '3a4919bb-2c7d-4bfd-9a21-4070731d803c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    459,
+    'Brainbox',
+    'morph virtual action-items',
+    81,
+    913,
+    '09448 Thackeray Hill',
+    '12/6/2025',
+    '7/30/2025',
+    '18aef316-ce8b-42f0-aea7-77eb84bff992',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    460,
+    'Pixope',
+    'generate intuitive mindshare',
+    6,
+    810,
+    '7635 Johnson Alley',
+    '6/14/2026',
+    '7/1/2026',
+    'f3426400-1a82-47c7-860f-ebeea1341f99',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    461,
+    'Zoozzy',
+    'exploit B2B architectures',
+    77,
+    101,
+    '8 Hintze Junction',
+    '1/31/2025',
+    '5/2/2026',
+    '8895f25d-08f1-4dd0-b748-a31ff34fa5fa',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    462,
+    'Oodoo',
+    'deploy revolutionary mindshare',
+    89,
+    770,
+    '50398 Park Meadow Pass',
+    '7/4/2025',
+    '9/9/2025',
+    '6b7e26d0-a8cb-43aa-97be-5ff522ccfc17',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    463,
+    'Nlounge',
+    'generate B2C infomediaries',
+    38,
+    407,
+    '81908 Summit Parkway',
+    '7/13/2026',
+    '11/29/2025',
+    '50ccb6c1-a4e3-4cba-9bff-59faad665213',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    464,
+    'Quimm',
+    'generate cross-media markets',
+    45,
+    598,
+    '26 West Crossing',
+    '12/6/2024',
+    '2/15/2025',
+    '9e622b87-2189-48f7-b6f1-3065098403f4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    465,
+    'Yamia',
+    'iterate distributed architectures',
+    74,
+    118,
+    '41 Monterey Drive',
+    '9/28/2024',
+    '4/21/2025',
+    '27e434b6-0911-448d-b932-73a73fc5ae81',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    466,
+    'InnoZ',
+    'aggregate synergistic platforms',
+    32,
+    920,
+    '323 Ruskin Way',
+    '1/11/2026',
+    '11/22/2025',
+    '60424a92-d788-453d-96cc-e830b5f26cde',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    467,
+    'Tagpad',
+    'maximize front-end platforms',
+    2,
+    286,
+    '95307 Hanson Terrace',
+    '8/5/2025',
+    '3/3/2026',
+    '59deb101-1aeb-4c60-86d2-84b8dc935ae9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    468,
+    'Skilith',
+    'transform end-to-end mindshare',
+    13,
+    395,
+    '559 Rutledge Junction',
+    '5/13/2025',
+    '9/12/2025',
+    'ea5c3aad-329b-49ef-b492-da5733561b62',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    469,
+    'Dynava',
+    'generate mission-critical relationships',
+    90,
+    546,
+    '912 Farragut Avenue',
+    '10/23/2024',
+    '11/1/2024',
+    '4b21396c-e9fe-4d47-960f-1d0f81591f75',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    470,
+    'Photobug',
+    'strategize cross-media experiences',
+    27,
+    895,
+    '13741 Charing Cross Road',
+    '1/29/2025',
+    '9/17/2025',
+    '186c86ef-9d37-4322-a2ba-cfbd1188aed7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    471,
+    'Skipstorm',
+    'leverage transparent technologies',
+    9,
+    658,
+    '3 Vera Court',
+    '5/4/2026',
+    '8/31/2025',
+    '3e17595e-0bd7-44c7-8af7-b7edc7d98cf7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    472,
+    'Realbridge',
+    'benchmark global eyeballs',
+    49,
+    912,
+    '98 Lerdahl Center',
+    '1/28/2025',
+    '6/11/2025',
+    '7242866e-6f93-4f9c-9dc8-c74c0b71d918',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    473,
+    'Realbridge',
+    'empower collaborative solutions',
+    73,
+    885,
+    '28131 Kipling Lane',
+    '9/29/2025',
+    '5/22/2025',
+    '5edad7a6-0a3d-40dc-9b09-301464140bc7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    474,
+    'Brainbox',
+    'harness compelling web-readiness',
+    99,
+    39,
+    '7819 Sundown Avenue',
+    '1/3/2025',
+    '3/18/2026',
+    '8ac08299-df1c-4777-8e54-2202522d0843',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    475,
+    'Centizu',
+    'matrix cutting-edge e-tailers',
+    18,
+    426,
+    '3 Kinsman Plaza',
+    '11/29/2025',
+    '12/16/2025',
+    '5192d8fc-808d-4725-b091-d9f332bb1b82',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    476,
+    'Photobean',
+    'generate bricks-and-clicks functionalities',
+    79,
+    39,
+    '153 Esch Pass',
+    '9/3/2024',
+    '2/23/2026',
+    'cbf26af5-cb3a-47b8-a052-6a5bfe635468',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    477,
+    'Kazu',
+    'morph dynamic e-commerce',
+    78,
+    753,
+    '24 Welch Drive',
+    '6/26/2025',
+    '5/21/2025',
+    '7766f6d3-8914-435f-ad38-1b25fa751ae6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    478,
+    'Innotype',
+    'utilize viral markets',
+    40,
+    731,
+    '97 Cambridge Circle',
+    '4/20/2025',
+    '2/1/2025',
+    '80686c7c-c1f2-4c43-8658-5c20f4ab2f49',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    479,
+    'Flipstorm',
+    'monetize 24/365 solutions',
+    46,
+    645,
+    '513 Oak Valley Hill',
+    '4/2/2026',
+    '12/26/2024',
+    '937f5413-2218-422f-b3a1-5418d5e8338c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    480,
+    'Tazzy',
+    'brand customized solutions',
+    55,
+    95,
+    '731 Superior Trail',
+    '8/7/2025',
+    '3/10/2025',
+    'c418878b-fe20-4888-ba65-bfca60a9cf8b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    481,
+    'Mydo',
+    'architect dynamic ROI',
+    50,
+    302,
+    '965 Alpine Hill',
+    '6/13/2026',
+    '3/6/2026',
+    'b9c22a8b-5950-4dfc-8cdc-34d57f2153c8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    482,
+    'Zoomzone',
+    'deploy impactful niches',
+    58,
+    617,
+    '7901 Alpine Court',
+    '4/2/2025',
+    '10/26/2025',
+    'b1688aba-a1ed-440f-a955-d8d755f69eee',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    483,
+    'Eayo',
+    'brand synergistic applications',
+    25,
+    218,
+    '80581 Butternut Court',
+    '2/16/2026',
+    '6/12/2025',
+    '4a43a7c2-709b-47a9-8174-75024b38e002',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    484,
+    'Tagcat',
+    'orchestrate proactive platforms',
+    71,
+    94,
+    '55 Erie Lane',
+    '11/30/2025',
+    '12/31/2024',
+    'cd687d6d-1fc0-4675-a80c-35745c8bf175',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    485,
+    'Bubblemix',
+    'orchestrate efficient convergence',
+    54,
+    92,
+    '51 Corben Street',
+    '11/24/2024',
+    '8/10/2026',
+    '4a0728d9-ecc1-4ade-816a-ea39bfbdf7d7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    486,
+    'Omba',
+    'reinvent interactive paradigms',
+    43,
+    165,
+    '5098 Jay Way',
+    '9/25/2024',
+    '4/19/2025',
+    'a97017cd-766d-47b6-a8cf-c433136b6886',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    487,
+    'Twitterwire',
+    'generate wireless models',
+    10,
+    726,
+    '8 Corry Trail',
+    '5/31/2025',
+    '1/4/2026',
+    '1a63d1fb-11b0-4dcf-a394-1e0659e82746',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    488,
+    'Brightdog',
+    'optimize killer eyeballs',
+    89,
+    732,
+    '77 Mariners Cove Pass',
+    '11/13/2025',
+    '2/23/2025',
+    '02ee2266-da3b-4cbe-8dea-fe9df97f56a2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    489,
+    'Blogspan',
+    'deliver best-of-breed e-tailers',
+    59,
+    496,
+    '7658 Bonner Road',
+    '4/28/2026',
+    '6/4/2026',
+    '08214a9e-6e51-4007-b7b7-d4ab9ced865a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    490,
+    'Jayo',
+    'leverage back-end convergence',
+    23,
+    39,
+    '0 Grover Hill',
+    '4/5/2026',
+    '4/26/2026',
+    'eb51de4e-2c69-4183-8375-8e7cc5554f43',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    491,
+    'Buzzster',
+    'exploit sexy deliverables',
+    16,
+    390,
+    '8 Fisk Alley',
+    '3/11/2025',
+    '12/28/2025',
+    '811249c1-1d45-496e-ad1f-23b1cd07d01b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    492,
+    'Mydeo',
+    'enable world-class content',
+    18,
+    698,
+    '423 Gateway Plaza',
+    '7/9/2025',
+    '11/4/2025',
+    'e69c4d84-d785-4957-a9aa-acb07939942e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    493,
+    'Yakijo',
+    'enable dynamic communities',
+    8,
+    469,
+    '2 Buhler Junction',
+    '8/29/2025',
+    '7/31/2025',
+    '09f66c1c-2e36-490b-8227-f1b228db6914',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    494,
+    'Kwilith',
+    'morph clicks-and-mortar users',
+    3,
+    418,
+    '19 Kipling Lane',
+    '9/22/2024',
+    '12/8/2024',
+    '5960f885-eb9c-4775-9838-55ee4fb1d327',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    495,
+    'Brightbean',
+    'unleash real-time supply-chains',
+    48,
+    841,
+    '8805 3rd Court',
+    '10/20/2024',
+    '8/3/2025',
+    'ba0db26d-a87c-4a83-8859-98731e24a499',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    496,
+    'Katz',
+    'iterate one-to-one ROI',
+    77,
+    728,
+    '74 Goodland Avenue',
+    '4/15/2025',
+    '10/13/2024',
+    '696996c5-63fe-4483-8d2c-afede4037114',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    497,
+    'Topiczoom',
+    'evolve open-source portals',
+    43,
+    545,
+    '667 Vera Alley',
+    '7/22/2025',
+    '1/9/2025',
+    'c505b52d-bd4d-44b6-9e68-610195896975',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    498,
+    'Teklist',
+    'empower wireless systems',
+    15,
+    6,
+    '1 Bonner Place',
+    '12/1/2025',
+    '2/20/2025',
+    '6d2c71b9-830e-42d2-8cc7-cc82e2949eef',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    499,
+    'Zooxo',
+    'evolve sexy communities',
+    3,
+    629,
+    '33795 Nevada Alley',
+    '7/25/2025',
+    '9/3/2025',
+    '28b2b923-a8a2-4cc5-873f-75a35f5327e5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    500,
+    'Cogidoo',
+    'harness enterprise e-business',
+    70,
+    514,
+    '251 Declaration Avenue',
+    '9/10/2025',
+    '12/6/2025',
+    'fc2a5e18-84d8-494a-8b0f-6fec982719ec',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    501,
+    'Blogpad',
+    'engage frictionless infomediaries',
+    33,
+    194,
+    '9367 Esch Place',
+    '9/13/2025',
+    '10/21/2025',
+    '987728cc-d94e-40e7-96ab-489b60dd67d7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    502,
+    'Skyba',
+    'implement vertical deliverables',
+    64,
+    947,
+    '77 Oneill Plaza',
+    '5/19/2026',
+    '6/14/2026',
+    '7b3e28a4-20ad-42ab-b211-34bed9aa9e90',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    503,
+    'Dynazzy',
+    'target rich bandwidth',
+    75,
+    630,
+    '06 Rowland Avenue',
+    '8/16/2025',
+    '4/27/2025',
+    '8080ea28-2533-428b-bdea-54248e9fdde1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    504,
+    'Twitterwire',
+    'strategize 24/7 e-commerce',
+    2,
+    577,
+    '186 Carpenter Plaza',
+    '2/11/2025',
+    '5/6/2026',
+    '997303ac-da32-4d5c-b4f4-202d2d771f9d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    505,
+    'Jabbercube',
+    'iterate world-class supply-chains',
+    83,
+    460,
+    '5967 Northland Lane',
+    '5/1/2026',
+    '5/28/2025',
+    'e4198e40-9ecb-4287-afc6-6645fbb38a72',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    506,
+    'Skalith',
+    'reintermediate robust e-tailers',
+    15,
+    435,
+    '61670 Superior Circle',
+    '4/2/2025',
+    '8/19/2025',
+    '1cbbdde4-403c-4512-bddf-5734da0e321b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    507,
+    'Demimbu',
+    'synergize distributed eyeballs',
+    66,
+    737,
+    '363 Northview Avenue',
+    '7/4/2026',
+    '8/2/2026',
+    'c6facb25-a3a6-4fa7-b35e-f8b5ea895884',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    508,
+    'Jabberstorm',
+    'seize end-to-end interfaces',
+    42,
+    274,
+    '747 Ludington Street',
+    '7/1/2025',
+    '9/2/2024',
+    '14c4bf13-3e01-4ab4-9692-e9b681e43225',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    509,
+    'Eamia',
+    'drive robust portals',
+    32,
+    899,
+    '1 Pankratz Trail',
+    '5/26/2026',
+    '5/17/2025',
+    'e2ec378d-a639-4ac0-b7be-93f839a42238',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    510,
+    'Feedfire',
+    'synthesize granular e-commerce',
+    70,
+    862,
+    '754 Acker Crossing',
+    '7/5/2025',
+    '3/24/2025',
+    'b7ce244b-c124-4afd-90d6-bbcf59657022',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    511,
+    'Lazzy',
+    'mesh sticky bandwidth',
+    68,
+    237,
+    '2402 Clemons Court',
+    '11/1/2024',
+    '7/20/2026',
+    'a6aced5d-436f-4f44-a30c-5e6424946bd9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    512,
+    'Omba',
+    'deliver value-added interfaces',
+    62,
+    705,
+    '68782 Fairview Pass',
+    '11/15/2024',
+    '4/26/2025',
+    '0b77f616-f91f-4a14-8128-3141b54a0288',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    513,
+    'Dabfeed',
+    'brand visionary metrics',
+    12,
+    769,
+    '1275 Dwight Park',
+    '2/8/2026',
+    '5/8/2025',
+    '0aa6321e-e279-4fad-8d59-db025a6c3966',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    514,
+    'Rhyzio',
+    'implement killer convergence',
+    81,
+    283,
+    '23 Rusk Terrace',
+    '10/30/2024',
+    '10/30/2025',
+    '3c790716-4da2-4f89-95bf-d39aa22b629e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    515,
+    'Skyba',
+    'orchestrate mission-critical paradigms',
+    70,
+    874,
+    '94338 Village Green Terrace',
+    '4/19/2025',
+    '12/6/2024',
+    '4930a12f-712e-4822-9e18-efa0a58df9cd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    516,
+    'Meevee',
+    'scale efficient initiatives',
+    68,
+    786,
+    '32 Norway Maple Trail',
+    '5/17/2025',
+    '12/25/2024',
+    'ebd3373b-7159-4de3-b814-5ac9a3189ad0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    517,
+    'Trilith',
+    'enable impactful synergies',
+    51,
+    433,
+    '0 Bonner Center',
+    '2/10/2025',
+    '9/2/2025',
+    '0557751f-7a69-47cb-9233-788fcff6a947',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    518,
+    'Talane',
+    'aggregate front-end vortals',
+    77,
+    403,
+    '764 Cambridge Trail',
+    '8/22/2024',
+    '9/19/2024',
+    'b5776022-0e55-406e-8083-305f9d7a9a73',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    519,
+    'Zoombox',
+    'e-enable front-end methodologies',
+    45,
+    28,
+    '0841 Union Park',
+    '7/26/2025',
+    '4/16/2025',
+    '839e0ad9-0f6e-4c1c-9fbd-ea76f4fcfd8d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    520,
+    'Skyble',
+    'empower user-centric convergence',
+    74,
+    323,
+    '88 Aberg Alley',
+    '1/11/2026',
+    '8/6/2026',
+    'd34eb5f1-61e1-4900-8d80-0843e7bb6ca5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    521,
+    'Jaxnation',
+    'innovate 24/365 deliverables',
+    49,
+    117,
+    '6628 Harbort Court',
+    '3/4/2025',
+    '6/21/2026',
+    '6365932f-1ee0-42fa-bd49-00cf3dd81770',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    522,
+    'Avaveo',
+    'grow synergistic paradigms',
+    80,
+    995,
+    '7256 Ridgeview Plaza',
+    '9/7/2024',
+    '8/19/2024',
+    '4977424d-4170-481e-b0be-626cf2d6359e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    523,
+    'Youspan',
+    'deliver proactive initiatives',
+    87,
+    436,
+    '50 Atwood Way',
+    '4/29/2025',
+    '5/7/2026',
+    'f95b16d9-5b67-4c5f-9e84-99bf725c1d3a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    524,
+    'Gabspot',
+    'deploy enterprise portals',
+    12,
+    895,
+    '53 Vahlen Way',
+    '2/27/2025',
+    '3/18/2026',
+    '9147ca96-c96c-46c1-ad7a-7eead461965d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    525,
+    'Eire',
+    'reintermediate real-time markets',
+    28,
+    353,
+    '353 Thackeray Crossing',
+    '12/27/2025',
+    '11/1/2025',
+    '3ee24fc1-957b-41c3-93db-ef84972c5a74',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    526,
+    'Rhyzio',
+    'extend visionary experiences',
+    97,
+    357,
+    '75738 Swallow Circle',
+    '7/10/2026',
+    '3/13/2026',
+    '65d34f77-41da-49f6-91bd-80f77fcaf468',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    527,
+    'Agivu',
+    'deploy scalable vortals',
+    14,
+    554,
+    '804 Moland Junction',
+    '5/1/2025',
+    '10/4/2024',
+    '880e32bd-7978-4e4b-90a6-e5f261ab2d07',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    528,
+    'Lazz',
+    'benchmark extensible communities',
+    51,
+    836,
+    '9069 Daystar Parkway',
+    '8/16/2024',
+    '7/31/2026',
+    '42e01a90-6081-457e-9301-abbce5ae4552',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    529,
+    'Gigazoom',
+    'repurpose next-generation architectures',
+    87,
+    416,
+    '55668 John Wall Junction',
+    '8/7/2026',
+    '2/11/2025',
+    'dd431400-0fa5-4944-82cc-f1d2e103eea9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    530,
+    'Vitz',
+    'transform bricks-and-clicks niches',
+    4,
+    358,
+    '74 Thackeray Lane',
+    '1/14/2026',
+    '4/19/2026',
+    '78bcf92c-f95a-4f1b-823e-9375f10c77c8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    531,
+    'Topicware',
+    'synergize B2B portals',
+    57,
+    392,
+    '995 Sycamore Point',
+    '7/23/2026',
+    '5/2/2026',
+    'd6c4056a-6e2c-4b59-b2c7-4ad424e0cf12',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    532,
+    'Jabbersphere',
+    'innovate bleeding-edge systems',
+    42,
+    481,
+    '0326 Oak Drive',
+    '8/22/2025',
+    '7/10/2026',
+    '2a60e049-f80a-454c-89c2-df470b99ba51',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    533,
+    'Gigaclub',
+    'productize interactive e-services',
+    15,
+    630,
+    '61 Melvin Center',
+    '2/1/2025',
+    '3/5/2025',
+    '881734ee-158a-43f9-879e-f77a6fb2ca96',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    534,
+    'Gigazoom',
+    'syndicate synergistic channels',
+    21,
+    412,
+    '2370 Carberry Plaza',
+    '7/10/2026',
+    '7/7/2026',
+    '6a6338cc-5979-4280-95a8-48c139ca0271',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    535,
+    'Roomm',
+    'integrate value-added functionalities',
+    19,
+    701,
+    '811 Sugar Alley',
+    '8/18/2024',
+    '10/27/2024',
+    '1c6e05dc-dc37-4e45-8ef5-bda4f88fb81e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    536,
+    'Photofeed',
+    'leverage B2B systems',
+    77,
+    736,
+    '90 Erie Plaza',
+    '9/7/2024',
+    '8/14/2025',
+    'f8bfa227-1182-47de-84c1-3b012f0d01b9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    537,
+    'Topicware',
+    'orchestrate ubiquitous synergies',
+    28,
+    904,
+    '97190 Goodland Point',
+    '5/23/2025',
+    '10/10/2024',
+    'f538e1f1-a081-41e3-b09e-3990ed8aad18',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    538,
+    'Gabvine',
+    'reintermediate B2B infomediaries',
+    73,
+    602,
+    '1085 Melrose Junction',
+    '2/11/2025',
+    '11/18/2024',
+    '11793e76-d531-4b77-9620-7e9cad39e3c7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    539,
+    'BlogXS',
+    'e-enable sticky metrics',
+    52,
+    582,
+    '0 Montana Hill',
+    '10/3/2024',
+    '12/21/2024',
+    'b37d7087-ee78-4613-affd-92c6db7c408f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    540,
+    'Dynava',
+    'harness world-class partnerships',
+    91,
+    883,
+    '6 Lunder Park',
+    '7/9/2026',
+    '5/30/2025',
+    '1279254f-3358-4052-9f00-2c5a7d9e9816',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    541,
+    'Divavu',
+    'evolve synergistic supply-chains',
+    67,
+    712,
+    '812 Crescent Oaks Hill',
+    '4/21/2025',
+    '1/26/2025',
+    '7b184d56-c3fb-483d-bd6a-6c2939cccb05',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    542,
+    'Meetz',
+    'recontextualize best-of-breed architectures',
+    27,
+    272,
+    '899 5th Way',
+    '11/4/2024',
+    '12/19/2025',
+    '580dde37-7c51-4faa-ace2-5c66ea841102',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    543,
+    'Jabberbean',
+    'envisioneer back-end synergies',
+    4,
+    678,
+    '416 Shasta Trail',
+    '1/16/2025',
+    '12/16/2025',
+    'e6c4e716-0b1f-4a89-b583-9d63e946a3f0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    544,
+    'Kazu',
+    'maximize front-end channels',
+    23,
+    989,
+    '3 School Parkway',
+    '4/13/2026',
+    '12/6/2025',
+    '17c7e4ec-5109-47e9-be7b-c40d54bf7271',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    545,
+    'Yombu',
+    'synthesize cutting-edge bandwidth',
+    38,
+    715,
+    '70 Marcy Trail',
+    '4/7/2025',
+    '8/12/2026',
+    'b972b7ac-31dd-47b2-943b-9e5e28aa49dc',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    546,
+    'Feedspan',
+    'extend 24/365 infrastructures',
+    33,
+    175,
+    '47923 Upham Plaza',
+    '11/12/2024',
+    '11/14/2024',
+    '681d9e3d-c20c-4c5c-8752-f93cd58201fa',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    547,
+    'Browsezoom',
+    'monetize open-source infrastructures',
+    21,
+    965,
+    '4 Anthes Crossing',
+    '10/13/2025',
+    '6/28/2026',
+    'd8a7f473-8a96-4745-b480-7ec6036053d3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    548,
+    'Gigashots',
+    'iterate clicks-and-mortar functionalities',
+    46,
+    525,
+    '7 Rigney Trail',
+    '3/12/2025',
+    '5/25/2026',
+    '4341c427-6a25-42e2-9374-4eee5965a1ca',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    549,
+    'Leexo',
+    'deploy cross-media vortals',
+    97,
+    69,
+    '82264 Summer Ridge Crossing',
+    '4/6/2026',
+    '1/16/2025',
+    '7571b16c-129e-417c-9791-6a9ca557b5ba',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    550,
+    'Realblab',
+    'utilize cross-media content',
+    56,
+    323,
+    '995 Warner Street',
+    '7/12/2025',
+    '7/18/2025',
+    '474e79d4-e986-4586-9dd3-999ed108bbe1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    551,
+    'Leenti',
+    'extend dynamic users',
+    8,
+    106,
+    '68 Pine View Street',
+    '12/3/2024',
+    '3/20/2025',
+    '8c5f7f4d-bc06-44bc-991b-33aebc8e6b07',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    552,
+    'Brainverse',
+    'cultivate enterprise platforms',
+    14,
+    124,
+    '9 Sundown Junction',
+    '3/29/2026',
+    '5/3/2025',
+    'e15dd699-4913-40be-86bf-395c43fad5c3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    553,
+    'Katz',
+    'engineer sexy platforms',
+    76,
+    286,
+    '350 Mallard Drive',
+    '6/22/2025',
+    '6/5/2025',
+    '51c43a8d-8c51-415d-87f0-8a2bd12ac184',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    554,
+    'Dynava',
+    'whiteboard web-enabled architectures',
+    14,
+    309,
+    '48484 Scott Lane',
+    '6/19/2026',
+    '2/18/2025',
+    '982188a9-3301-4d46-95c5-2ee563cbb86f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    555,
+    'Tagcat',
+    'maximize intuitive convergence',
+    45,
+    568,
+    '7 Melvin Circle',
+    '2/18/2026',
+    '8/15/2025',
+    'a9ff458e-6616-4578-b2c8-0471f1d7606b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    556,
+    'Oyope',
+    'e-enable next-generation communities',
+    67,
+    206,
+    '37 Aberg Crossing',
+    '4/21/2025',
+    '10/25/2025',
+    'b87f21a2-d209-4c1d-8b5f-bb191b80f35a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    557,
+    'Edgeclub',
+    'harness granular applications',
+    62,
+    175,
+    '887 Larry Way',
+    '12/10/2024',
+    '3/14/2025',
+    'b089ea52-9f9f-41f0-87c7-c6e5d20059d3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    558,
+    'Photobug',
+    'seize one-to-one infrastructures',
+    46,
+    859,
+    '0893 Crescent Oaks Center',
+    '1/27/2025',
+    '11/9/2024',
+    '6209b3ee-d76e-4760-aa8b-f08c80eab11b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    559,
+    'Jabberstorm',
+    'empower compelling markets',
+    21,
+    134,
+    '1 Autumn Leaf Way',
+    '2/23/2025',
+    '10/31/2024',
+    '4914c68d-592a-491c-8ec4-1eb050844d81',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    560,
+    'Rooxo',
+    'empower front-end portals',
+    98,
+    317,
+    '28 Melrose Terrace',
+    '11/23/2025',
+    '4/9/2025',
+    'e869f0a6-8c71-4684-bf86-eb9957ac54bb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    561,
+    'Ooba',
+    'engineer interactive platforms',
+    11,
+    837,
+    '8201 Ridge Oak Road',
+    '11/22/2025',
+    '12/11/2025',
+    '0c959dc8-e474-492d-8ff4-d0a17f60c006',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    562,
+    'Edgepulse',
+    'engineer seamless action-items',
+    34,
+    4,
+    '77 Forest Dale Pass',
+    '6/29/2026',
+    '12/30/2024',
+    '43e8ba64-7ccf-4aac-bcc0-db91820908a5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    563,
+    'Skinix',
+    'expedite wireless infomediaries',
+    27,
+    965,
+    '773 Hayes Junction',
+    '12/25/2024',
+    '10/5/2025',
+    '54c63d61-24d2-4a85-986f-a722c0ec29d0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    564,
+    'Dynava',
+    'recontextualize e-business e-commerce',
+    7,
+    885,
+    '0646 Hudson Parkway',
+    '9/15/2025',
+    '7/23/2026',
+    '37e97132-3547-4022-aa36-c9df190f695f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    565,
+    'Divanoodle',
+    'repurpose proactive partnerships',
+    50,
+    176,
+    '61704 Riverside Street',
+    '8/20/2024',
+    '10/26/2025',
+    '26b2fc6b-57b4-46a7-8e60-e212cb502373',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    566,
+    'Trupe',
+    'engage value-added markets',
+    41,
+    193,
+    '821 Steensland Alley',
+    '8/27/2025',
+    '8/24/2025',
+    '252d860e-11a9-4cfe-9597-a97eb7429ecd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    567,
+    'Jabberstorm',
+    'brand enterprise partnerships',
+    81,
+    285,
+    '4 Luster Circle',
+    '3/14/2026',
+    '7/1/2026',
+    '6afd850a-97ef-4cef-86b0-06e05cd4bb55',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    568,
+    'Meezzy',
+    'empower holistic action-items',
+    88,
+    96,
+    '1 Autumn Leaf Terrace',
+    '6/13/2026',
+    '1/21/2026',
+    '68ce57cc-bd63-4b0a-a739-5439825e26d6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    569,
+    'Photobug',
+    'brand granular systems',
+    7,
+    827,
+    '231 Center Crossing',
+    '1/23/2025',
+    '9/5/2025',
+    '17590225-8e8a-4088-8748-4176489d9668',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    570,
+    'Twitterwire',
+    'exploit distributed partnerships',
+    72,
+    203,
+    '024 Graceland Court',
+    '12/20/2024',
+    '10/28/2024',
+    'b117dd8e-8573-46bc-b07f-96df837bbfd9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    571,
+    'Dablist',
+    'harness visionary infrastructures',
+    40,
+    295,
+    '4944 Gateway Center',
+    '10/28/2025',
+    '11/28/2025',
+    'fd645ab1-2c13-4c89-8693-8be9a700a0d2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    572,
+    'Kwideo',
+    'productize revolutionary web services',
+    43,
+    522,
+    '7 Hauk Point',
+    '2/15/2025',
+    '1/19/2026',
+    'e1e76c5a-dade-4535-bdc6-6bf057992946',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    573,
+    'Demimbu',
+    'harness magnetic functionalities',
+    73,
+    455,
+    '306 Lukken Road',
+    '2/25/2025',
+    '8/27/2025',
+    '72778bf3-3141-4f30-9107-6ff3b39a0937',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    574,
+    'Vimbo',
+    'visualize out-of-the-box relationships',
+    90,
+    795,
+    '628 Barby Place',
+    '11/29/2024',
+    '5/26/2026',
+    '2d923474-1524-493f-8673-2e0dcb8d39ff',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    575,
+    'Abata',
+    'reintermediate impactful ROI',
+    18,
+    656,
+    '822 Crest Line Trail',
+    '4/20/2025',
+    '8/13/2024',
+    '1250eaba-55a4-47f0-a8cf-2530b11c7ed3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    576,
+    'Centizu',
+    'maximize one-to-one applications',
+    66,
+    681,
+    '7 Oak Valley Junction',
+    '6/22/2025',
+    '2/27/2025',
+    'ac9a5240-7c15-424e-93a0-ea0d3bdfc25d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    577,
+    'Blogtags',
+    'leverage intuitive relationships',
+    43,
+    133,
+    '73089 Springs Crossing',
+    '7/27/2025',
+    '5/11/2025',
+    'da5cf365-d340-4c28-83e8-b1f976654fe3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    578,
+    'Topicshots',
+    'deploy value-added methodologies',
+    41,
+    783,
+    '46 La Follette Drive',
+    '3/2/2025',
+    '11/3/2024',
+    'a14cc3a1-dde6-4643-89ac-b7d99ffc2b05',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    579,
+    'Chatterpoint',
+    'engage efficient platforms',
+    25,
+    717,
+    '8400 Arrowood Hill',
+    '10/10/2025',
+    '12/1/2024',
+    'e788602d-4345-4775-83b6-bbdbe60bf082',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    580,
+    'Lajo',
+    'drive bleeding-edge networks',
+    10,
+    659,
+    '790 Mayer Way',
+    '12/2/2025',
+    '10/21/2024',
+    'd9153bfc-c895-4699-91d3-3971b34176d0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    581,
+    'Voonix',
+    'engage revolutionary experiences',
+    58,
+    166,
+    '9327 Northland Circle',
+    '6/27/2026',
+    '9/29/2025',
+    'fb907e44-83e5-4bf0-b651-3568d6f71a92',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    582,
+    'Bluejam',
+    'repurpose out-of-the-box platforms',
+    12,
+    686,
+    '54 Thompson Lane',
+    '2/22/2026',
+    '6/25/2026',
+    'c07a3a9c-0ee5-4570-86c5-767e94fc9191',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    583,
+    'Oozz',
+    'e-enable dot-com supply-chains',
+    72,
+    808,
+    '20588 Havey Terrace',
+    '4/7/2026',
+    '9/13/2025',
+    '3fed1d6a-62bb-4f53-909a-95c69e722661',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    584,
+    'Quire',
+    'deploy global niches',
+    9,
+    225,
+    '41145 Welch Street',
+    '12/15/2024',
+    '8/5/2025',
+    '526d5795-23ce-4607-acb1-c805929aae03',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    585,
+    'Feedfire',
+    'reinvent transparent markets',
+    86,
+    429,
+    '4 Petterle Point',
+    '11/28/2025',
+    '8/23/2025',
+    'daf147d1-9271-4f0f-ac7a-e061621b1386',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    586,
+    'Skipstorm',
+    'productize viral solutions',
+    26,
+    593,
+    '60 High Crossing Road',
+    '10/15/2025',
+    '6/4/2026',
+    'd169f425-cb4c-42d8-a96a-4284ca5f28fb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    587,
+    'Skyndu',
+    'architect sticky deliverables',
+    89,
+    773,
+    '709 Swallow Hill',
+    '12/27/2024',
+    '5/29/2025',
+    'afa5e5d4-b16a-4ece-86b5-fa54f22d48ba',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    588,
+    'Oyondu',
+    'streamline efficient channels',
+    18,
+    205,
+    '15 7th Pass',
+    '1/7/2025',
+    '3/8/2025',
+    '6623e25f-ce3b-4714-9c9d-59358a820210',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    589,
+    'Eimbee',
+    'synthesize 24/7 e-services',
+    49,
+    724,
+    '91 Boyd Road',
+    '7/3/2026',
+    '3/23/2025',
+    'f6ef48b6-ea16-47f4-97f5-0497897147c6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    590,
+    'Yacero',
+    'seize integrated users',
+    59,
+    772,
+    '5851 Heffernan Street',
+    '10/10/2025',
+    '6/18/2025',
+    '20c5b4fb-8281-4aaf-970f-eb522de4c2ce',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    591,
+    'Zazio',
+    'enhance visionary e-tailers',
+    98,
+    219,
+    '08 Emmet Street',
+    '12/14/2024',
+    '7/23/2026',
+    '1c1c0ab3-01ea-4b82-9dc6-fefbb5237ddd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    592,
+    'Blognation',
+    'implement bleeding-edge supply-chains',
+    42,
+    987,
+    '71963 Atwood Road',
+    '4/21/2026',
+    '8/19/2024',
+    '59cd4031-0bd0-4f0c-91b0-d53f9c535387',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    593,
+    'Fatz',
+    'optimize impactful partnerships',
+    40,
+    132,
+    '323 Waywood Street',
+    '8/4/2026',
+    '2/12/2026',
+    '84906d80-940b-4c1b-94e9-b4a8994c67a2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    594,
+    'Mita',
+    'repurpose collaborative mindshare',
+    37,
+    399,
+    '475 Milwaukee Terrace',
+    '11/30/2025',
+    '11/28/2025',
+    '1a34225a-4d47-455b-ade4-cecb5e229337',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    595,
+    'Oyondu',
+    'syndicate enterprise initiatives',
+    51,
+    377,
+    '54027 Shasta Place',
+    '12/8/2024',
+    '1/17/2025',
+    'a7fc255c-3c69-49e9-8ff1-249316cbd212',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    596,
+    'Skyvu',
+    'brand frictionless solutions',
+    33,
+    487,
+    '10 Alpine Park',
+    '5/31/2026',
+    '10/6/2024',
+    'ee04ced5-8cf5-46b0-9cfb-d98c2607a000',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    597,
+    'Kimia',
+    'whiteboard real-time users',
+    86,
+    526,
+    '49649 North Park',
+    '10/8/2025',
+    '9/3/2024',
+    'a6721af9-b743-41e4-8949-bab169d08b5e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    598,
+    'Trilia',
+    'seize synergistic infrastructures',
+    14,
+    284,
+    '5217 Hollow Ridge Terrace',
+    '7/28/2026',
+    '7/14/2026',
+    '688353dc-05c4-464f-98ce-4c579d52b804',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    599,
+    'Camido',
+    'whiteboard vertical systems',
+    12,
+    854,
+    '9200 Loeprich Drive',
+    '11/27/2024',
+    '10/8/2024',
+    '076da03d-888f-44a9-94a1-7e3506ddaa69',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    600,
+    'Jayo',
+    'transform revolutionary supply-chains',
+    16,
+    243,
+    '12 Brown Court',
+    '3/15/2025',
+    '2/23/2025',
+    '2f965a31-140c-4f91-9988-051dbcc81ae1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    601,
+    'Realmix',
+    'brand collaborative web-readiness',
+    20,
+    306,
+    '67 Marquette Place',
+    '4/14/2025',
+    '5/2/2025',
+    '62255e15-dd69-4be8-8ffe-484ca655e86b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    602,
+    'Innotype',
+    'target customized infrastructures',
+    32,
+    558,
+    '495 Johnson Circle',
+    '3/24/2026',
+    '11/1/2024',
+    'c92a8f07-a29c-4ddc-9d5c-d387bf9d1d70',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    603,
+    'Zoovu',
+    'implement granular solutions',
+    78,
+    479,
+    '47714 Bashford Point',
+    '7/11/2025',
+    '10/28/2024',
+    '09b5bf6a-2c58-4d20-b1b5-3aacac43c859',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    604,
+    'Skiba',
+    'disintermediate rich e-markets',
+    48,
+    829,
+    '977 Eliot Lane',
+    '7/3/2026',
+    '8/20/2025',
+    '4466d816-9fdf-46c4-b00c-bda14dcf3cce',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    605,
+    'Tekfly',
+    'generate bricks-and-clicks systems',
+    81,
+    831,
+    '9 Lukken Road',
+    '10/16/2024',
+    '7/15/2025',
+    '9d52f068-571c-48df-9acf-cebcde530638',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    606,
+    'Digitube',
+    'incubate strategic content',
+    6,
+    707,
+    '0425 Commercial Trail',
+    '11/11/2025',
+    '10/25/2025',
+    'dbf9c4c7-31cd-4a7e-a0de-6b9500f6536d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    607,
+    'Topdrive',
+    'deliver dynamic ROI',
+    65,
+    8,
+    '55498 Kennedy Avenue',
+    '11/21/2024',
+    '6/24/2026',
+    '113d48b6-453b-40bd-8bfe-1fe51d0d095a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    608,
+    'Jabbercube',
+    'matrix e-business applications',
+    64,
+    542,
+    '71 Delaware Park',
+    '7/11/2025',
+    '9/25/2024',
+    '056c5f52-6baf-45a3-8749-8d7a02a262fe',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    609,
+    'Tagopia',
+    'synthesize intuitive systems',
+    97,
+    835,
+    '730 Northland Drive',
+    '11/29/2024',
+    '12/23/2024',
+    '3386a453-57a0-4970-8687-ca702d11ffcc',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    610,
+    'Topicware',
+    'recontextualize front-end platforms',
+    43,
+    514,
+    '22 Superior Center',
+    '4/19/2026',
+    '11/29/2024',
+    '38d2d4ab-9ede-495d-84df-bbd80cded8cb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    611,
+    'Edgewire',
+    'scale world-class supply-chains',
+    59,
+    539,
+    '0290 Heffernan Trail',
+    '5/30/2026',
+    '2/3/2026',
+    'a6f1b411-c32d-4bbc-94ac-6060164a6101',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    612,
+    'Devpulse',
+    'transform cross-media partnerships',
+    91,
+    755,
+    '632 Butternut Center',
+    '7/28/2025',
+    '4/15/2025',
+    '47755259-5b06-4940-9d6b-259f0a0cac63',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    613,
+    'Photobean',
+    'repurpose global methodologies',
+    14,
+    521,
+    '7899 Bluestem Parkway',
+    '4/13/2026',
+    '9/12/2024',
+    '325626df-a2b3-4e47-adc7-0201d25459fe',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    614,
+    'Realbuzz',
+    'unleash world-class web-readiness',
+    43,
+    58,
+    '15 Glacier Hill Way',
+    '4/6/2025',
+    '4/30/2025',
+    'db73901b-12d2-472e-a516-38326c0e2640',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    615,
+    'Yambee',
+    'innovate innovative deliverables',
+    40,
+    620,
+    '06150 Clemons Hill',
+    '5/25/2026',
+    '11/20/2025',
+    'c5e52e23-6758-4c1c-817f-9be9665a92c0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    616,
+    'Gabspot',
+    'visualize extensible platforms',
+    65,
+    709,
+    '55295 Barby Avenue',
+    '9/1/2025',
+    '7/1/2025',
+    'df6fb60d-be6f-48bc-93ff-1ddd46222b21',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    617,
+    'Skiba',
+    'deploy world-class e-commerce',
+    41,
+    512,
+    '5 Lien Court',
+    '11/11/2025',
+    '12/28/2024',
+    '99acd329-0d5b-45b1-a71a-597a8b2a6093',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    618,
+    'Ainyx',
+    'brand cross-media methodologies',
+    69,
+    876,
+    '51 Morningstar Lane',
+    '11/27/2024',
+    '8/2/2026',
+    '30b6ce82-8e8f-49a1-ac00-cb7113fac270',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    619,
+    'Skippad',
+    'morph rich partnerships',
+    19,
+    998,
+    '5 Hintze Street',
+    '11/12/2024',
+    '2/24/2025',
+    'c744ff26-96bb-4394-8f2e-a75c2f3ac89c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    620,
+    'Dabjam',
+    'implement 24/365 platforms',
+    55,
+    408,
+    '86905 Eastwood Alley',
+    '6/25/2025',
+    '6/21/2025',
+    '52738197-7ccb-4506-bfd4-d2d7b8a374cd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    621,
+    'Mydo',
+    'exploit best-of-breed metrics',
+    31,
+    776,
+    '4 School Crossing',
+    '10/9/2024',
+    '8/9/2026',
+    '6f271b48-15e3-47d7-b1de-97a7163ca82c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    622,
+    'Buzzshare',
+    'optimize next-generation e-services',
+    5,
+    402,
+    '25 Gateway Drive',
+    '11/4/2025',
+    '10/27/2025',
+    '662056ac-7e55-43bf-805a-b31171a9eb18',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    623,
+    'Gabvine',
+    'target cross-platform methodologies',
+    16,
+    683,
+    '6 Linden Avenue',
+    '5/26/2026',
+    '11/29/2025',
+    'ebfa6908-8362-45d8-a05a-6e46a1f2f0e9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    624,
+    'Dabfeed',
+    'streamline revolutionary communities',
+    20,
+    89,
+    '37942 Morningstar Plaza',
+    '11/10/2025',
+    '2/10/2026',
+    'f90a0398-c1f9-4a94-a424-987796b41322',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    625,
+    'BlogXS',
+    'e-enable B2B infrastructures',
+    34,
+    368,
+    '56039 7th Center',
+    '3/2/2025',
+    '3/17/2025',
+    '9a1b9fc3-0ba1-402f-b199-21e803d52a5c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    626,
+    'Thoughtworks',
+    'matrix e-business schemas',
+    81,
+    472,
+    '7828 Eastwood Point',
+    '9/11/2024',
+    '2/28/2025',
+    'fdce6f0a-66f7-4773-96b8-ee05b6412eca',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    627,
+    'Dynabox',
+    'architect bleeding-edge functionalities',
+    41,
+    653,
+    '035 Stone Corner Pass',
+    '12/2/2024',
+    '6/19/2026',
+    'e94f116a-918a-4cc6-8d13-f007612ae0dd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    628,
+    'Avamba',
+    'productize magnetic niches',
+    30,
+    434,
+    '29 Sutherland Junction',
+    '5/26/2025',
+    '5/21/2026',
+    '13156b6c-11a4-412f-863b-bab4da20e602',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    629,
+    'Teklist',
+    'synergize ubiquitous convergence',
+    55,
+    606,
+    '172 Dapin Hill',
+    '6/11/2026',
+    '8/28/2025',
+    'a8f74597-ff99-472c-abcf-97bbaedc05eb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    630,
+    'Brainsphere',
+    'harness global supply-chains',
+    87,
+    762,
+    '739 Shelley Point',
+    '5/17/2025',
+    '2/9/2025',
+    'dcfe78f0-b211-44a2-962e-d25deea34506',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    631,
+    'Skimia',
+    'drive leading-edge bandwidth',
+    83,
+    49,
+    '9461 Toban Road',
+    '7/10/2026',
+    '3/24/2025',
+    'a28a2445-6f39-4238-a455-363edb9f32c1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    632,
+    'BlogXS',
+    'target 24/365 methodologies',
+    26,
+    597,
+    '770 Charing Cross Junction',
+    '7/1/2025',
+    '1/2/2025',
+    '6d7f7d23-12e6-4232-b6b3-68ccf2e36177',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    633,
+    'Ntags',
+    'engage rich platforms',
+    10,
+    381,
+    '8045 Sunnyside Alley',
+    '1/8/2025',
+    '12/21/2025',
+    'bcec6e41-8abd-4dad-9554-a5c7c366ee85',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    634,
+    'Twitterlist',
+    'empower dynamic architectures',
+    92,
+    1000,
+    '250 Bartelt Road',
+    '6/30/2025',
+    '12/29/2024',
+    '90e68be3-c318-4d25-9c0c-1879c1a13929',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    635,
+    'Quimba',
+    'engineer turn-key applications',
+    98,
+    788,
+    '25 Corry Avenue',
+    '6/25/2026',
+    '2/9/2025',
+    '238fa3da-2a64-48c2-8c45-51194dab26da',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    636,
+    'Fadeo',
+    'evolve integrated e-services',
+    86,
+    757,
+    '2676 Kenwood Junction',
+    '2/26/2025',
+    '3/25/2025',
+    '8a73fad9-459f-4086-a5a8-9b3343db9fb2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    637,
+    'Bluezoom',
+    'transform turn-key markets',
+    40,
+    767,
+    '9082 Golden Leaf Junction',
+    '2/17/2026',
+    '8/26/2024',
+    '0f3bfd0b-c21f-4b02-924a-3ac9975716eb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    638,
+    'Muxo',
+    'architect wireless e-tailers',
+    18,
+    650,
+    '315 Mitchell Point',
+    '9/17/2025',
+    '10/3/2024',
+    '60d72488-1ed8-4914-8c38-6acdccad0406',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    639,
+    'Kamba',
+    'disintermediate sexy synergies',
+    74,
+    618,
+    '986 Donald Avenue',
+    '11/12/2024',
+    '5/16/2026',
+    'e5872bda-664b-476d-8323-a12e0b15b9c3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    640,
+    'Brainsphere',
+    'mesh cross-platform paradigms',
+    92,
+    88,
+    '896 Hayes Junction',
+    '8/24/2025',
+    '5/7/2026',
+    '26f561fe-0df9-4734-bf3b-ff1a7d0ee5d1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    641,
+    'LiveZ',
+    'embrace global partnerships',
+    6,
+    68,
+    '12 Kim Point',
+    '1/18/2026',
+    '7/4/2025',
+    '914b6479-cb91-4b4b-970a-72e5209a8b46',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    642,
+    'Twinte',
+    'generate magnetic supply-chains',
+    11,
+    819,
+    '83 Pond Junction',
+    '10/12/2024',
+    '4/16/2025',
+    '152a9181-845f-4b6d-aba5-6bc5f3d6e837',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    643,
+    'Wikibox',
+    'engineer dynamic platforms',
+    81,
+    51,
+    '5568 West Court',
+    '4/10/2026',
+    '5/7/2026',
+    '2da3a10b-e184-46c2-a946-a93917df1897',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    644,
+    'Thoughtbeat',
+    'productize interactive infomediaries',
+    80,
+    305,
+    '0 Loeprich Drive',
+    '7/1/2026',
+    '5/17/2026',
+    'eda97e24-40ce-4979-8546-099f13b5266d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    645,
+    'Skyvu',
+    'utilize end-to-end bandwidth',
+    31,
+    116,
+    '72811 Fair Oaks Street',
+    '1/29/2026',
+    '5/2/2026',
+    'f8a1d503-3a6b-499b-9605-57b5d64f56e4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    646,
+    'Camimbo',
+    'whiteboard integrated initiatives',
+    40,
+    401,
+    '134 Prairieview Drive',
+    '6/3/2026',
+    '9/14/2024',
+    '99a5f30f-ecd9-447f-8ce8-d21fe2cd9cd8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    647,
+    'Ntags',
+    'orchestrate intuitive synergies',
+    80,
+    93,
+    '8419 Talmadge Place',
+    '3/10/2026',
+    '2/17/2026',
+    'a027e728-b92f-4262-98db-38626007ad8d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    648,
+    'Dabjam',
+    'grow rich metrics',
+    84,
+    792,
+    '64713 Petterle Court',
+    '5/28/2026',
+    '7/1/2025',
+    '1a246545-9a6c-4482-8e65-f4591b47d4eb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    649,
+    'Wordtune',
+    'incentivize sticky paradigms',
+    41,
+    459,
+    '74 Southridge Road',
+    '7/8/2025',
+    '5/28/2026',
+    '7403a047-a036-48e4-a124-4b9bc4e66ba8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    650,
+    'Ailane',
+    'reintermediate out-of-the-box applications',
+    30,
+    93,
+    '9281 Fisk Point',
+    '11/6/2025',
+    '4/17/2025',
+    '9b747ffa-edf2-46ac-a0ab-660736557734',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    651,
+    'Photobean',
+    'generate efficient portals',
+    47,
+    784,
+    '11531 Delaware Crossing',
+    '11/18/2024',
+    '2/6/2026',
+    '25c51751-800d-479c-aaaf-55a0898cf05c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    652,
+    'Janyx',
+    'cultivate global infomediaries',
+    72,
+    374,
+    '2508 Merrick Circle',
+    '3/12/2025',
+    '6/1/2025',
+    '2124a991-a05b-4f51-acb8-2e00f555e920',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    653,
+    'Babbleset',
+    'unleash mission-critical systems',
+    6,
+    741,
+    '54 Lukken Park',
+    '7/7/2026',
+    '9/17/2024',
+    '4b6167ee-f7bc-4c3b-b010-3fb2da745c1b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    654,
+    'Realbridge',
+    'disintermediate transparent e-business',
+    14,
+    187,
+    '75 Rigney Plaza',
+    '3/29/2025',
+    '1/12/2026',
+    '840af1ac-c876-41a7-ad67-d11f480d6649',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    655,
+    'Edgewire',
+    'repurpose front-end relationships',
+    57,
+    98,
+    '2 Hoffman Pass',
+    '7/19/2026',
+    '1/17/2026',
+    '686b70ae-7be8-4911-ae3a-43088ff5f0ed',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    656,
+    'Mita',
+    'architect revolutionary eyeballs',
+    28,
+    944,
+    '3 Merry Crossing',
+    '6/10/2025',
+    '9/22/2025',
+    '32338358-3f61-47e9-a4d0-4201d91d713a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    657,
+    'Wikibox',
+    'transition mission-critical users',
+    4,
+    549,
+    '3 Delaware Circle',
+    '9/10/2025',
+    '7/1/2025',
+    '0e1910d6-df39-4060-98b7-d801f9301255',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    658,
+    'Jetwire',
+    'engage plug-and-play partnerships',
+    27,
+    523,
+    '31 Longview Street',
+    '10/12/2024',
+    '2/23/2026',
+    'dc50d43a-8fea-4305-85db-bd482cf7cb29',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    659,
+    'Linkbridge',
+    'streamline dot-com partnerships',
+    26,
+    975,
+    '61 Vahlen Road',
+    '8/28/2025',
+    '10/3/2024',
+    'b0836c73-57e0-4e11-bd49-c3f80c29a9c3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    660,
+    'Vinder',
+    'orchestrate efficient experiences',
+    91,
+    165,
+    '1045 Eliot Center',
+    '10/27/2025',
+    '2/13/2026',
+    '63e2b281-18a5-4aec-bf4d-6ee93ab8602f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    661,
+    'Eadel',
+    'target value-added e-tailers',
+    45,
+    142,
+    '6 Park Meadow Alley',
+    '5/12/2026',
+    '3/24/2026',
+    'f73ac21f-85e6-45e8-8099-e3ebdf2b217e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    662,
+    'Browsebug',
+    'incubate proactive infomediaries',
+    60,
+    67,
+    '38 Waywood Drive',
+    '9/8/2025',
+    '11/8/2025',
+    'e0cd9a4c-f766-4b6e-8586-bb602fb2cc7f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    663,
+    'Edgeblab',
+    'enable cutting-edge infrastructures',
+    30,
+    482,
+    '4 Oneill Court',
+    '4/29/2026',
+    '8/11/2026',
+    'ca739116-7026-4e18-923f-d4d959b98ebd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    664,
+    'Mita',
+    'matrix revolutionary action-items',
+    38,
+    991,
+    '84597 Sutteridge Way',
+    '4/1/2026',
+    '8/21/2025',
+    '90c93dd1-ddae-4a45-8111-78aa6e53b425',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    665,
+    'Voonder',
+    'scale transparent action-items',
+    84,
+    689,
+    '734 Eagan Place',
+    '2/21/2026',
+    '12/12/2024',
+    '5375beb6-99dc-4da3-8857-97b7a2b0dc07',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    666,
+    'Topdrive',
+    'empower plug-and-play systems',
+    75,
+    765,
+    '42 Heath Place',
+    '4/18/2026',
+    '1/26/2025',
+    'bfe31718-c041-4eb4-a642-f090fa042401',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    667,
+    'Yamia',
+    'maximize scalable infomediaries',
+    83,
+    261,
+    '9789 Maple Wood Avenue',
+    '4/14/2026',
+    '12/24/2025',
+    '12cbf3a4-bc98-4484-961e-8390ff472c1a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    668,
+    'Trilith',
+    'visualize mission-critical web-readiness',
+    7,
+    761,
+    '7040 Kedzie Drive',
+    '1/5/2025',
+    '3/29/2025',
+    '8021a358-9d75-4e05-999f-d60f6b74697d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    669,
+    'Oloo',
+    'seize distributed e-markets',
+    8,
+    425,
+    '7981 Dottie Terrace',
+    '3/12/2025',
+    '4/28/2025',
+    '621a866d-c079-4854-9968-6b1f0fc9ae9f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    670,
+    'Livepath',
+    'empower B2C supply-chains',
+    92,
+    361,
+    '593 Pennsylvania Crossing',
+    '6/2/2026',
+    '5/7/2025',
+    'f050e202-8514-48e1-aee9-11285309343a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    671,
+    'Plambee',
+    'transform enterprise action-items',
+    51,
+    529,
+    '26291 Red Cloud Hill',
+    '4/5/2025',
+    '2/6/2025',
+    'eedb059c-83b0-4939-836e-230dc637c3f8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    672,
+    'Livetube',
+    'transition innovative solutions',
+    65,
+    489,
+    '16049 Pine View Center',
+    '8/8/2025',
+    '5/15/2026',
+    'ee50ef0a-f018-484a-a914-466c19c8b5e5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    673,
+    'Oozz',
+    'aggregate ubiquitous relationships',
+    4,
+    241,
+    '1699 Sage Center',
+    '5/24/2026',
+    '2/26/2025',
+    'dc9a94df-2c6a-425c-be7a-3c326a80d230',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    674,
+    'Meejo',
+    'deploy clicks-and-mortar ROI',
+    81,
+    515,
+    '69632 1st Court',
+    '7/20/2026',
+    '4/19/2025',
+    '8c920e12-83d5-4bf8-9451-adeeae600f37',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    675,
+    'Riffwire',
+    'synthesize next-generation initiatives',
+    99,
+    142,
+    '25816 Utah Street',
+    '7/14/2025',
+    '2/1/2026',
+    '68f433ca-bf2a-412f-b4a3-3eed78cb48a9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    676,
+    'Edgepulse',
+    'harness turn-key architectures',
+    48,
+    403,
+    '091 Brown Crossing',
+    '4/25/2026',
+    '9/26/2024',
+    'bc27bbbb-e4fc-429e-88cf-02d52351603f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    677,
+    'Livepath',
+    'enhance sticky portals',
+    86,
+    942,
+    '554 Golf View Crossing',
+    '3/24/2025',
+    '4/23/2026',
+    'c96411bf-80a3-453a-9ad1-191863b28d57',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    678,
+    'Trudoo',
+    'maximize strategic eyeballs',
+    10,
+    412,
+    '7499 Mccormick Lane',
+    '11/30/2025',
+    '9/2/2024',
+    'eeee7920-4e99-49eb-8068-ca7c5519c61f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    679,
+    'Layo',
+    'recontextualize web-enabled vortals',
+    73,
+    851,
+    '8 Luster Way',
+    '6/2/2025',
+    '7/30/2025',
+    'e69e8961-78cc-45d4-8840-8466394048a9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    680,
+    'Jaxbean',
+    'mesh distributed technologies',
+    96,
+    658,
+    '50 Haas Crossing',
+    '1/16/2026',
+    '7/29/2025',
+    '7002b4e6-2467-4824-8921-6a5c4a6fbe72',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    681,
+    'Gevee',
+    'implement dot-com channels',
+    43,
+    939,
+    '6 Hayes Center',
+    '2/22/2025',
+    '9/18/2025',
+    '160ae587-a546-494f-b65e-cd4e443b4628',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    682,
+    'Voonix',
+    'utilize distributed partnerships',
+    89,
+    689,
+    '736 Golf View Street',
+    '3/24/2026',
+    '9/24/2025',
+    '958d34f4-0d45-4e79-a6b0-17421f504ab2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    683,
+    'Eire',
+    'productize dynamic mindshare',
+    44,
+    864,
+    '3 Ronald Regan Street',
+    '7/9/2026',
+    '12/9/2024',
+    'bcec436c-513b-4bd1-9b80-7a2757ff960c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    684,
+    'Divavu',
+    'utilize global supply-chains',
+    28,
+    600,
+    '63887 Forster Circle',
+    '11/28/2025',
+    '9/6/2025',
+    'df1af1ec-6484-4eb3-94b8-bdd4af0081a9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    685,
+    'Yambee',
+    'engineer ubiquitous functionalities',
+    73,
+    960,
+    '4252 Rockefeller Pass',
+    '1/30/2026',
+    '3/12/2026',
+    '7a96c603-e73e-4658-96ed-9df09a8e1256',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    686,
+    'Trupe',
+    'disintermediate bleeding-edge methodologies',
+    56,
+    670,
+    '4303 Dayton Crossing',
+    '9/13/2025',
+    '11/29/2024',
+    '7eed1b39-84c4-4ffc-9123-540872e6f5a1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    687,
+    'Buzzster',
+    'monetize global interfaces',
+    2,
+    695,
+    '679 Morningstar Drive',
+    '4/2/2026',
+    '8/28/2024',
+    'ad129274-94a5-4e6e-b303-978e9641b543',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    688,
+    'Dynabox',
+    'e-enable plug-and-play bandwidth',
+    9,
+    243,
+    '3684 Manitowish Road',
+    '10/21/2025',
+    '3/17/2025',
+    'cbe66d2f-97b0-4a35-8753-48cd4ba9ba78',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    689,
+    'Abatz',
+    'orchestrate sticky action-items',
+    49,
+    372,
+    '4 Johnson Plaza',
+    '10/14/2024',
+    '7/11/2026',
+    'f40d52b1-c294-4e4e-a4bf-7418a3631558',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    690,
+    'Edgeify',
+    'empower best-of-breed technologies',
+    21,
+    643,
+    '85 Oxford Plaza',
+    '12/11/2025',
+    '4/9/2025',
+    'e6afc46c-afcc-469a-b885-6c8ac460cffb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    691,
+    'Mudo',
+    'iterate plug-and-play solutions',
+    93,
+    483,
+    '16 Dennis Trail',
+    '1/19/2026',
+    '9/4/2024',
+    '4139ee30-a48e-4ad8-adbf-66c57cef966a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    692,
+    'Kayveo',
+    'benchmark granular paradigms',
+    35,
+    367,
+    '28817 Carberry Street',
+    '2/18/2025',
+    '4/30/2025',
+    '8d2f361a-786f-4881-8dde-65453366dcd8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    693,
+    'Zoomdog',
+    'enable best-of-breed networks',
+    7,
+    764,
+    '97459 Colorado Trail',
+    '6/23/2026',
+    '5/16/2026',
+    '8e41debe-5d3b-46ee-b951-78878cfdd9d2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    694,
+    'Fivespan',
+    'revolutionize ubiquitous experiences',
+    22,
+    469,
+    '513 Gateway Hill',
+    '3/1/2025',
+    '9/22/2025',
+    '4391741f-42b1-41ef-bb10-a75e5072b920',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    695,
+    'Avamba',
+    'exploit sexy communities',
+    18,
+    957,
+    '4147 Pierstorff Point',
+    '2/12/2025',
+    '9/24/2024',
+    '78c5d9a1-e8f3-4d28-964d-548b5cf0f09f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    696,
+    'DabZ',
+    'implement B2B communities',
+    56,
+    736,
+    '89 Bunting Pass',
+    '11/13/2025',
+    '2/6/2025',
+    '5292c87f-1124-4cda-b7fc-7753315861d6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    697,
+    'Yombu',
+    'architect dynamic solutions',
+    70,
+    249,
+    '49634 Lake View Drive',
+    '4/29/2025',
+    '9/18/2025',
+    'e0d39283-32e1-476d-8e49-87e027d6cd3e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    698,
+    'Yabox',
+    'integrate B2C bandwidth',
+    67,
+    414,
+    '9 Meadow Ridge Lane',
+    '3/12/2026',
+    '9/28/2024',
+    '70ace97a-291c-46fd-a5c2-51c9581912bf',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    699,
+    'Twiyo',
+    'redefine sexy experiences',
+    10,
+    752,
+    '8 Kedzie Place',
+    '1/23/2026',
+    '5/11/2026',
+    'd15b539e-742a-473f-bed7-57a7d280e72a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    700,
+    'Buzzdog',
+    'monetize plug-and-play paradigms',
+    82,
+    420,
+    '716 Blaine Circle',
+    '12/11/2024',
+    '12/19/2024',
+    'f8d4ce2f-2c9d-4d57-98b0-6222b149f38c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    701,
+    'Tanoodle',
+    'orchestrate customized markets',
+    36,
+    339,
+    '477 Northridge Plaza',
+    '12/9/2025',
+    '4/25/2025',
+    'b6dd8961-e0c2-4ef0-a4fb-87c0d5577b9e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    702,
+    'Brightdog',
+    'scale best-of-breed infrastructures',
+    13,
+    498,
+    '0 Maple Terrace',
+    '8/6/2026',
+    '12/13/2024',
+    'd53db1cb-8ac0-49ec-bd11-2a12434dd210',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    703,
+    'Vinte',
+    'utilize real-time portals',
+    20,
+    549,
+    '452 Ruskin Plaza',
+    '8/31/2024',
+    '8/6/2026',
+    '77f639df-87b7-4734-acd3-8b01d5340c6a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    704,
+    'Quatz',
+    'exploit turn-key deliverables',
+    22,
+    60,
+    '88 Cascade Court',
+    '7/4/2025',
+    '9/30/2025',
+    'f3cb6a92-3564-4de7-8c5f-bfd92a220115',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    705,
+    'Devbug',
+    'evolve mission-critical web-readiness',
+    33,
+    21,
+    '09 Golf View Terrace',
+    '10/10/2025',
+    '12/20/2024',
+    '635e1944-e96d-4b10-8103-b1c974a3c585',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    706,
+    'Photospace',
+    'expedite seamless infomediaries',
+    46,
+    907,
+    '01033 Merrick Point',
+    '10/3/2025',
+    '2/5/2025',
+    'e4f78d5e-a80e-4361-8c47-2851a8431410',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    707,
+    'Edgewire',
+    'mesh e-business infrastructures',
+    10,
+    491,
+    '54 Twin Pines Court',
+    '7/29/2026',
+    '1/30/2026',
+    'f170d117-21eb-4528-ab75-0161236e4003',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    708,
+    'Divavu',
+    'iterate customized experiences',
+    18,
+    58,
+    '40834 Anthes Alley',
+    '7/13/2026',
+    '5/8/2026',
+    '9758ee22-2d54-48ca-879e-9fec5d733ad0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    709,
+    'Twinte',
+    'leverage scalable channels',
+    32,
+    903,
+    '7170 Hudson Plaza',
+    '1/16/2026',
+    '7/10/2025',
+    '30c8db50-bbae-4ccb-9fba-c142a115eb96',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    710,
+    'Rhycero',
+    'facilitate world-class solutions',
+    14,
+    291,
+    '68 Dayton Junction',
+    '1/6/2026',
+    '4/29/2025',
+    'd66b5308-b0bc-4fa7-996c-296e73fb9e92',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    711,
+    'Feedbug',
+    'harness bleeding-edge architectures',
+    88,
+    323,
+    '91 Mesta Hill',
+    '7/22/2025',
+    '7/14/2025',
+    '78873abf-bc6a-4303-89b1-6a2a20dbf260',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    712,
+    'Eadel',
+    'transform bleeding-edge solutions',
+    28,
+    925,
+    '057 Prairieview Park',
+    '4/1/2025',
+    '3/3/2026',
+    '82470ebe-9200-4573-a307-c84faa14b708',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    713,
+    'Youbridge',
+    'deploy plug-and-play vortals',
+    77,
+    555,
+    '82 Orin Crossing',
+    '2/11/2025',
+    '12/25/2024',
+    'cb6d14bc-442b-4d2b-8fb1-1260c3385084',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    714,
+    'Mymm',
+    'benchmark sticky schemas',
+    78,
+    771,
+    '1146 Kipling Court',
+    '8/24/2025',
+    '12/26/2024',
+    '6ffb1a37-099a-4d8a-a379-dc7958087bad',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    715,
+    'Twinte',
+    'innovate scalable infrastructures',
+    6,
+    720,
+    '15838 Fordem Lane',
+    '3/28/2026',
+    '5/29/2026',
+    '4fbde221-6f46-4b90-8a04-54c412149364',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    716,
+    'Skajo',
+    'enhance vertical web-readiness',
+    84,
+    96,
+    '11 Eastlawn Junction',
+    '10/14/2025',
+    '10/8/2025',
+    '0a1b280b-6589-4a74-be5c-9806776b5e19',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    717,
+    'Skivee',
+    'leverage synergistic platforms',
+    88,
+    727,
+    '2580 Erie Circle',
+    '8/19/2024',
+    '5/1/2025',
+    'ab9d2b25-51d9-4109-a45f-a5ffbca54997',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    718,
+    'JumpXS',
+    'exploit enterprise e-tailers',
+    7,
+    4,
+    '2 Namekagon Alley',
+    '11/16/2025',
+    '3/15/2026',
+    'b1bde499-fcb0-4913-9e93-0c10238b7c16',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    719,
+    'Innotype',
+    'transform interactive experiences',
+    63,
+    637,
+    '6 Scott Crossing',
+    '7/24/2025',
+    '3/31/2026',
+    '59c995a0-938b-4ce3-96b5-a53d2b8621e5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    720,
+    'Voonder',
+    'deliver integrated web-readiness',
+    50,
+    611,
+    '11892 Myrtle Junction',
+    '12/7/2025',
+    '9/18/2024',
+    '346b76ff-b7ec-49b1-947a-49e57197d882',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    721,
+    'Oodoo',
+    'deliver next-generation relationships',
+    30,
+    536,
+    '976 Old Shore Terrace',
+    '8/29/2025',
+    '1/1/2025',
+    'f7ac6fd6-ff9d-44ed-a27c-17a1534a0aa4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    722,
+    'Realcube',
+    'integrate virtual synergies',
+    17,
+    30,
+    '53 Donald Circle',
+    '3/18/2025',
+    '7/30/2025',
+    '5e8f491a-b50a-43e9-9e67-5322d1e75372',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    723,
+    'Lazz',
+    'enhance ubiquitous methodologies',
+    12,
+    328,
+    '9016 Crowley Court',
+    '2/22/2025',
+    '5/16/2025',
+    '0d7ec2e7-602e-4440-a424-6369c48dd4dd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    724,
+    'Brainverse',
+    'reintermediate compelling relationships',
+    65,
+    275,
+    '31560 Steensland Pass',
+    '7/25/2025',
+    '7/14/2025',
+    '827b3edd-4425-42fb-a474-61453a92b017',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    725,
+    'Eadel',
+    'productize revolutionary markets',
+    70,
+    872,
+    '763 Truax Terrace',
+    '9/29/2025',
+    '10/3/2025',
+    '42f84aa1-c249-4dfa-b92d-3208955519e8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    726,
+    'Mynte',
+    'mesh e-business vortals',
+    48,
+    59,
+    '3624 Springview Plaza',
+    '12/28/2024',
+    '6/11/2026',
+    'f47fd2ac-e97e-4b89-bc1e-bf5cd2cbd6fa',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    727,
+    'Trunyx',
+    'incentivize efficient action-items',
+    69,
+    621,
+    '67336 Autumn Leaf Plaza',
+    '2/22/2026',
+    '9/21/2025',
+    'cc5aca51-c675-4fb2-870c-dcd3fab9e54b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    728,
+    'Eamia',
+    'redefine customized technologies',
+    45,
+    137,
+    '63 Fulton Circle',
+    '11/18/2025',
+    '8/30/2024',
+    '11ad6879-99ab-410a-863b-42ba3de8764c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    729,
+    'Pixonyx',
+    'leverage impactful models',
+    82,
+    245,
+    '5747 Grayhawk Terrace',
+    '7/26/2026',
+    '2/12/2025',
+    '9bd6c107-3acf-4fb5-9479-2efa9b9ea7a3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    730,
+    'Linklinks',
+    'grow intuitive deliverables',
+    31,
+    890,
+    '1059 Comanche Junction',
+    '8/23/2025',
+    '12/5/2025',
+    '73c30504-5446-458e-b49f-9381fe177d44',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    731,
+    'Bluezoom',
+    'harness revolutionary initiatives',
+    81,
+    302,
+    '726 Anhalt Court',
+    '3/4/2026',
+    '6/4/2025',
+    '3c795968-d1cd-45f8-86ab-9696e8c6cdae',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    732,
+    'Youfeed',
+    'embrace integrated e-commerce',
+    10,
+    913,
+    '156 Service Point',
+    '8/5/2025',
+    '4/10/2025',
+    '92ddbf52-1f18-4be2-aa8e-598400d7ccd8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    733,
+    'Kimia',
+    'synthesize interactive schemas',
+    100,
+    624,
+    '10977 Sloan Place',
+    '6/19/2026',
+    '4/22/2026',
+    'f0716da0-aa62-4452-aba6-2c679ce4745a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    734,
+    'Jetwire',
+    'productize sexy infrastructures',
+    81,
+    107,
+    '02 Pine View Crossing',
+    '11/21/2024',
+    '12/19/2025',
+    '9dc76bc9-f0c2-4f9d-ba60-bc807ecf1862',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    735,
+    'Eazzy',
+    'evolve frictionless convergence',
+    63,
+    464,
+    '25609 Maywood Street',
+    '5/2/2026',
+    '12/26/2025',
+    '440f5e40-275c-498c-9ff1-11a487f064ae',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    736,
+    'Realpoint',
+    'generate integrated deliverables',
+    3,
+    679,
+    '750 Walton Street',
+    '8/6/2025',
+    '1/19/2025',
+    '05c1b7c2-dc9a-4139-9fca-9e0d3945ae00',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    737,
+    'Wordware',
+    'leverage value-added content',
+    46,
+    658,
+    '5807 Moland Place',
+    '3/27/2026',
+    '6/22/2026',
+    'db3ed13c-0285-457b-9e84-4dff53067901',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    738,
+    'Meevee',
+    'extend robust communities',
+    56,
+    118,
+    '84756 Holy Cross Street',
+    '5/14/2025',
+    '9/5/2025',
+    '425b46f5-109b-4751-9ce0-71c4e42d98da',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    739,
+    'Zoomcast',
+    'incubate granular web services',
+    57,
+    124,
+    '559 Cottonwood Parkway',
+    '5/10/2026',
+    '8/1/2026',
+    '353bf89a-c9bc-4936-971b-113c8174cddb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    740,
+    'Mydeo',
+    'facilitate world-class experiences',
+    47,
+    37,
+    '1372 Warrior Plaza',
+    '12/5/2025',
+    '9/10/2024',
+    'f4b162ea-3510-45fd-8123-29b477a69991',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    741,
+    'InnoZ',
+    'redefine intuitive portals',
+    20,
+    499,
+    '6 Lawn Plaza',
+    '7/11/2026',
+    '9/8/2024',
+    '6db085e7-5a98-45a7-91ba-54961909500e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    742,
+    'Yodel',
+    'mesh granular e-business',
+    75,
+    315,
+    '13 Lighthouse Bay Alley',
+    '5/16/2025',
+    '10/13/2025',
+    'eace7f59-7601-4d85-89b9-a6dd510a87a7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    743,
+    'Abata',
+    'iterate user-centric markets',
+    35,
+    639,
+    '051 Bellgrove Parkway',
+    '6/15/2025',
+    '6/16/2026',
+    'a3da617b-f8d7-4dd5-a556-2211c8824e66',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    744,
+    'Quire',
+    'deliver cross-media users',
+    22,
+    6,
+    '04 Annamark Drive',
+    '5/20/2025',
+    '10/13/2024',
+    '264c9f18-6e6b-4603-9c10-b805ee1b9ff4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    745,
+    'Quinu',
+    'integrate front-end partnerships',
+    64,
+    397,
+    '64755 Pleasure Circle',
+    '10/12/2025',
+    '10/27/2024',
+    '0b388c28-0541-4f72-ad34-467413c36a4d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    746,
+    'Demimbu',
+    'embrace bricks-and-clicks deliverables',
+    3,
+    195,
+    '41 Warbler Junction',
+    '2/28/2025',
+    '5/15/2026',
+    '719b56e7-0a66-40a9-986a-b4ea45246ce2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    747,
+    'Avaveo',
+    'unleash wireless supply-chains',
+    59,
+    972,
+    '2 Kim Trail',
+    '12/21/2024',
+    '2/11/2026',
+    '04f7603f-6a32-465c-bfb5-8970b408aa39',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    748,
+    'Flipbug',
+    'syndicate 24/365 paradigms',
+    69,
+    385,
+    '33 Chinook Park',
+    '7/20/2026',
+    '5/3/2025',
+    '66292833-c286-4a65-b7e6-bbf80644d92e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    749,
+    'Layo',
+    'repurpose robust paradigms',
+    67,
+    537,
+    '2 Goodland Trail',
+    '7/8/2026',
+    '11/4/2025',
+    '0dba0a78-2f7d-4b25-849d-c83b81fde238',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    750,
+    'Jaloo',
+    'morph proactive ROI',
+    60,
+    62,
+    '841 Moland Pass',
+    '3/15/2026',
+    '2/4/2026',
+    '8db9ecbe-9e9d-49df-9ff1-1af4420f41c1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    751,
+    'Skyba',
+    'transform distributed partnerships',
+    18,
+    876,
+    '44859 Bunker Hill Road',
+    '5/9/2025',
+    '5/24/2025',
+    '64ac21c1-e758-4e24-877e-a5cb269b3041',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    752,
+    'Gevee',
+    'unleash cross-platform partnerships',
+    83,
+    861,
+    '3 Eagle Crest Junction',
+    '12/18/2025',
+    '5/15/2025',
+    '4551eb26-1e12-4699-9cb6-bc9ff7882377',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    753,
+    'Skiba',
+    'envisioneer distributed niches',
+    43,
+    640,
+    '203 Norway Maple Center',
+    '6/19/2026',
+    '6/27/2025',
+    'b1a1ae54-0efb-442c-be2c-480c2eb20808',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    754,
+    'Mita',
+    'leverage user-centric infrastructures',
+    8,
+    762,
+    '78003 Emmet Hill',
+    '9/22/2024',
+    '9/28/2024',
+    '6b53499d-59db-410b-8062-722d062f853a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    755,
+    'Skimia',
+    'integrate intuitive relationships',
+    43,
+    953,
+    '7242 Becker Pass',
+    '6/1/2026',
+    '10/17/2024',
+    '70617d20-1847-4f45-bb19-82acd84d639a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    756,
+    'Buzzster',
+    'mesh B2C mindshare',
+    27,
+    2,
+    '6 Clarendon Avenue',
+    '8/27/2024',
+    '3/2/2025',
+    'acfc0bee-abf1-49f6-a6d0-69af75e6aa3e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    757,
+    'Gigaclub',
+    'iterate B2B initiatives',
+    13,
+    782,
+    '33328 Pankratz Court',
+    '2/22/2025',
+    '3/27/2026',
+    '774db74e-65d2-4aba-905e-19a4308a2c11',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    758,
+    'Roomm',
+    'scale end-to-end synergies',
+    100,
+    358,
+    '2 Stephen Parkway',
+    '6/9/2025',
+    '10/11/2024',
+    '0211b03b-1e79-4944-8535-5c4cda57ff81',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    759,
+    'Katz',
+    'orchestrate virtual platforms',
+    40,
+    218,
+    '29268 Jenifer Plaza',
+    '5/11/2026',
+    '2/26/2026',
+    'ad551d65-02ed-4613-9b3a-27b2bb892637',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    760,
+    'Ainyx',
+    'optimize magnetic functionalities',
+    46,
+    259,
+    '5923 Talisman Park',
+    '11/11/2025',
+    '5/22/2026',
+    '1ec2a261-9d95-4af3-9f28-fe963a04644a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    761,
+    'Skimia',
+    'disintermediate B2B schemas',
+    82,
+    455,
+    '38 International Junction',
+    '9/27/2024',
+    '6/18/2025',
+    'fdd85cfc-e58f-4881-93c2-5ed16f02541d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    762,
+    'Rhyzio',
+    'strategize one-to-one platforms',
+    68,
+    409,
+    '6739 Northport Parkway',
+    '8/12/2025',
+    '2/17/2026',
+    '32fa82a6-207f-41a1-a5b4-bc993a0fa1bd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    763,
+    'Tavu',
+    'optimize wireless users',
+    12,
+    720,
+    '75708 Prairieview Center',
+    '7/2/2025',
+    '1/13/2025',
+    '37bf36b9-1777-469a-a224-0d1bbbc53f58',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    764,
+    'Jabbercube',
+    'productize collaborative deliverables',
+    53,
+    74,
+    '5 Canary Parkway',
+    '2/9/2025',
+    '6/8/2026',
+    'e8c9dc32-20b6-4b90-a3e8-c2b77735bddd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    765,
+    'Rhycero',
+    'harness web-enabled experiences',
+    48,
+    925,
+    '083 Ridge Oak Avenue',
+    '7/5/2026',
+    '9/5/2024',
+    '9ea83869-a7af-43cd-a993-e29d36e2c087',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    766,
+    'Tagopia',
+    'empower global applications',
+    45,
+    641,
+    '941 Ohio Circle',
+    '1/28/2025',
+    '7/29/2026',
+    'c6b94c74-09d1-4903-bc7b-3164824190c4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    767,
+    'Agivu',
+    'disintermediate viral synergies',
+    13,
+    604,
+    '62649 Porter Parkway',
+    '4/9/2026',
+    '3/27/2025',
+    'a51392f5-2316-438b-8186-f30c54b3e7eb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    768,
+    'Brainsphere',
+    'benchmark visionary architectures',
+    52,
+    63,
+    '76 Moose Court',
+    '8/24/2025',
+    '6/15/2025',
+    '940241e9-be3e-462c-a563-cbed85203889',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    769,
+    'Centimia',
+    'maximize cross-platform schemas',
+    44,
+    473,
+    '7599 Esch Court',
+    '1/17/2025',
+    '2/2/2026',
+    'aa762fe9-e444-44c8-8285-8ccbdbc02077',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    770,
+    'Wordpedia',
+    'enhance integrated methodologies',
+    39,
+    42,
+    '8 Main Street',
+    '5/7/2025',
+    '5/28/2026',
+    '5401356b-3dbf-427f-abf4-b1627aaf7e17',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    771,
+    'Skimia',
+    'strategize proactive deliverables',
+    59,
+    868,
+    '96 Mallard Place',
+    '5/6/2026',
+    '9/13/2025',
+    '8546a9f0-cec3-481a-9cbc-6e7ada15b269',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    772,
+    'Twinder',
+    'visualize distributed web-readiness',
+    64,
+    355,
+    '51353 Wayridge Plaza',
+    '2/9/2025',
+    '6/27/2025',
+    '7cb4916e-8907-4b8f-8ae8-11e5d7e6eaf1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    773,
+    'Minyx',
+    'extend back-end relationships',
+    29,
+    587,
+    '84 Bashford Lane',
+    '6/27/2026',
+    '5/20/2025',
+    '7a7fc72d-f5e5-424d-90e4-cbfaee3f8b30',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    774,
+    'Wikibox',
+    'morph global content',
+    97,
+    661,
+    '2 Morning Hill',
+    '8/11/2025',
+    '1/21/2026',
+    '944e456c-8325-44cc-a96f-39b032f24e0f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    775,
+    'Thoughtbridge',
+    'enable collaborative methodologies',
+    97,
+    189,
+    '14 Sheridan Trail',
+    '11/12/2024',
+    '8/4/2026',
+    '00e570c9-5e5d-4aca-8c3a-3f7ab073452a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    776,
+    'Browsebug',
+    'incentivize magnetic users',
+    17,
+    860,
+    '8316 Hollow Ridge Park',
+    '7/22/2026',
+    '1/25/2026',
+    'dd27b265-cbd2-4abc-8606-79e439bb2fc5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    777,
+    'Gabvine',
+    'transform turn-key partnerships',
+    68,
+    958,
+    '76217 Daystar Lane',
+    '10/31/2024',
+    '2/21/2026',
+    '1abf7e4e-f0ff-4a7f-aa0e-4ad8649075e5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    778,
+    'Kamba',
+    'redefine compelling technologies',
+    90,
+    176,
+    '2866 Wayridge Hill',
+    '12/11/2025',
+    '12/11/2024',
+    'f2e50b5b-39db-4190-82cc-66892f3bdb77',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    779,
+    'Camido',
+    'strategize one-to-one e-markets',
+    11,
+    744,
+    '191 Homewood Pass',
+    '9/9/2025',
+    '5/10/2025',
+    'dbd795c2-1fb4-495b-8a98-089ff0abe87b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    780,
+    'Wikido',
+    'maximize web-enabled content',
+    69,
+    175,
+    '469 Vera Lane',
+    '9/16/2025',
+    '12/9/2025',
+    '8eae14d0-260d-4987-bf7d-b27e5099310b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    781,
+    'Plambee',
+    'evolve web-enabled bandwidth',
+    4,
+    552,
+    '1742 Hudson Place',
+    '1/31/2025',
+    '1/26/2026',
+    '138f9202-796d-47c7-a89f-768b7a7b368b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    782,
+    'Skyvu',
+    'engage cutting-edge architectures',
+    78,
+    762,
+    '82 Lillian Avenue',
+    '11/23/2024',
+    '1/26/2025',
+    '76aad27c-65f5-4119-85e1-9380114daad1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    783,
+    'Demizz',
+    'reinvent cross-media bandwidth',
+    32,
+    214,
+    '704 Crest Line Avenue',
+    '2/10/2025',
+    '10/9/2024',
+    '19d75ecc-58c8-45c8-ba48-7c403e34f5ed',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    784,
+    'Topicshots',
+    'integrate enterprise e-commerce',
+    24,
+    559,
+    '7 Daystar Park',
+    '9/19/2025',
+    '3/15/2025',
+    '4ed9883b-0427-4281-9767-ce6f82e9840a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    785,
+    'Jatri',
+    'deploy customized models',
+    92,
+    139,
+    '43 Colorado Terrace',
+    '8/20/2024',
+    '9/29/2024',
+    '9418d60c-33e6-4c68-a04d-cc309e0d75fd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    786,
+    'Myworks',
+    'generate seamless partnerships',
+    89,
+    232,
+    '62935 Beilfuss Road',
+    '11/28/2024',
+    '5/9/2025',
+    'd4fe63e0-0f3b-4048-8318-18c584d4c4c8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    787,
+    'Muxo',
+    'visualize rich synergies',
+    17,
+    69,
+    '52920 Oneill Center',
+    '1/16/2025',
+    '12/8/2024',
+    'dca54b45-5d17-4594-9aed-588bf4b01be9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    788,
+    'Photolist',
+    'utilize granular mindshare',
+    62,
+    373,
+    '2 Barnett Crossing',
+    '1/18/2026',
+    '11/1/2024',
+    '40a2d203-0305-4eda-ba49-313e2d9b2a59',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    789,
+    'Agimba',
+    'leverage compelling communities',
+    9,
+    346,
+    '08939 Westerfield Crossing',
+    '10/25/2024',
+    '5/20/2026',
+    'a0f0efe5-ee51-4c3f-8bdf-84a2da7ebe88',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    790,
+    'Leenti',
+    'reintermediate cross-platform supply-chains',
+    46,
+    361,
+    '5361 Westport Terrace',
+    '8/13/2025',
+    '10/24/2024',
+    '29e5fd55-fb89-4353-8417-21549861f0f3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    791,
+    'Quamba',
+    'optimize back-end bandwidth',
+    68,
+    116,
+    '36 Monica Circle',
+    '6/1/2025',
+    '3/10/2026',
+    'fe0ca7b0-f172-4608-8864-d89ab13855b1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    792,
+    'Babbleblab',
+    'innovate cross-platform solutions',
+    70,
+    680,
+    '934 Cambridge Avenue',
+    '10/31/2024',
+    '8/12/2025',
+    '1c5eb963-36d6-4544-bd1d-65c7e11b7805',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    793,
+    'Rhyloo',
+    'scale holistic action-items',
+    53,
+    549,
+    '0125 Florence Alley',
+    '1/20/2026',
+    '10/2/2024',
+    '08992f77-b751-460d-91ec-e7379fbed871',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    794,
+    'Lazzy',
+    'exploit sexy communities',
+    35,
+    686,
+    '11 Vahlen Alley',
+    '3/27/2025',
+    '7/24/2026',
+    '21be0aaf-599a-422e-a6ee-4befe42fde60',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    795,
+    'Quinu',
+    'unleash ubiquitous e-business',
+    61,
+    573,
+    '6955 Doe Crossing Pass',
+    '8/22/2024',
+    '6/1/2025',
+    'de899c68-c0d0-4652-b957-7f066090ff65',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    796,
+    'Teklist',
+    'syndicate efficient convergence',
+    81,
+    770,
+    '7488 Bartillon Parkway',
+    '10/8/2025',
+    '9/5/2024',
+    'b9b4fe42-da03-49af-a770-fd5525eaf65d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    797,
+    'Wikizz',
+    'leverage interactive infomediaries',
+    6,
+    833,
+    '83 Dryden Court',
+    '3/29/2025',
+    '4/15/2025',
+    '23d2bc67-e752-4dff-aebc-f7a012b02965',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    798,
+    'Gigaclub',
+    'leverage integrated technologies',
+    79,
+    780,
+    '227 Muir Pass',
+    '2/16/2026',
+    '3/2/2025',
+    'ae5be3d1-75f9-454d-bb5d-7dbe8639564b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    799,
+    'Oloo',
+    'integrate next-generation systems',
+    46,
+    828,
+    '17992 Eastwood Center',
+    '2/1/2026',
+    '12/20/2024',
+    '343f0cbf-85fc-41db-8501-10591d61859c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    800,
+    'Flashdog',
+    'integrate bleeding-edge communities',
+    29,
+    314,
+    '297 Beilfuss Street',
+    '3/18/2025',
+    '3/21/2025',
+    '71eaaec8-46eb-41a8-8492-eb2104d4f1d2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    801,
+    'Quire',
+    'syndicate collaborative e-markets',
+    85,
+    421,
+    '85 Lukken Street',
+    '5/10/2026',
+    '8/30/2025',
+    '2e1e7d34-2cd3-4a74-beeb-333dc0c1991a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    802,
+    'Babbleblab',
+    'empower dot-com ROI',
+    14,
+    973,
+    '6 Bobwhite Junction',
+    '3/15/2026',
+    '4/30/2025',
+    '7a473ac7-2c66-4aef-9a1a-500793ff4c7d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    803,
+    'Realcube',
+    'revolutionize rich communities',
+    28,
+    486,
+    '436 Green Ridge Crossing',
+    '5/10/2025',
+    '11/22/2025',
+    'd4e9f8d7-861f-4207-97de-0af9e5480eb6',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    804,
+    'Trilith',
+    'disintermediate revolutionary methodologies',
+    49,
+    650,
+    '15 Pennsylvania Circle',
+    '11/7/2024',
+    '5/22/2026',
+    '14093e39-cce3-4054-b302-27c6f3ba57aa',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    805,
+    'Yombu',
+    'repurpose vertical technologies',
+    55,
+    752,
+    '488 Darwin Circle',
+    '6/4/2025',
+    '10/21/2025',
+    '466bfe0b-6437-4f1c-bec7-494bc8098a02',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    806,
+    'Meevee',
+    'incentivize collaborative channels',
+    99,
+    937,
+    '2 Hovde Plaza',
+    '2/18/2026',
+    '4/15/2025',
+    '65e39446-0c1c-4c54-91dc-6b0fadf28a7f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    807,
+    'Wordpedia',
+    'integrate wireless web services',
+    55,
+    644,
+    '32128 Sage Terrace',
+    '12/6/2025',
+    '4/14/2026',
+    '81151285-eb88-42ee-bf9c-2d76843db11a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    808,
+    'Brainlounge',
+    'facilitate robust bandwidth',
+    65,
+    391,
+    '6692 Graedel Crossing',
+    '8/17/2025',
+    '12/5/2025',
+    'c11a7a40-31dd-4466-938f-ba0c39ce17b9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    809,
+    'Vimbo',
+    'matrix innovative web-readiness',
+    52,
+    651,
+    '7664 Lake View Circle',
+    '7/21/2025',
+    '9/21/2024',
+    '429ddf40-1f67-4422-aad2-e0f072a01964',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    810,
+    'Pixoboo',
+    'e-enable rich relationships',
+    93,
+    979,
+    '4 Kennedy Center',
+    '3/16/2026',
+    '10/27/2024',
+    '4f8841b1-08c9-41a2-b8eb-a747102b6522',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    811,
+    'Youfeed',
+    'deploy bricks-and-clicks users',
+    98,
+    595,
+    '22606 Vahlen Place',
+    '2/15/2026',
+    '8/31/2025',
+    '20f3e540-5bfe-47f2-bb2e-97d3463be007',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    812,
+    'Gigashots',
+    'drive scalable synergies',
+    8,
+    1,
+    '15885 Nobel Crossing',
+    '10/21/2025',
+    '1/28/2026',
+    '0c6dc0a1-7b2b-4041-828d-f43a29a5333c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    813,
+    'Twitterwire',
+    'e-enable synergistic architectures',
+    65,
+    712,
+    '1597 Victoria Hill',
+    '7/29/2025',
+    '4/19/2025',
+    '8b1f5364-beca-4dc5-b857-4024d0e622b3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    814,
+    'Browsecat',
+    'empower out-of-the-box mindshare',
+    23,
+    888,
+    '72893 Autumn Leaf Way',
+    '6/10/2026',
+    '11/20/2025',
+    'b2c78b51-6275-4e00-b642-6c370ed09269',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    815,
+    'Gabcube',
+    'incentivize holistic mindshare',
+    38,
+    41,
+    '2092 Karstens Road',
+    '8/3/2025',
+    '5/19/2025',
+    'f5fd10a1-7258-4892-a910-b4d3ff474b59',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    816,
+    'Nlounge',
+    'generate virtual schemas',
+    89,
+    6,
+    '0 Everett Alley',
+    '10/25/2025',
+    '9/7/2025',
+    '1752dc02-eede-4426-a4d9-e58ceb48fa61',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    817,
+    'Zoombeat',
+    'productize turn-key infomediaries',
+    10,
+    564,
+    '26712 7th Avenue',
+    '3/29/2026',
+    '5/31/2025',
+    'c5eb0cc0-d3c5-40d5-a8eb-0eb0b5937047',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    818,
+    'Eadel',
+    'disintermediate B2C e-tailers',
+    55,
+    458,
+    '022 Moose Hill',
+    '3/5/2026',
+    '9/13/2024',
+    '92cc39ab-a14c-48cc-81d8-9420b02880b7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    819,
+    'Ooba',
+    'iterate integrated e-services',
+    64,
+    293,
+    '14 Banding Pass',
+    '12/31/2025',
+    '6/20/2025',
+    '9846ec26-6058-418b-b1db-321ed64f9860',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    820,
+    'Skinder',
+    'syndicate innovative relationships',
+    83,
+    441,
+    '16192 Longview Lane',
+    '1/3/2025',
+    '8/1/2026',
+    '9b416db3-2494-4f0d-a5e4-8750ebbd8297',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    821,
+    'Browsebug',
+    'mesh revolutionary web services',
+    24,
+    871,
+    '8 Saint Paul Pass',
+    '12/27/2024',
+    '9/6/2024',
+    'fbeab321-a958-427b-a328-59c66af335f9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    822,
+    'Zoozzy',
+    'strategize web-enabled schemas',
+    68,
+    807,
+    '81 Dorton Avenue',
+    '1/4/2025',
+    '11/10/2025',
+    '088dc978-7584-4f93-8511-6fc0b8c9047b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    823,
+    'Babblestorm',
+    'iterate 24/7 content',
+    89,
+    642,
+    '137 Golf Course Park',
+    '1/23/2026',
+    '2/6/2025',
+    '74934159-63b6-4cd8-8273-3903215f26c3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    824,
+    'Photobean',
+    'orchestrate cross-media channels',
+    23,
+    886,
+    '428 Oxford Crossing',
+    '5/25/2025',
+    '2/21/2025',
+    'f8599304-a636-400f-9cae-2e674eadbb20',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    825,
+    'Latz',
+    'optimize best-of-breed systems',
+    35,
+    331,
+    '434 Waxwing Trail',
+    '12/2/2025',
+    '5/31/2026',
+    'b162e700-1e01-4841-bd0a-c5537e401f91',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    826,
+    'Brightbean',
+    'innovate dot-com infomediaries',
+    39,
+    416,
+    '938 Sommers Crossing',
+    '10/25/2025',
+    '8/6/2025',
+    '7c88d3b2-79fa-48aa-815e-45c904f57fb3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    827,
+    'Skippad',
+    'e-enable web-enabled mindshare',
+    19,
+    326,
+    '5 Almo Hill',
+    '11/22/2024',
+    '7/23/2025',
+    'bd134aec-84b6-432d-b44c-60e3cc29584a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    828,
+    'Mynte',
+    'integrate wireless models',
+    29,
+    675,
+    '93 Sutteridge Junction',
+    '4/15/2026',
+    '5/18/2026',
+    '38054c1c-0f57-4148-a952-7280b9eabf7f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    829,
+    'Photobean',
+    'revolutionize sexy communities',
+    92,
+    730,
+    '10849 Kings Center',
+    '4/24/2026',
+    '5/4/2026',
+    '054a21de-1cbf-425d-81b2-98b6e9a2d06e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    830,
+    'Riffpath',
+    'e-enable innovative convergence',
+    11,
+    711,
+    '36 Cambridge Avenue',
+    '1/26/2026',
+    '10/19/2024',
+    'bf9eb7c5-2932-48ca-bab5-e4c716a56669',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    831,
+    'Ntags',
+    'mesh dot-com methodologies',
+    65,
+    501,
+    '9 Browning Parkway',
+    '1/23/2026',
+    '7/7/2025',
+    '8f3d9927-c26e-404b-884d-1fcd9fb24c11',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    832,
+    'Browsedrive',
+    'cultivate 24/7 web-readiness',
+    67,
+    811,
+    '9 Ilene Crossing',
+    '10/29/2025',
+    '3/13/2026',
+    '5a684fae-41d6-4289-a833-c309735c8c98',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    833,
+    'Nlounge',
+    'integrate synergistic action-items',
+    5,
+    613,
+    '2278 Bluejay Alley',
+    '7/23/2025',
+    '8/11/2025',
+    '81b0fe41-e3f5-46d2-a45c-1b5d7f4e0ebd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    834,
+    'Gigashots',
+    'expedite extensible schemas',
+    87,
+    271,
+    '78022 Nobel Alley',
+    '11/20/2024',
+    '8/17/2024',
+    'ad0f85de-da2c-4211-a686-5f6511f4e332',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    835,
+    'Mudo',
+    'incubate B2B initiatives',
+    83,
+    785,
+    '21914 Butterfield Way',
+    '3/31/2026',
+    '5/1/2025',
+    '14df2044-59e9-4e7e-b493-7f14d6c3a7c3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    836,
+    'Lazzy',
+    'synergize mission-critical e-tailers',
+    71,
+    132,
+    '350 Atwood Center',
+    '11/17/2025',
+    '11/6/2024',
+    '07c1557b-11d1-4d2d-adc6-0ab807f24c60',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    837,
+    'Rhyzio',
+    'integrate sticky infrastructures',
+    84,
+    388,
+    '3 Fairview Court',
+    '1/29/2025',
+    '3/30/2025',
+    '162f00a3-ce91-467f-b1ae-51e54d6f17fb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    838,
+    'Dynabox',
+    'repurpose intuitive bandwidth',
+    87,
+    621,
+    '0 Dorton Drive',
+    '10/19/2024',
+    '11/19/2025',
+    '4c212d8a-f23f-4f24-aeeb-daf87f41ffee',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    839,
+    'Thoughtworks',
+    'strategize dot-com markets',
+    61,
+    331,
+    '551 Superior Circle',
+    '4/21/2025',
+    '8/28/2024',
+    '132d0b92-af1f-4743-a697-85f5b5a1e86d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    840,
+    'Avavee',
+    'incentivize next-generation eyeballs',
+    35,
+    860,
+    '8154 Del Sol Crossing',
+    '11/5/2025',
+    '4/11/2026',
+    'b2e7d8fc-05eb-46e3-80dc-ccb4f96522bd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    841,
+    'Rhyloo',
+    'generate one-to-one users',
+    55,
+    453,
+    '6 Farmco Center',
+    '1/18/2026',
+    '8/5/2025',
+    '5d61797c-40cc-4b8e-8978-8d8b9e07d8e1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    842,
+    'Livefish',
+    'monetize customized metrics',
+    64,
+    213,
+    '25 Algoma Terrace',
+    '1/28/2025',
+    '11/10/2025',
+    '3681e7a9-ead4-4710-9bbb-f87d3dec17ff',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    843,
+    'Gabtune',
+    'integrate user-centric methodologies',
+    93,
+    942,
+    '67274 Schlimgen Pass',
+    '12/14/2025',
+    '7/4/2025',
+    'e8699779-18e1-4987-bc9d-ee7dcfd60371',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    844,
+    'Camido',
+    'deploy interactive convergence',
+    64,
+    538,
+    '24251 Logan Lane',
+    '3/26/2025',
+    '4/27/2026',
+    '8029220b-5b6b-4a25-9fb7-30ba55ca43b2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    845,
+    'Demimbu',
+    'orchestrate user-centric networks',
+    84,
+    411,
+    '123 Scofield Trail',
+    '9/14/2024',
+    '3/23/2025',
+    '105be176-b0e0-45b1-add4-897b729510da',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    846,
+    'Jabbercube',
+    'monetize virtual solutions',
+    59,
+    147,
+    '60 Starling Street',
+    '7/27/2026',
+    '8/6/2026',
+    '41e6bfec-32a9-4bdc-bbe3-aea2ae69102d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    847,
+    'Ntag',
+    'monetize magnetic systems',
+    65,
+    148,
+    '1 Dovetail Crossing',
+    '4/15/2026',
+    '7/2/2026',
+    '99d6da96-9cbc-4b55-94e2-15d7e21e9623',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    848,
+    'Yotz',
+    'utilize compelling models',
+    15,
+    391,
+    '6 Lyons Pass',
+    '11/17/2025',
+    '10/21/2024',
+    '4a8af850-44ad-4f01-975c-bb6940f34050',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    849,
+    'Oba',
+    'grow wireless e-markets',
+    56,
+    800,
+    '5142 Anhalt Lane',
+    '9/3/2024',
+    '4/21/2026',
+    'ba841ae1-54a0-4e8d-b94e-fc9fc8e1c773',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    850,
+    'Linkbridge',
+    'monetize collaborative partnerships',
+    88,
+    210,
+    '64705 Pine View Terrace',
+    '5/31/2025',
+    '2/26/2026',
+    'd7906ff5-d488-463e-95bf-423c19fbae7d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    851,
+    'Cogidoo',
+    'visualize frictionless experiences',
+    14,
+    966,
+    '20939 North Pass',
+    '5/25/2025',
+    '5/12/2026',
+    '0fa905d5-afbc-4574-a34c-ce7f16b92b30',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    852,
+    'Realcube',
+    'orchestrate cross-media e-tailers',
+    16,
+    378,
+    '30827 Schmedeman Alley',
+    '10/11/2025',
+    '4/17/2026',
+    '6c68069f-071d-40cb-81c3-299266181d71',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    853,
+    'Trunyx',
+    'engage user-centric niches',
+    23,
+    649,
+    '3813 Portage Center',
+    '11/4/2025',
+    '4/13/2026',
+    'c8cbe368-6928-4d79-ac3c-0fd86f2df1a0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    854,
+    'Realblab',
+    'embrace cutting-edge deliverables',
+    12,
+    465,
+    '8458 Harbort Trail',
+    '10/1/2024',
+    '2/14/2026',
+    'a0bf3bb1-d322-4162-83f5-14168ed6fbe1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    855,
+    'Twimm',
+    'evolve end-to-end supply-chains',
+    20,
+    694,
+    '27 Mitchell Court',
+    '10/23/2025',
+    '12/22/2024',
+    '373a898a-27ef-49c2-b68d-d983da4381f8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    856,
+    'Quaxo',
+    'deploy e-business mindshare',
+    89,
+    965,
+    '28 Pearson Center',
+    '2/13/2025',
+    '5/20/2026',
+    'db7049f4-91a7-497e-bd0c-bdbdd4faf1f5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    857,
+    'Tagcat',
+    'brand frictionless channels',
+    56,
+    287,
+    '12 Orin Crossing',
+    '8/14/2025',
+    '4/27/2025',
+    '76da766a-3e27-484d-b879-ca4a5292a0fc',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    858,
+    'Brainbox',
+    'monetize sexy e-tailers',
+    50,
+    932,
+    '431 Susan Pass',
+    '4/3/2026',
+    '7/9/2025',
+    '9d0d9624-ede0-41a3-984c-01107359118d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    859,
+    'Vidoo',
+    'repurpose vertical interfaces',
+    80,
+    683,
+    '50 Laurel Terrace',
+    '6/20/2026',
+    '9/18/2025',
+    '691bc610-2919-4105-9e6f-8bab36731ef4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    860,
+    'Divavu',
+    'scale magnetic convergence',
+    7,
+    690,
+    '9 Buell Court',
+    '9/1/2024',
+    '2/23/2025',
+    'b2fd1306-26cc-4cad-a6eb-bb6fe95b30ad',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    861,
+    'Vimbo',
+    'productize strategic web services',
+    56,
+    295,
+    '1 Anthes Park',
+    '11/8/2025',
+    '2/3/2026',
+    '927c3124-5f0f-4683-9845-e9eadefecd6b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    862,
+    'Jamia',
+    'enhance e-business methodologies',
+    38,
+    56,
+    '35 Elmside Road',
+    '3/19/2026',
+    '3/4/2025',
+    '7b7b3dac-76a6-42af-8a33-0cb3056036ed',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    863,
+    'Browsezoom',
+    'grow transparent convergence',
+    77,
+    473,
+    '7527 Messerschmidt Street',
+    '8/10/2025',
+    '4/4/2025',
+    '6c836bc5-1e5c-4e50-b907-995e6b756f37',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    864,
+    'Kimia',
+    'orchestrate intuitive infomediaries',
+    27,
+    426,
+    '7158 Melby Parkway',
+    '2/22/2025',
+    '12/9/2025',
+    '30daf0ae-7fc7-45a6-a337-6255defe9f69',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    865,
+    'Vinder',
+    'synthesize compelling convergence',
+    9,
+    442,
+    '992 Oak Court',
+    '5/22/2026',
+    '8/16/2024',
+    '1c6d2d72-d04c-4d8b-9277-9b1c668a1cc7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    866,
+    'Photospace',
+    'synergize vertical solutions',
+    17,
+    533,
+    '96760 Tomscot Circle',
+    '4/7/2026',
+    '3/28/2026',
+    '5d791f17-1074-4612-979c-a38544c07e5b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    867,
+    'Zoovu',
+    'redefine robust deliverables',
+    56,
+    417,
+    '5 Cambridge Court',
+    '6/18/2025',
+    '7/24/2026',
+    '8d3eef23-4f2d-42de-a8f8-0cd18728d144',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    868,
+    'Zava',
+    'transition killer ROI',
+    13,
+    112,
+    '0 Sheridan Parkway',
+    '1/7/2025',
+    '11/2/2024',
+    'd168280b-8355-437b-919a-7fb5408412b8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    869,
+    'Vinte',
+    'mesh vertical systems',
+    45,
+    614,
+    '7219 Fuller Hill',
+    '8/19/2024',
+    '5/13/2025',
+    'a2586cc1-39db-49ff-9f84-02857d65e5ae',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    870,
+    'Linklinks',
+    'productize clicks-and-mortar paradigms',
+    8,
+    69,
+    '03888 Monterey Point',
+    '12/26/2025',
+    '9/3/2025',
+    '4f2a89d5-9e9c-4370-b422-cc2776280bec',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    871,
+    'Meevee',
+    'enhance intuitive partnerships',
+    86,
+    477,
+    '43 Dennis Terrace',
+    '10/24/2024',
+    '12/19/2025',
+    '6bac3517-e2e4-4db8-b86d-3901a3f04c9a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    872,
+    'Yacero',
+    'exploit cutting-edge e-tailers',
+    88,
+    451,
+    '19859 Vermont Center',
+    '7/24/2025',
+    '7/6/2025',
+    '67a033d6-2243-455e-8e0c-1010dbb3557b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    873,
+    'Fliptune',
+    'orchestrate leading-edge applications',
+    33,
+    694,
+    '92 Doe Crossing Terrace',
+    '4/10/2025',
+    '9/5/2024',
+    '6f0ccd9b-9c14-4752-a8e7-32ecb644df80',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    874,
+    'Skipfire',
+    'incubate proactive infrastructures',
+    46,
+    610,
+    '913 Fairfield Parkway',
+    '8/31/2025',
+    '4/19/2026',
+    '49e32559-bab8-439c-bc5a-84b59c22bcc7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    875,
+    'Gigashots',
+    'integrate scalable e-services',
+    74,
+    64,
+    '84 Scoville Junction',
+    '12/1/2024',
+    '8/19/2025',
+    '1f0ec614-6bee-4cd7-acf3-c56008dff2be',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    876,
+    'Abatz',
+    'innovate plug-and-play infomediaries',
+    60,
+    36,
+    '5 Dakota Road',
+    '6/25/2026',
+    '6/20/2025',
+    'e2c8c967-a0a9-427d-a140-7edc8df504ef',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    877,
+    'Babbleset',
+    'facilitate turn-key metrics',
+    87,
+    904,
+    '6 Bellgrove Park',
+    '12/9/2024',
+    '10/7/2025',
+    'f12bfbd4-3387-4cde-9f5e-f8478a0f688c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    878,
+    'Dynabox',
+    'extend interactive ROI',
+    38,
+    856,
+    '3970 Continental Hill',
+    '10/28/2025',
+    '9/18/2024',
+    '591567fe-a663-445c-8320-05b7e82cce78',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    879,
+    'Dynava',
+    'revolutionize distributed e-tailers',
+    61,
+    785,
+    '3276 Amoth Junction',
+    '6/6/2026',
+    '9/3/2025',
+    '5fdf311f-e716-414f-a772-00b493e75179',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    880,
+    'Quaxo',
+    'cultivate plug-and-play e-markets',
+    62,
+    111,
+    '261 Carberry Crossing',
+    '10/22/2025',
+    '12/10/2025',
+    'ff165a8f-012e-40c5-b85e-871b2bc455f1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    881,
+    'Bubbletube',
+    'orchestrate interactive web-readiness',
+    96,
+    706,
+    '3 Calypso Lane',
+    '4/29/2025',
+    '4/20/2025',
+    '00b18350-9b9b-4058-afd9-7bf78e00af4c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    882,
+    'Jabberbean',
+    'disintermediate frictionless niches',
+    83,
+    295,
+    '472 Iowa Court',
+    '8/26/2025',
+    '1/31/2026',
+    'e79c0300-0712-469a-8537-64bd929464e1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    883,
+    'BlogXS',
+    'utilize visionary architectures',
+    35,
+    474,
+    '62 Merry Trail',
+    '10/3/2024',
+    '3/7/2025',
+    'a00bc897-81bc-43b0-a01c-af495becc18a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    884,
+    'Twitterworks',
+    'exploit ubiquitous experiences',
+    2,
+    635,
+    '2538 Sunfield Plaza',
+    '10/15/2025',
+    '6/22/2026',
+    '73f29baf-c6b0-4e35-be1c-86db594693eb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    885,
+    'Talane',
+    'benchmark robust deliverables',
+    33,
+    288,
+    '85839 Melvin Trail',
+    '4/22/2025',
+    '12/5/2025',
+    'c2bf6394-deed-4810-8059-95c18e68681d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    886,
+    'Oloo',
+    'revolutionize scalable models',
+    49,
+    475,
+    '906 Gateway Center',
+    '3/20/2026',
+    '2/19/2025',
+    'cd2974fe-2887-457a-9372-adbc3a730dd5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    887,
+    'Kamba',
+    'productize global synergies',
+    3,
+    470,
+    '99407 Spaight Terrace',
+    '6/7/2026',
+    '6/6/2026',
+    '2562c9d5-e3a8-43e3-90da-52c6f04f406b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    888,
+    'Skivee',
+    'reinvent innovative ROI',
+    27,
+    591,
+    '2 Butterfield Place',
+    '2/12/2025',
+    '4/24/2026',
+    'aa1a1590-004b-4ddf-bf89-b9138eebb0f3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    889,
+    'Livetube',
+    'grow compelling synergies',
+    59,
+    243,
+    '9 Manley Park',
+    '12/13/2024',
+    '12/13/2025',
+    'fe54388c-0dfd-4c80-bf13-8de760b3bed0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    890,
+    'Skalith',
+    'architect one-to-one schemas',
+    49,
+    270,
+    '67618 Saint Paul Court',
+    '5/7/2026',
+    '3/15/2025',
+    '7b765695-b545-4f61-bb1e-0f8f0782aed2',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    891,
+    'Innojam',
+    'enhance vertical communities',
+    90,
+    760,
+    '343 Pepper Wood Terrace',
+    '2/26/2025',
+    '5/8/2026',
+    '8360863d-249f-47de-a856-dfe942abb601',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    892,
+    'Agimba',
+    'reintermediate web-enabled experiences',
+    15,
+    841,
+    '56370 Dwight Alley',
+    '4/1/2025',
+    '1/10/2026',
+    '1f244207-738b-4610-b2f9-c0f613093b23',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    893,
+    'Gigashots',
+    'implement intuitive experiences',
+    56,
+    943,
+    '3 Monterey Alley',
+    '9/7/2025',
+    '9/11/2025',
+    '1a71cae3-2709-409f-9671-9d7c57cded5c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    894,
+    'Viva',
+    'engage ubiquitous communities',
+    70,
+    784,
+    '421 Clove Crossing',
+    '8/5/2025',
+    '7/29/2025',
+    'e448ab20-08ba-4212-ad0d-aa1151fe5abd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    895,
+    'Babbleopia',
+    'aggregate viral architectures',
+    35,
+    464,
+    '04582 Farragut Center',
+    '3/1/2025',
+    '11/30/2024',
+    'f0714f33-cc5f-4580-b644-562122708439',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    896,
+    'Lazz',
+    'reintermediate sexy synergies',
+    41,
+    65,
+    '266 Grover Parkway',
+    '11/19/2024',
+    '6/15/2025',
+    'dfe2fddb-1804-4d4a-8eee-b877f9708f20',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    897,
+    'Riffpedia',
+    'enhance web-enabled synergies',
+    56,
+    458,
+    '2 Lien Avenue',
+    '7/22/2026',
+    '3/4/2026',
+    '071bf5b8-4489-4480-bd7d-fecbae25e1a0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    898,
+    'Agimba',
+    'leverage cross-platform synergies',
+    50,
+    977,
+    '164 Mosinee Junction',
+    '8/13/2025',
+    '5/15/2026',
+    '973aeab1-4500-47ee-9f8e-65be982e5570',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    899,
+    'Skiba',
+    'extend interactive metrics',
+    30,
+    206,
+    '87 Manitowish Crossing',
+    '9/19/2024',
+    '10/15/2025',
+    '91ec8cc2-dfcf-4170-a0ad-db92346dd2c0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    900,
+    'Flipbug',
+    'e-enable cross-platform e-tailers',
+    38,
+    803,
+    '65653 Corry Center',
+    '10/3/2025',
+    '6/6/2025',
+    '029ce7b8-ef2a-4537-8fb7-b1bb862114e4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    901,
+    'Mudo',
+    'brand synergistic e-business',
+    74,
+    544,
+    '016 Sheridan Street',
+    '6/6/2026',
+    '6/26/2025',
+    '48d0968b-f5f6-4360-b987-170e6db00ee3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    902,
+    'Yodo',
+    'revolutionize e-business methodologies',
+    57,
+    171,
+    '6 Gulseth Junction',
+    '3/28/2026',
+    '7/18/2025',
+    '13abcee8-ff0c-4152-b3f9-929e1899e428',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    903,
+    'Einti',
+    'unleash back-end infrastructures',
+    49,
+    244,
+    '857 Sommers Trail',
+    '6/30/2026',
+    '7/18/2025',
+    '499d50e7-d286-46ba-9a6b-d4dbf94f8872',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    904,
+    'Skilith',
+    'visualize global platforms',
+    6,
+    676,
+    '9361 Dawn Way',
+    '4/22/2026',
+    '5/28/2026',
+    '2460087f-f45f-43f7-b52b-613101dff07d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    905,
+    'Livepath',
+    'implement clicks-and-mortar platforms',
+    78,
+    58,
+    '0 Talisman Hill',
+    '1/20/2025',
+    '7/4/2026',
+    '210b6198-0213-4b63-9353-8cd82af0e3ac',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    906,
+    'Twitterwire',
+    'disintermediate dynamic web services',
+    78,
+    208,
+    '1403 Daystar Circle',
+    '5/23/2026',
+    '2/23/2025',
+    '8172782f-ca20-4152-87de-06ddc9e45bc3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    907,
+    'Feedmix',
+    'generate compelling relationships',
+    20,
+    59,
+    '23 Blue Bill Park Circle',
+    '2/16/2025',
+    '8/9/2025',
+    '0e76249f-9c98-422a-bb72-0dee72457455',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    908,
+    'Kwimbee',
+    'maximize virtual technologies',
+    68,
+    648,
+    '8221 Aberg Lane',
+    '5/27/2026',
+    '10/25/2025',
+    'dd05efe3-755b-4224-8283-beeea01b6eb9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    909,
+    'Skyndu',
+    'reintermediate integrated vortals',
+    49,
+    284,
+    '161 Ludington Place',
+    '11/12/2025',
+    '8/8/2026',
+    '629eba35-b53d-4b63-9e40-f6c6fae497a5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    910,
+    'Zoovu',
+    'synergize extensible portals',
+    37,
+    54,
+    '828 Butternut Trail',
+    '2/23/2026',
+    '5/22/2025',
+    '2d59f387-c820-4b36-b3c5-21d91a1af67b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    911,
+    'Brightbean',
+    'orchestrate extensible platforms',
+    32,
+    744,
+    '7041 Morningstar Plaza',
+    '8/4/2026',
+    '7/9/2026',
+    'd2ae14db-2efe-4bd4-bb60-2a30d3dde9ab',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    912,
+    'Youspan',
+    'seize frictionless niches',
+    67,
+    861,
+    '9943 Carpenter Court',
+    '7/18/2025',
+    '2/9/2025',
+    '770294d2-8212-4334-a470-899137bead0d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    913,
+    'Abata',
+    'syndicate one-to-one applications',
+    81,
+    267,
+    '8114 Brentwood Circle',
+    '4/7/2026',
+    '10/13/2025',
+    '5305900c-fb65-433e-849d-9c301960872d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    914,
+    'Meemm',
+    'implement out-of-the-box bandwidth',
+    49,
+    178,
+    '59223 Kim Point',
+    '4/16/2026',
+    '11/28/2024',
+    '23ba6d30-5453-438a-b082-70b414215612',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    915,
+    'Tavu',
+    'transition transparent e-business',
+    38,
+    110,
+    '734 Sherman Alley',
+    '6/1/2026',
+    '6/20/2025',
+    'b6b744cc-28b1-4ad6-9d5a-c44b71f96d14',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    916,
+    'Flashpoint',
+    'unleash B2C portals',
+    29,
+    406,
+    '65 Anhalt Crossing',
+    '7/25/2026',
+    '11/7/2025',
+    '7e448d6a-51ea-4d42-9d4a-c4445f6a1caf',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    917,
+    'Skiptube',
+    'evolve virtual solutions',
+    97,
+    724,
+    '992 Tennyson Court',
+    '1/27/2026',
+    '6/18/2025',
+    '744008cb-76b6-4a2f-ab70-d73b2263c039',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    918,
+    'Roomm',
+    'drive dynamic solutions',
+    19,
+    109,
+    '68 Swallow Drive',
+    '1/6/2026',
+    '10/19/2024',
+    '8bd894c8-9205-45d6-9a8b-5a6e40967aa3',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    919,
+    'Wikizz',
+    'integrate intuitive networks',
+    27,
+    20,
+    '9 Steensland Court',
+    '11/27/2025',
+    '2/26/2025',
+    '1421499d-83cd-4fa6-9192-776357957184',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    920,
+    'Topicblab',
+    'incentivize extensible vortals',
+    68,
+    946,
+    '6823 Melody Street',
+    '5/19/2026',
+    '4/25/2026',
+    '4504cd63-57db-4d43-bdb8-4c09220ba353',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    921,
+    'Devshare',
+    'reintermediate scalable channels',
+    40,
+    819,
+    '7 Morning Crossing',
+    '12/1/2024',
+    '11/30/2025',
+    'f346f9d8-4414-4790-abcb-dda368d42d98',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    922,
+    'Realbuzz',
+    'engineer mission-critical experiences',
+    43,
+    610,
+    '96 Mallard Court',
+    '4/29/2025',
+    '4/11/2026',
+    '0d4f4591-05ec-4258-bf60-25f874774bbd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    923,
+    'Meembee',
+    'envisioneer bricks-and-clicks eyeballs',
+    7,
+    998,
+    '3414 Starling Junction',
+    '6/30/2025',
+    '5/27/2025',
+    '202cc2dd-4568-493d-8f59-2c53e1d23ceb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    924,
+    'Jayo',
+    'engage user-centric infrastructures',
+    64,
+    376,
+    '90 Sommers Court',
+    '4/23/2026',
+    '11/7/2024',
+    'cc7b048a-e891-4b32-a369-d5e940bbdd75',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    925,
+    'Geba',
+    'empower end-to-end portals',
+    88,
+    325,
+    '51472 Tennyson Circle',
+    '1/31/2025',
+    '2/23/2026',
+    'ca9a7423-5cfb-4d0f-b2d5-667c82937c7e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    926,
+    'Voonyx',
+    'benchmark visionary web-readiness',
+    19,
+    592,
+    '05 Swallow Place',
+    '1/18/2025',
+    '1/23/2026',
+    'dc7d9fd2-6f10-4b1b-a6c7-2be4f1b92253',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    927,
+    'Flipstorm',
+    'empower real-time technologies',
+    80,
+    736,
+    '8423 Gerald Plaza',
+    '2/14/2025',
+    '3/13/2025',
+    'b84f72b9-ed19-4072-9703-659871fde45a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    928,
+    'Katz',
+    'mesh scalable metrics',
+    13,
+    522,
+    '2948 Bayside Street',
+    '3/13/2026',
+    '12/20/2024',
+    'f9203627-f786-46ee-801a-b4f1337c937c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    929,
+    'Jaxspan',
+    'productize transparent users',
+    3,
+    24,
+    '40 Badeau Park',
+    '5/1/2025',
+    '8/17/2025',
+    '650d59de-d1f1-430d-bbf4-44bec389ae9b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    930,
+    'Vidoo',
+    'aggregate rich e-tailers',
+    8,
+    897,
+    '665 Northport Point',
+    '2/9/2025',
+    '12/24/2025',
+    '334f22d0-e434-44b0-b3e7-88f7dd9610dd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    931,
+    'Skipstorm',
+    'orchestrate B2C infrastructures',
+    70,
+    345,
+    '6667 Novick Park',
+    '8/17/2024',
+    '12/13/2025',
+    'f5ea7d77-195c-4d8e-836f-16c764e0edd8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    932,
+    'Brainbox',
+    'reintermediate best-of-breed niches',
+    56,
+    691,
+    '731 Upham Point',
+    '8/10/2025',
+    '1/1/2026',
+    '44483794-266d-4631-bb80-6e763f9709ef',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    933,
+    'Midel',
+    'target seamless synergies',
+    4,
+    436,
+    '6 Meadow Ridge Avenue',
+    '3/30/2026',
+    '3/7/2025',
+    '4d482d3b-96dd-4ca9-bfc3-e680055fd96c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    934,
+    'Mynte',
+    'exploit robust portals',
+    35,
+    290,
+    '1669 Summerview Drive',
+    '6/26/2026',
+    '9/19/2024',
+    'd7252b25-e5da-4b8d-bbd2-1c680be3842d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    935,
+    'Tagcat',
+    'monetize customized e-tailers',
+    72,
+    342,
+    '9331 Clarendon Circle',
+    '6/28/2025',
+    '12/19/2024',
+    '58e650f9-0f06-4eb5-8813-695741ced4d9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    936,
+    'Rhybox',
+    'generate leading-edge e-services',
+    65,
+    740,
+    '5436 Butternut Circle',
+    '7/20/2025',
+    '9/9/2025',
+    'ec1190fc-d553-49d9-986c-21f6bb775b49',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    937,
+    'Twitterwire',
+    'innovate clicks-and-mortar e-markets',
+    22,
+    582,
+    '14 Sloan Plaza',
+    '3/30/2025',
+    '7/22/2025',
+    '5a48d5ab-3808-4c94-b085-33fae3a0f1dc',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    938,
+    'Brainsphere',
+    'benchmark end-to-end bandwidth',
+    96,
+    239,
+    '5 Amoth Street',
+    '12/16/2024',
+    '8/26/2024',
+    '8363d9c2-e3ea-48aa-8f12-dcfa6700a546',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    939,
+    'Trupe',
+    'generate sexy ROI',
+    78,
+    815,
+    '73753 Drewry Hill',
+    '7/4/2025',
+    '1/18/2026',
+    '4451211d-cc24-4004-928e-0ccbee0ab37d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    940,
+    'Jaxworks',
+    'revolutionize cross-platform convergence',
+    60,
+    494,
+    '623 Tomscot Terrace',
+    '11/19/2025',
+    '3/28/2026',
+    '3a41bc4d-bfb4-416a-a3da-c9de05851180',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    941,
+    'Ooba',
+    'monetize world-class e-markets',
+    34,
+    732,
+    '50 Scott Way',
+    '1/22/2025',
+    '8/21/2025',
+    '80d6cd8c-0cd3-438b-aa76-267c69488ac0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    942,
+    'Yoveo',
+    'empower next-generation e-commerce',
+    99,
+    164,
+    '5 Elmside Way',
+    '3/6/2026',
+    '12/18/2024',
+    'fc25ccce-0fbd-4978-a2f2-ed0727408ff8',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    943,
+    'Youfeed',
+    'deliver best-of-breed web-readiness',
+    61,
+    923,
+    '25 Northport Point',
+    '2/12/2026',
+    '6/22/2026',
+    'bde4b996-164f-4338-b04b-9ec89108accb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    944,
+    'Dabvine',
+    'optimize leading-edge paradigms',
+    18,
+    839,
+    '63 Magdeline Junction',
+    '11/29/2024',
+    '1/4/2025',
+    '24967aa3-c822-44af-baee-1f663998d01d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    945,
+    'Yodoo',
+    'harness collaborative models',
+    89,
+    424,
+    '6 Memorial Lane',
+    '9/18/2024',
+    '11/24/2025',
+    '7443216b-129b-49ef-9544-a825a35feb60',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    946,
+    'Photobean',
+    'evolve virtual markets',
+    69,
+    994,
+    '2 Onsgard Park',
+    '5/11/2026',
+    '2/27/2025',
+    '4ba85dc8-65bb-43eb-9ab6-838cdc0e573e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    947,
+    'Centizu',
+    'implement ubiquitous users',
+    77,
+    934,
+    '0727 International Place',
+    '9/12/2024',
+    '8/13/2024',
+    '5ef7ad6e-8003-4331-86cf-a1726819c961',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    948,
+    'Twimm',
+    'evolve user-centric content',
+    32,
+    311,
+    '839 Manitowish Alley',
+    '11/13/2025',
+    '7/18/2025',
+    'd749e5e6-d5d4-45f2-bcf4-087223bf8333',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    949,
+    'Voomm',
+    'exploit one-to-one users',
+    38,
+    677,
+    '0402 Pearson Drive',
+    '2/24/2026',
+    '12/13/2025',
+    '61c98abb-d590-44f8-abfa-db57a99a3326',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    950,
+    'Quinu',
+    'drive one-to-one platforms',
+    54,
+    624,
+    '42 Kedzie Trail',
+    '9/27/2024',
+    '11/12/2025',
+    '3a67f119-229a-409b-b000-91f25f55b4fa',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    951,
+    'Kaymbo',
+    'unleash 24/365 niches',
+    19,
+    243,
+    '240 Summerview Drive',
+    '3/7/2025',
+    '3/26/2026',
+    '1a27c2fd-a502-47cc-bea7-029498528fea',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    952,
+    'Cogibox',
+    'monetize innovative deliverables',
+    29,
+    939,
+    '36 Rigney Crossing',
+    '11/11/2024',
+    '10/29/2024',
+    '96bcef13-18a6-470a-b034-7cb31c37efa7',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    953,
+    'Fivebridge',
+    'brand integrated supply-chains',
+    31,
+    731,
+    '48 Lakewood Gardens Pass',
+    '9/16/2025',
+    '1/16/2026',
+    'a48b82bc-5db8-4618-a743-c002c1f08687',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    954,
+    'Skippad',
+    'cultivate efficient platforms',
+    71,
+    763,
+    '050 Fisk Plaza',
+    '8/10/2026',
+    '8/7/2025',
+    '55855441-cb8b-4f49-ab9a-3668d474becf',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    955,
+    'Roodel',
+    'exploit B2C functionalities',
+    79,
+    740,
+    '7578 Crest Line Parkway',
+    '6/19/2026',
+    '10/19/2025',
+    '62f07f6a-bb46-48da-8bbb-d45a15c75d95',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    956,
+    'Podcat',
+    'streamline turn-key networks',
+    6,
+    674,
+    '653 Dovetail Center',
+    '11/21/2025',
+    '1/4/2026',
+    '950d0a03-b6ea-4082-a198-08dd2f680869',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    957,
+    'Photojam',
+    'mesh mission-critical niches',
+    48,
+    909,
+    '46402 1st Pass',
+    '12/3/2024',
+    '3/17/2026',
+    'b982f20b-a5e9-42bb-92c3-efa5291ea0f4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    958,
+    'Shufflester',
+    'grow killer e-business',
+    69,
+    956,
+    '83 Farmco Park',
+    '12/11/2025',
+    '9/25/2025',
+    '04fc2c4d-68a1-4549-a3a9-c5eb8ea92453',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    959,
+    'Minyx',
+    'whiteboard 24/365 users',
+    51,
+    503,
+    '6 Del Mar Trail',
+    '1/13/2026',
+    '12/19/2025',
+    'ee49e880-29a7-4acf-88c4-0b07f588b912',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    960,
+    'Meezzy',
+    'unleash value-added solutions',
+    16,
+    133,
+    '43992 Merchant Road',
+    '7/18/2025',
+    '3/7/2026',
+    'b63baf36-1bd2-4317-b90b-d4f75d2305d9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    961,
+    'Gabvine',
+    'engineer proactive solutions',
+    77,
+    818,
+    '069 Oak Valley Lane',
+    '9/18/2024',
+    '3/21/2025',
+    'd88b67df-e267-43bb-9239-ca5716c30b27',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    962,
+    'Leexo',
+    'monetize B2C action-items',
+    65,
+    997,
+    '04 Tennyson Point',
+    '10/22/2025',
+    '7/28/2026',
+    'f294065d-a5e3-4c47-8c48-29ba09162f2a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    963,
+    'Quinu',
+    'embrace rich methodologies',
+    21,
+    111,
+    '7 Elgar Point',
+    '2/28/2025',
+    '12/23/2025',
+    'a6914d3e-534a-473f-9839-c10a89b462d0',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    964,
+    'InnoZ',
+    'syndicate real-time channels',
+    45,
+    438,
+    '7 Park Meadow Drive',
+    '11/27/2024',
+    '10/22/2025',
+    '0e8c082f-910b-4a43-b9a1-f05765b2d95e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    965,
+    'Realblab',
+    'monetize value-added partnerships',
+    93,
+    293,
+    '84 Nevada Center',
+    '4/17/2025',
+    '12/17/2024',
+    'f2a64281-a615-4331-abce-fd7c7345d0c5',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    966,
+    'Yombu',
+    'e-enable value-added systems',
+    79,
+    324,
+    '8715 Thompson Terrace',
+    '12/10/2024',
+    '8/7/2025',
+    '53c5e3fb-ec3a-4481-95a6-2e019a6b4767',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    967,
+    'Eamia',
+    'implement frictionless technologies',
+    58,
+    966,
+    '8107 Dawn Avenue',
+    '2/2/2026',
+    '4/24/2025',
+    '326d0a64-3a97-4229-ae8a-da275be504d4',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    968,
+    'Kayveo',
+    'expedite vertical portals',
+    37,
+    374,
+    '315 Oxford Alley',
+    '11/12/2024',
+    '12/21/2025',
+    'e796f261-a3f4-4063-bff0-574fdf0ce241',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    969,
+    'Wikizz',
+    'deliver real-time web services',
+    29,
+    586,
+    '05 Buena Vista Road',
+    '1/16/2025',
+    '4/25/2026',
+    '5f71d549-4276-44db-b9a5-d93972f23a0f',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    970,
+    'Tekfly',
+    'empower extensible channels',
+    59,
+    896,
+    '85202 Heath Parkway',
+    '12/26/2025',
+    '4/5/2026',
+    '2b91c500-1aab-452b-8e22-a65a4e2cd4eb',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    971,
+    'Feedfish',
+    'expedite dynamic initiatives',
+    25,
+    968,
+    '349 Brickson Park Center',
+    '3/28/2026',
+    '1/18/2026',
+    'b0cad05b-971b-4d2e-9efd-732c9d743fd1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    972,
+    'Eazzy',
+    'extend best-of-breed content',
+    52,
+    822,
+    '7408 Burning Wood Plaza',
+    '12/7/2024',
+    '7/23/2026',
+    '4ffe5461-8728-4ba6-8255-0b6a5a1cfd9b',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    973,
+    'Jaloo',
+    'extend e-business convergence',
+    40,
+    6,
+    '606 Dexter Alley',
+    '4/21/2026',
+    '7/12/2025',
+    'fa6adf73-4832-4ef2-b4f0-95d618e44cea',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    974,
+    'Linktype',
+    'visualize visionary eyeballs',
+    95,
+    67,
+    '82 Warbler Circle',
+    '8/24/2025',
+    '3/6/2026',
+    '79300546-d5e5-4660-bf2f-5e5956d3d3f9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    975,
+    'Wikido',
+    'benchmark innovative e-business',
+    16,
+    991,
+    '53985 Crescent Oaks Point',
+    '3/20/2026',
+    '1/24/2026',
+    '13c8d440-ff40-4302-a9b7-144c998e3c89',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    976,
+    'Edgeify',
+    'facilitate cross-media supply-chains',
+    72,
+    832,
+    '7294 Melody Road',
+    '9/1/2024',
+    '10/3/2025',
+    '3116ab29-8d74-4545-98d3-26211afb4906',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    977,
+    'Thoughtstorm',
+    'aggregate wireless systems',
+    38,
+    358,
+    '7071 Oriole Road',
+    '6/18/2026',
+    '1/10/2025',
+    '5fa8f322-ba44-40d3-bc7d-cf61a4fc519e',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    978,
+    'Riffpedia',
+    'architect collaborative synergies',
+    33,
+    762,
+    '129 6th Terrace',
+    '10/9/2025',
+    '11/13/2025',
+    'c784c3d2-ab40-41f9-9830-25daf1f3c944',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    979,
+    'Photobug',
+    'strategize end-to-end applications',
+    99,
+    484,
+    '50440 Gina Hill',
+    '4/27/2025',
+    '7/2/2025',
+    '7e79ba5a-01e4-47a3-a707-a3d259bc227a',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    980,
+    'Buzzshare',
+    'revolutionize global supply-chains',
+    76,
+    420,
+    '3551 Elgar Center',
+    '5/23/2026',
+    '2/25/2025',
+    '22fdce1f-29e1-4f05-89eb-af26f78d147c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    981,
+    'Zoomzone',
+    'redefine distributed e-services',
+    4,
+    126,
+    '298 Calypso Court',
+    '12/16/2025',
+    '12/26/2025',
+    '528d1075-c6d9-45d6-8a27-d0d94399a2e1',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    982,
+    'Quamba',
+    'syndicate bleeding-edge channels',
+    42,
+    480,
+    '9 Forest Dale Circle',
+    '3/12/2026',
+    '5/28/2026',
+    'b076dc23-646e-4b44-bc5e-000e5c642396',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    983,
+    'Oyope',
+    'expedite web-enabled users',
+    51,
+    385,
+    '1299 Canary Plaza',
+    '7/14/2026',
+    '1/8/2025',
+    'e1790e7c-5bb8-44bc-a9ee-ddb1363a9a00',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    984,
+    'Shuffletag',
+    'scale killer e-business',
+    2,
+    717,
+    '27846 Derek Court',
+    '9/8/2025',
+    '5/22/2026',
+    '60b40b5e-b6f9-44c8-a458-076fced7c037',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    985,
+    'Bluejam',
+    'target cross-platform interfaces',
+    19,
+    771,
+    '606 Anzinger Hill',
+    '9/23/2025',
+    '8/23/2024',
+    '3c4bf688-298a-454d-aea7-31c83a2323fd',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    986,
+    'Izio',
+    'synergize ubiquitous ROI',
+    29,
+    16,
+    '4 Wayridge Park',
+    '10/31/2024',
+    '7/14/2026',
+    '72c686ab-3af1-46f3-84eb-f326bf0dffa9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    987,
+    'Shufflester',
+    'e-enable integrated e-markets',
+    46,
+    736,
+    '3 Lake View Alley',
+    '4/10/2026',
+    '10/24/2025',
+    '061ed9f4-3512-4f70-bfea-0985e49294ad',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    988,
+    'Fiveclub',
+    'recontextualize mission-critical technologies',
+    20,
+    385,
+    '94 Arizona Drive',
+    '8/6/2026',
+    '11/6/2025',
+    '76547eb4-370f-4f76-8f42-006b57ccfe86',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    989,
+    'Bubblebox',
+    'harness clicks-and-mortar infrastructures',
+    82,
+    306,
+    '279 Kenwood Circle',
+    '12/3/2024',
+    '4/1/2026',
+    'ef67a4f5-2e44-4828-9080-e69aad0d1816',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    990,
+    'Quimba',
+    'facilitate holistic bandwidth',
+    57,
+    388,
+    '2851 Corben Plaza',
+    '5/6/2026',
+    '2/14/2025',
+    '6c4c6e59-bb62-48ff-817d-19176ca5ea3d',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    991,
+    'Mymm',
+    'enhance virtual web-readiness',
+    42,
+    181,
+    '329 Corscot Street',
+    '8/26/2024',
+    '7/21/2025',
+    '4431a1f0-8f36-47ca-82b3-f6a57cd6c138',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    992,
+    'Midel',
+    'facilitate proactive ROI',
+    96,
+    16,
+    '3578 Mariners Cove Road',
+    '5/1/2026',
+    '8/20/2025',
+    'f714c776-4ab4-4706-b238-0fcc389539b9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    993,
+    'Eadel',
+    'orchestrate intuitive initiatives',
+    93,
+    246,
+    '0 Lawn Center',
+    '4/8/2025',
+    '3/3/2026',
+    'f239920f-fb60-49d6-8383-71dc7b9ca710',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    994,
+    'Topicblab',
+    'incubate customized initiatives',
+    56,
+    959,
+    '00761 Fremont Plaza',
+    '8/20/2025',
+    '12/25/2024',
+    '6f0e5c5d-5ea8-49a7-88d6-b603dac9c9ef',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    995,
+    'Livetube',
+    'transform granular action-items',
+    13,
+    435,
+    '5443 Moland Center',
+    '2/25/2026',
+    '7/4/2026',
+    '3ed65e23-4cdb-49a1-aa35-636ed5dfab7c',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    996,
+    'Thoughtstorm',
+    'strategize web-enabled ROI',
+    65,
+    408,
+    '4721 Packers Junction',
+    '1/26/2025',
+    '1/20/2025',
+    '521c3d4a-ae85-46f4-a889-f94e710a56e9',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    997,
+    'Blogspan',
+    'empower B2B relationships',
+    67,
+    503,
+    '15 Cody Court',
+    '9/21/2024',
+    '4/25/2026',
+    '207ddfe1-3ca6-4a49-ab64-3b823f7a2f72',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    998,
+    'Aivee',
+    'facilitate cross-media e-tailers',
+    15,
+    403,
+    '968 Division Circle',
+    '2/23/2026',
+    '12/21/2025',
+    'e0d50b71-1d5a-44f6-b9a2-fe7bfd424272',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    999,
+    'Fivebridge',
+    'morph turn-key e-markets',
+    71,
+    830,
+    '6 High Crossing Hill',
+    '3/4/2025',
+    '5/29/2026',
+    '15e5cd58-5a70-4ca9-8469-1add95572091',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
+
+INSERT INTO TOURNAMENT (
+    TOURNAMENT_ID,
+    TOURNAMENT_NAME,
+    TOURNAMENT_DESCRIPTION,
+    TOURNAMENT_ENTRANT_LIMIT,
+    TOURNAMENT_GAME_ID,
+    TOURNAMENT_LOCATION,
+    TOURNAMENT_REG_END_DATE,
+    TOURNAMENT_START_DATE,
+    TOURNAMENT_THUMBNAIL,
+    TOURNAMENT_USERS,
+    TOURNAMENT_OWNERS
+) VALUES (
+    1000,
+    'Devshare',
+    'transition magnetic content',
+    87,
+    994,
+    '1529 Merchant Junction',
+    '8/19/2025',
+    '8/18/2025',
+    '6a9443fa-82b8-4676-b789-a6a50b3ce6df',
+    '{1,2,3,4,5,6,7,8,9,10}',
+    '{1,2,3,4,5,6,7,8,9,10}'
+);
